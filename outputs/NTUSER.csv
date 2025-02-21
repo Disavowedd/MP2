@@ -1,0 +1,3485 @@
+adobe v.20200522
+(NTUSER.DAT) Gets user's Adobe app cRecentFiles values
+
+Could not access Software\Adobe\Adobe Acrobat\\AVGeneral\cRecentFiles
+
+Could not access Software\Adobe\Acrobat Reader\\AVGeneral\cRecentFiles
+
+----------------------------------------
+allowedenum v.20200511
+(NTUSER.DAT, Software) Extracts AllowedEnumeration values to determine hidden special folders
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\AllowedEnumeration not found.
+Microsoft\Windows\CurrentVersion\Explorer\AllowedEnumeration not found.
+----------------------------------------
+appassoc v.20200515
+- Gets contents of user's ApplicationAssociationToasts key
+
+LastWrite: 2014-11-25 16:50:39Z
+
+IE.HTTP_http
+IE.HTTPS_https
+ChromeHTML_http
+ChromeHTML_https
+Msi.Package_.msi
+7-Zip.zip_.zip
+CompressedFolder_.zip
+VLC.asf_.asf
+VLC.ape_.ape
+VLC.aob_.aob
+VLC.3ga_.3ga
+VLC.adt_.adt
+VLC.amv_.amv
+VLC.669_.669
+VLC.au_.au
+VLC.3gpp_.3gpp
+VLC.aac_.aac
+VLC.aif_.aif
+VLC.adts_.adts
+VLC.ac3_.ac3
+VLC.amr_.amr
+VLC.a52_.a52
+VLC.aiff_.aiff
+VLC.asx_.asx
+VLC.cda_.cda
+VLC.caf_.caf
+VLC.3g2_.3g2
+VLC.gxf_.gxf
+VLC.aifc_.aifc
+VLC.avi_.avi
+VLC.3gp2_.3gp2
+VLC.flac_.flac
+VLC.divx_.divx
+VLC.dts_.dts
+VLC.it_.it
+VLC.bin_.bin
+VLC.3gp_.3gp
+VLC.cue_.cue
+VLC.b4s_.b4s
+VLC.gvi_.gvi
+VLC.f4v_.f4v
+VLC.dv_.dv
+VLC.ifo_.ifo
+VLC.drc_.drc
+VLC.flv_.flv
+VLC.m2t_.m2t
+VLC.m1v_.m1v
+VLC.m2v_.m2v
+VLC.m3u8_.m3u8
+VLC.m3u_.m3u
+VLC.mid_.mid
+VLC.mkv_.mkv
+VLC.mka_.mka
+VLC.m4v_.m4v
+VLC.mlp_.mlp
+VLC.mod_.mod
+VLC.mov_.mov
+VLC.mp2_.mp2
+VLC.mp1_.mp1
+VLC.m4p_.m4p
+VLC.m2ts_.m2ts
+VLC.m4a_.m4a
+VLC.mp2v_.mp2v
+VLC.mp4_.mp4
+VLC.mp3_.mp3
+VLC.mp4v_.mp4v
+VLC.mpa_.mpa
+VLC.mpe_.mpe
+VLC.mpc_.mpc
+VLC.mpeg4_.mpeg4
+VLC.mpeg_.mpeg
+VLC.mpeg2_.mpeg2
+VLC.mpeg1_.mpeg1
+VLC.mpg_.mpg
+VLC.mpv2_.mpv2
+VLC.mtv_.mtv
+VLC.mxf_.mxf
+VLC.nsv_.nsv
+VLC.mts_.mts
+VLC.nuv_.nuv
+VLC.oga_.oga
+VLC.mpga_.mpga
+VLC.ogv_.ogv
+VLC.opus_.opus
+VLC.ogx_.ogx
+VLC.ogm_.ogm
+VLC.ogg_.ogg
+VLC.oma_.oma
+VLC.sdp_.sdp
+VLC.pls_.pls
+VLC.ra_.ra
+VLC.qcp_.qcp
+VLC.ram_.ram
+VLC.rmi_.rmi
+VLC.rm_.rm
+VLC.rmvb_.rmvb
+VLC.s3m_.s3m
+VLC.snd_.snd
+VLC.tta_.tta
+VLC.ts_.ts
+VLC.tod_.tod
+VLC.spx_.spx
+VLC.tts_.tts
+VLC.vob_.vob
+VLC.voc_.voc
+VLC.vro_.vro
+VLC.vlc_.vlc
+VLC.vqf_.vqf
+VLC.w64_.w64
+VLC.rec_.rec
+VLC.wav_.wav
+VLC.webm_.webm
+VLC.wmv_.wmv
+VLC.xesc_.xesc
+VLC.xspf_.xspf
+VLC.xa_.xa
+VLC.wv_.wv
+VLC.wvx_.wvx
+VLC.xm_.xm
+VLC.wma_.wma
+OpusCertificateFile_.opuscert
+VisualStudio.Launcher.vsix_.vsix
+AppX86746z2101ayy2ygv3g96e4eqdf8r99j_.pdf
+SumatraPDF_.pdf
+VisualStudio.xml.12.0_.xml
+xmlfile_.xml
+Applications\EditPadPro7.exe_.xml
+txtfile_.txt
+VisualStudio.txt.12.0_.txt
+textfile_.txt
+ChromeHTML_.html
+IE.AssocFile.HTM_.html
+htmlfile_.html
+VisualStudio.html.12.0_.html
+Excel.CSV_.csv
+ChromeHTML_mailto
+AppXsbbgnfsv7a3rcbwghq3vyv59fy0tkn5a_mailto
+Postbox.Url.mailto_mailto
+RDP.File_.rdp
+VisualStudio.json.12.0_.json
+Applications\EditPadPro7.exe_.json
+Excel.Sheet.12_.xlsx
+Word.Document.12_.docx
+docxfile_.docx
+AppXhjhjmgrfm2d7rd026az898dy2p1pcsyt_.mpg
+WMP11.AssocFile.MPEG_.mpg
+pngfile_.png
+Microsoft.PhotoManager.imagetype_.png
+7-Zip.gz_.gz
+ChromeHTML_.htm
+IE.AssocFile.HTM_.htm
+htmlfile_.htm
+VisualStudio.htm.12.0_.htm
+VisualStudio.ico.12.0_.ico
+PBrush_.ico
+SnagIt.12.Picture_.ico
+icofile_.ico
+7-Zip.7z_.7z
+regfile_.reg
+paltalk_paltalk
+inifile_.ini
+Applications\EditPadPro7.exe_.ini
+VisualStudio.css.12.0_.css
+Applications\EditPadPro7.exe_.css
+AppXhjhjmgrfm2d7rd026az898dy2p1pcsyt_.avi
+Microsoft.PhotoManager.videotype_.avi
+WMP11.AssocFile.AVI_.avi
+7-Zip.rar_.rar
+SmartInspect_.sil
+jpegfile_.jpg
+Microsoft.PhotoManager.imagetype_.jpg
+PowerPoint.Show.12_.pptx
+Application.Reference_.appref-ms
+CERFile_.crt
+VisualStudio.txt.10.0_.txt
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.mp3
+WMP11.AssocFile.MP3_.mp3
+AppXhjhjmgrfm2d7rd026az898dy2p1pcsyt_.MOV
+Microsoft.PhotoManager.videotype_.MOV
+WMP11.AssocFile.MOV_.MOV
+tsv_auto_file_.tsv
+PowerPoint.Show.8_.ppt
+ChromeHTML_ftp
+IE.FTP_ftp
+----------------------------------------
+appcompatflags v.20200525
+(NTUSER.DAT, Software) Extracts AppCompatFlags for Windows.
+
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers
+LastWrite Time 2014-10-16 20:05:16Z
+
+C:\xwf\xwforensics.exe -> RUNASADMIN
+C:\Users\eric\Desktop\ANJPv3_PE_201405.exe -> $ IgnoreFreeLibrary<Wx.dll>
+C:\Program Files (x86)\Event Log Explorer\elex.exe -> DisableNXShowUI
+
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store
+  2013-08-21 23:53:01Z - SIGN.IE=0E0490 ChromeSetup.exe
+  2013-08-21 23:53:01Z - SIGN.IE=067A0C0 ClassicShellSetup_4_1_0.exe
+  2013-08-22 06:57:05Z - C:\Users\eric\Desktop\7z920-x64.msi
+  2013-08-22 06:57:05Z - C:\Program Files\7-Zip\7zFM.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Samsung\Samsung Magician\Samsung Magician.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\SetupRST.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\SetupChipset.exe
+  2013-08-21 23:53:01Z - D:\Drivers\MEI_Win7_8_8.1_9.5.24.1790_1.5M\Setup.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\Fences_2.12_setup_sd.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\DisplayFusionSetup-6.0.0-Beta6.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\mbam-setup-2.0.1.1004.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\ClipboardFusionSetup-3.0.5.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\SetupEditPadPro731EricPeterson.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\postbox-3.0.9-win32.exe
+  2013-08-21 23:53:01Z - D:\Dropbox\!Software\ProcessExplorer\procexp.exe
+  2013-08-21 23:53:01Z - D:\Dropbox\!Software\MozBackup\MozBackup.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Postbox\postbox.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\snagit.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\SumatraPDF-2.5.2-install.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\TortoiseSVN-1.8.7.25475-x64-svn-1.8.9.msi
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\vlc-2.1.3-win32.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\en_visual_studio_professional_2013_with_update_2_x86_web_installer_4238044.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\SpotifySetup.exe
+  2013-08-21 23:53:01Z - D:\temp\en_office_professional_plus_2013_x86_dvd_1123673\setup.exe
+  2013-08-21 23:53:01Z - D:\Dropbox\osTriageInstaller.exe
+  2013-08-22 06:57:05Z - C:\Users\eric\Desktop\AnkhSvn-2.5.12440.msi
+  2013-08-22 06:57:05Z - C:\Users\eric\Desktop\ReSharperSetup.8.2.0.2160.msi
+  2013-08-22 06:57:05Z - C:\Users\eric\Desktop\LightSpeed50Professional-20140520.msi
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\IPWorksSSLV9NETEdition.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\IPWorksV9NETEdition.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\IPWorksZipV9NETEdition.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\SkypeSetupFull.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\DotNETToolbelt.exe
+  2013-08-22 06:57:05Z - C:\Program Files\Red Gate\ANTS Memory Profiler 8\RedGate.MemoryProfiler.UI.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Common Files\Microsoft Shared\MSEnv\VSLauncher.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\DevExpressComponents-13.2.9.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\AppLifeUpdate_5_0_0_5.msi
+  2013-08-22 06:57:05Z - C:\Program Files (x86)\Infragistics\2014.1\Version Utility\Infragistics.VersionUtility.UI.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Infragistics\2014.1\Windows Forms\Toolbox Utility\ToolboxUtilityCommandLine.exe
+  2013-08-22 06:57:05Z - C:\Program Files (x86)\DevExpress 13.2\Components\Tools\Components\ProjectConverter.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\NCrunch_VS2013_2.7.0.5.msi
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\sipro-3.3.6.143.exe
+  2013-08-21 23:53:01Z - D:\Dropbox\!Software\xwfim\XWFIM.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Gurock Software\SmartInspect Professional\SmartInspectConsole.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\Citrix Online Launcher.exe
+  2013-08-21 23:53:01Z - D:\Dropbox (Personal)\!Software\ZoomIt.exe
+  2013-08-21 23:53:01Z - C:\temp\XWFRT.exe
+  2013-08-21 23:53:01Z - D:\temp\mtd4949\Work product\ThunderbirdPortable_24.5.0_English.paf.exe
+  2013-08-21 23:53:01Z - D:\temp\mtd4949\Work product\ThunderbirdPortable\ThunderbirdPortable.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\SetupRegexBuddy410EricPeterson.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\SetupPowerGREP4EricPeterson.exe
+  2013-08-21 23:53:01Z - SIGN.MEDIA=903E68 DirectSolution\ThunderbirdPortable_24.5.0_English.paf.exe
+  2013-08-21 23:53:01Z - SIGN.MEDIA=53F9B DirectSolution\ThunderbirdPortable\ThunderbirdPortable.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\GarminExpressInstaller.exe
+  2013-08-21 23:53:01Z - D:\Dropbox (Personal)\Kitty\kitty.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\SetupRegexMagic202EricPeterson.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\ANJPv3_PE_201405.exe
+  2013-08-22 06:57:05Z - C:\ProjectWorkingFolder\osTriage2\trunk\osTriage2\CopyDLLs.bat
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\OzCode_0.9.4325.6716_75877.exe
+  2013-08-22 06:57:05Z - C:\Program Files\Just Great Software\PowerGREP4\PowerGREP4.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\SetupRegexBuddy411EricPeterson.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\F-Response\F-Response TACTICAL\tac-manager.exe
+  2013-08-21 23:53:01Z - SIGN.MEDIA=257CA40 TACTICAL Examiner\f-response-tacex.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\TeamViewer_Setup_en.exe
+  2013-08-22 06:57:05Z - C:\Users\eric\Desktop\chromeremotedesktophost.msi
+  2013-08-21 23:53:01Z - D:\Dropbox (Personal)\!Software\GOON\GOON.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\OzCode_1.0.4423.3818_76321.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\AnkhSvn-2.5.12471.17.msi
+  2013-08-21 23:53:01Z - SIGN.IE=021601B0 ue_english.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\DevExpressComponents-14.1.4.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\DevExpress 13.2\Components\DevExpressComponents-13.2.9.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\DevExpress 14.1\Components\Tools\ToolboxCreator.exe
+  2013-08-21 23:53:01Z - D:\Dropbox (Personal)\!Software\ProcessExplorer\procexp.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\AppData\Local\Temp\Directory Opus Updates\DOpusInstall-x64-b0005-0.exe
+  2013-08-22 06:57:05Z - C:\Users\eric\AppData\Local\Temp\DPrunOnce_76112764.cmd
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\SetupImgBurn_2.5.8.0.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\ImgBurn\ImgBurn.exe
+  2013-08-22 06:57:05Z - C:\ProjectWorkingFolder\XWFManager\XWFManager\trunk\XWFManager\bin\Debug\XWFIM.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\LightSpeed50Professional-20140708.msi
+  2013-08-21 23:53:01Z - D:\Dropbox (Personal)\!DfirPermalinks\XWFRT.exe
+  2013-08-22 06:57:05Z - C:\ProgramData\TechSmith\Updater\Installers\snagit.msi
+  2013-08-21 23:53:01Z - SIGN.MEDIA=2C67F1 xwfportable\xwforensics.exe
+  2013-08-22 06:57:05Z - C:\Program Files (x86)\AppLife Update\MakeUpdate\Kjs.AppLife.Update.MakeUpdate.UI.exe
+  2013-08-22 06:57:05Z - C:\Users\eric\Desktop\ReSharperSetup.8.2.1000.4556.msi
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\BCompare-4.0.0.18509.exe
+  2013-08-22 06:57:05Z - C:\Users\eric\Desktop\Arsenal_Image_Mounter-MountTool_v1.0.015\Arsenal_Image_Mounter-MountTool_v1.0.015\ArsenalImageMounterMountTool.exe
+  2013-08-22 06:57:05Z - D:\Forensics\Arsenal_Image_Mounter-MountTool_v1.0.015\ArsenalImageMounterControl.exe
+  2013-08-22 06:57:05Z - D:\Forensics\Arsenal_Image_Mounter-MountTool_v1.0.015\ArsenalImageMounterMountTool.exe
+  2013-08-22 06:57:05Z - D:\temp\XWFRT.exe
+  2013-08-21 23:53:01Z - D:\Dropbox (Personal)\osTriageInstaller.exe
+  2013-08-22 06:57:05Z - C:\Users\eric\Desktop\osTriage2\osTriage2.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Google\Chrome\Application\35.0.1916.153\delegate_execute.exe
+  2013-08-21 23:53:01Z - D:\Dropbox (Personal)\Kitty\WinSCP.exe
+  2013-08-21 23:53:01Z - C:\ProjectWorkingFolder\ConsoleApplication6\ConsoleApplication6\bin\Non SA\ConsoleApplication6.exe
+  2013-08-21 23:53:01Z - C:\ProjectWorkingFolder\ConsoleApplication6\ConsoleApplication6\bin\ConsoleApplication6_SA.exe
+  2013-08-21 23:53:01Z - C:\ProjectWorkingFolder\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+  2013-08-21 23:53:01Z - D:\Dropbox (Personal)\!Software\SetupEditPadPro732EricPeterson.exe
+  2013-08-21 23:53:01Z - D:\Dropbox (Personal)\!Software\DCode.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\VMware-workstation-full-10.0.3-1895310.exe
+  2013-08-21 23:53:01Z - D:\temp\TZWORKS\bin\regripper\rr.exe
+  2013-08-21 23:53:01Z - D:\Convert.exe
+  2013-08-21 23:53:01Z - D:\temp\ShellBagsExplorer.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\Aid4Mail_Setup (1).exe
+  2013-08-21 23:53:01Z - C:\xwf1\xwforensics.exe
+  2013-08-21 23:53:01Z - C:\temp\New Folder\mplayer.exe
+  2013-08-21 23:53:01Z - C:\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer\bin\x86\Release\ShellBagsExplorer.exe
+  2013-08-22 06:57:05Z - D:\Dropbox (Personal)\!Software\xwfim\XWFIM.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\VideoLAN\VLC\vlc.exe
+  2013-08-22 06:57:05Z - C:\Users\eric\Desktop\SerialWizard_0.6.x\SerialWizard.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\XMLSpyProf2014_x64.exe
+  2013-08-22 06:57:05Z - C:\Program Files\Altova\XMLSpy2014\XMLSpy.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\VS2013.3.exe
+  2013-08-22 06:57:05Z - F:\EverythingSearch\Everything.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\AppData\Roaming\ClipboardFusion\ClipboardFusionSetup.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\DevExpressComponents-14.1.6.exe
+  2013-08-21 23:53:01Z - D:\temp\Installer.exe
+  2013-08-21 23:53:01Z - D:\temp\GOON\GOON.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Malwarebytes Anti-Malware\mbampt.exe
+  2013-08-21 23:53:01Z - D:\temp\WebBrowserPassView.exe
+  2013-08-22 06:57:05Z - D:\temp\netpass64.exe
+  2013-08-22 06:57:05Z - D:\temp\USBDeview64.exe
+  2013-08-21 23:53:01Z - D:\temp\MyLastSearch.exe
+  2013-08-21 23:53:01Z - D:\temp\mspass.exe
+  2013-08-21 23:53:01Z - D:\temp\mailpv.exe
+  2013-08-22 06:57:05Z - D:\temp\cports64.exe
+  2013-08-22 06:57:05Z - D:\temp\BrowsingHistoryView64.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\SmartWhois\sw.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\TeamViewer\Version9\TeamViewer.exe
+  2013-08-21 23:53:01Z - D:\Dropbox (Personal)\!Software\TrueCrypt Setup 7.1a.exe
+  2013-08-21 23:53:01Z - C:\Program Files\TrueCrypt\TrueCrypt.exe
+  2013-08-21 23:53:01Z - D:\temp\osTriage2002 BETA.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\New folder\SkypeLogView.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\navicat111_sqlite_en_x64.exe
+  2013-08-21 23:53:01Z - D:\Dropbox (Personal)\Installer.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\TechSmith\Snagit 12\Snagit32.exe
+  2013-08-21 23:53:01Z - D:\Dropbox (Personal)\!Software\SkypeAlyzer\SkypeAlyzerSetup 1.2.28.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Sanderson Forensics\SkypeAlyzer\SkypeAlyzer.exe
+  2013-08-22 06:57:05Z - SIGN.MEDIA=44E209D osTriage2\osTriage2.exe
+  2013-08-21 23:53:01Z - SIGN.MEDIA=2B95A4 xwfportable\xwforensics.exe
+  2013-08-21 23:53:01Z - SIGN.MEDIA=2875A4 xwfportable\xwforensics.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\AppData\Local\Temp\Directory Opus Updates\DOpusInstall-x64-b0006-0.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\pal_install_r109860_a3000.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Paltalk Messenger\paltalk.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\eMule0.50a-Installer.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\eMule\emule.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\AppData\Local\Temp\dtemp-cfe5fb70348480968-60.dop\eMuleTotalParser_0.2.7.6_64bit.exe
+  2013-08-22 06:57:05Z - C:\eMTP\eMTP_0.2.7.6_64bit.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\sipro-3.3.7.150.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\ReSharperSetup.8.2.2000.5102.msi
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\ShellBagsExplorer.exe
+  2013-08-21 23:53:01Z - D:\temp\osTriage2 BETA 2002.exe
+  2013-08-21 23:53:01Z - D:\temp\BrowsingHistoryView.exe
+  2013-08-21 23:53:01Z - D:\temp\Convert Полиморфизм Mac Cyrillic.exe
+  2013-08-21 23:53:01Z - D:\Dropbox (Personal)\!Software\SetupEditPadPro734EricPeterson.exe
+  2013-08-22 06:57:05Z - C:\Users\eric\Desktop\winrar-x64-511.exe
+  2013-08-22 06:57:05Z - C:\Program Files\WinRAR\WinRAR.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\AppData\Local\Temp\dtemp-188df960280372609-60.dop\ShellBagsExplorer.exe
+  2013-08-21 23:53:01Z - D:\temp\osTriage2RunToExtract.exe
+  2013-08-22 06:57:05Z - D:\temp\osTriage2\osTriage2.exe
+  2013-08-21 23:53:01Z - SIGN.MEDIA=10EA6A2 xwfim\XWFIM.exe
+  2013-08-21 23:53:01Z - D:\Dropbox (Personal)\temp\osTriage2RunToExtract.exe
+  2013-08-22 06:57:05Z - C:\ProjectWorkingFolder\eMule Parser\eMule Parser\bin\eMuleParser.exe
+  2013-08-22 06:57:05Z - C:\ProjectWorkingFolder\eMule Parser\eMule Parser\bin\Debug\eMuleParser.exe
+  2013-08-22 06:57:05Z - D:\Dropbox (Personal)\temp\eMuleParser.exe
+  2013-08-21 23:53:01Z - C:\temp\ShellBagsExplorer.exe
+  2013-08-22 06:57:05Z - C:\temp\eMuleParser.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\ShellBags Explorer\ShellBagsExplorer.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\setup.exe
+  2013-08-22 06:57:05Z - C:\Users\eric\AppData\Local\Apps\2.0\D5V65YL6.LZN\2N737RWB.LYA\hubs..tion_aec5b07adc78d00c_0002.0005_bacd17c7cd437f45\Hubstream.Intelligence.Agent.exe
+  2013-08-21 23:53:01Z - C:\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer\bin\ShellBagsExplorer.exe
+  2013-08-22 06:57:05Z - D:\Forensics\eMuleParser.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\DU Meter\DUMeter.exe
+  2013-08-22 06:57:05Z - D:\Dropbox (Personal)\!Software\Hasher\hasher.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\DOpusInstall64.exe
+  2013-08-21 23:53:01Z - D:\Dropbox (Personal)\!Software\Yaru\yaru.exe
+  2013-08-21 23:53:01Z - D:\Dropbox (Personal)\!Software\FTK Imager\FTK Imager.exe
+  2013-08-21 23:53:01Z - C:\xwf\winhex.exe
+  2013-08-21 23:53:01Z - C:\20140924101127_xwf_Backup\WinHex.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\ccsetup417.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Google\Chrome\Application\37.0.2062.120\delegate_execute.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\XMLSpyProf2015_x64.exe
+  2013-08-22 06:57:05Z - C:\Program Files\Altova\XMLSpy2015\XMLSpy.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Beyond Compare 4\BCompare.exe
+  2013-08-21 23:53:01Z - SIGN.IE=01E9198 CuteWriter.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\uTorrent.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\AppData\Roaming\uTorrent\uTorrent.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\AppData\Roaming\Spotify\spotify.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Infragistics\2014.2\Windows Forms\Toolbox Utility\ToolboxUtilityCommandLine.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\DevExpressComponents-14.1.7.exe
+  2013-08-22 06:57:05Z - C:\Users\eric\Desktop\ReSharperAndToolsPacked01Eap1.exe
+  2013-08-22 06:57:05Z - C:\temp\RamCapture64.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Malwarebytes Anti-Malware\mbam.exe
+  2013-08-21 23:53:01Z - C:\eMTP\uninstall.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Paltalk Messenger\uninstall.exe
+  2013-08-21 23:53:01Z - C:\ProgramData\Package Cache\{940596e5-652a-4970-8a5a-492e73ed0fbb}\MobileTools_EmulatorWP81.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\DropboxInstaller.exe
+  2013-08-21 23:53:01Z - D:\Forensics\regripper\rr.exe
+  2013-08-21 23:53:01Z - D:\Forensics\rrv2.8\rr.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\ue_english.exe
+  2013-08-22 06:57:05Z - C:\Program Files (x86)\Mandiant\Highlighter\Highlighter.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Event Log Explorer\elex.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\Setup_Tableau_Firmware_Update_v7_08.msi
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Tableau\Tableau Firmware Update\tabup.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\288\2\evtx_view.exe
+  2013-08-21 23:53:01Z - D:\Dropbox (Personal)\Kitty\kitty_portable.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\SetupEditPadPro735EricPeterson.exe
+  2013-08-22 06:57:05Z - C:\Program Files\Just Great Software\EditPad Pro 7\EditPadPro7.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\installer_jdownloader_one.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\installer_jdownloader_two.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\AmazonMusicInstaller.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\SetupRegexBuddy420EricPeterson.exe
+  2013-08-22 06:57:05Z - C:\Program Files\Just Great Software\RegexMagic 2\RegexMagic2.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\SetupPowerGREP462EricPeterson.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\SetupRegexMagic210EricPeterson.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\TortoiseSVN-1.8.8.25755-x64-svn-1.8.10.msi
+  2013-08-22 06:57:05Z - C:\Users\eric\Desktop\ReSharperAndToolsPacked1EAP 2.exe
+  2013-08-22 06:57:05Z - C:\Program Files\GPSoftware\Directory Opus\dopusrt.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\AppData\Local\Amazon Music\Amazon Music.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\VSIsoShell.exe
+  2013-08-22 06:57:05Z - D:\LINQPad4\LINQPad.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\SumatraPDF-3.0-install.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\SumatraPDF\SumatraPDF.exe
+  2013-08-22 06:57:05Z - C:\Users\eric\Desktop\ReSharperAndToolsPacked1EAP 3_1.exe
+  2013-08-21 23:53:01Z - C:\Program Files\Red Gate\SmartAssembly 6\SmartAssembly.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\PeStudio841\PeStudio.exe
+  2013-08-22 06:57:05Z - C:\Program Files\Just Great Software\RegexBuddy4\RegexBuddy4.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\AppData\Local\Temp\SkypeSetup.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\TechSmith\Snagit 12\SnagPriv.exe
+  2013-08-21 23:53:01Z - SIGN.MEDIA=7699F8 SanDiskSecureAccessV2_win.exe
+  2013-08-22 06:57:05Z - C:\Program Files\GPSoftware\Directory Opus\dopus.exe
+  2013-08-22 06:57:05Z - C:\Program Files\CCleaner\CCleaner64.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\ccsetup419.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\IDM Computer Solutions\UltraEdit\Uedit32.exe
+  2013-08-21 23:53:01Z - D:\Dropbox (Personal)\!Software\GOON2\GOON2.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\DevExpressComponents-14.1.8.exe
+  2013-08-22 06:57:05Z - C:\Program Files (x86)\DevExpress 14.1\Components\Tools\Components\ProjectConverter.exe
+  2013-08-22 06:57:05Z - C:\Users\eric\Desktop\ReSharperAndToolsPacked1EAP 4.exe
+  2013-08-21 23:53:01Z - C:\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer\bin\Debug\ShellBagsExplorer.exe
+  2013-08-21 23:53:01Z - C:\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer\bin\x86\Debug\ShellBagsExplorer.exe
+  2013-08-21 23:53:01Z - D:\Dropbox (Personal)\temp\betas\SBECmd.exe
+  2013-08-22 06:57:05Z - C:\Users\eric\Desktop\ReSharperAndToolsBootstrapper01.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\SkypeSetup.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\DUMeter-Install.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Microsoft Office\Office15\EXCEL.EXE
+  2013-08-21 23:53:01Z - C:\Users\eric\AppData\Local\Temp\Directory Opus Updates\DOpusInstall-x64-b0008-0.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\VS2013.4.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\devenv.exe
+  2013-08-21 23:53:01Z - D:\temp\ShellBagsExplorer\ShellBagsExplorer.exe
+  2013-08-21 23:53:01Z - C:\20141113084945_xwf_Backup\xwforensics.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Fookes Software\Aid4Mail3\Aid4Mail.exe
+  2013-08-22 06:57:05Z - C:\Program Files\PremiumSoft\Navicat for SQLite\navicat.exe
+  2013-08-22 06:57:05Z - C:\Users\eric\Desktop\ReSharperAndToolsPacked01EAP 7.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\RoboForm-Setup.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Google\Chrome\Application\38.0.2125.111\delegate_execute.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Microsoft Office\Office15\WINWORD.EXE
+  2013-08-22 06:57:05Z - C:\Users\eric\Desktop\TimeLord\Application Files\TimeLord_0_1_5_6\TimeLord.exe
+  2013-08-22 06:57:05Z - C:\xwf\xwforensics64.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\AnkhSvn-2.5.12478.msi
+  2013-08-22 06:57:05Z - D:\Dropbox (Personal)\!Software\TimeApp.exe
+  2013-08-21 23:53:01Z - D:\Forensics\ShellBagsExplorer.exe
+  2013-08-21 23:53:01Z - C:\ProjectWorkingFolder\ShellBagsExplorer\SBE\bin\SBECmd.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Microsoft Office\Office15\POWERPNT.EXE
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\DevExpressUniversalTrial-20141106.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\DevExpressCodeRush-14.1.8.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\DevExpress 14.1\CodeRush\DevExpressCodeRush-14.1.8.exe
+  2013-08-22 06:57:05Z - C:\Users\eric\AppData\Local\JetBrains\Installations\ReSharperPlatformVs12_000\JetBrains.Platform.Installer.exe
+  2013-08-22 06:57:05Z - C:\Users\eric\Desktop\ReSharperAndToolsBootstrapper01_EAP8.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\VMware\VMware Workstation\vmware.exe
+  2013-08-21 23:53:01Z - C:\ProgramData\Garmin\Core Update Service\APP-express-windows-3.2.5.0\GarminExpressInstaller.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\TeamViewer\TeamViewer.exe
+  2013-08-22 06:57:05Z - C:\ProjectWorkingFolder\ErdelyDump2\bin\Debug\ErdelyDump2.exe
+  2013-08-21 23:53:01Z - C:\xwf\xwforensics.exe
+  2013-08-22 06:57:05Z - C:\Program Files (x86)\DisplayFusion\DisplayFusion.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\DevExpress 14.1\Components\DevExpressComponents-14.1.8.exe
+  2013-08-21 23:53:01Z - C:\ProgramData\Package Cache\{166a69f6-6512-47ea-a342-17d954fc059a}\MobileTools_EmulatorWP81.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\DevExpressComponents-14.2.3.exe
+  2013-08-21 23:53:01Z - C:\Program Files (x86)\Skype\Phone\Skype.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\DevExpressCodeRush-14.2.3.exe
+  2013-08-22 06:57:05Z - F:\xwfim\XWFIM.exe
+  2013-08-22 06:57:05Z - C:\Program Files (x86)\Red Gate\.NET Reflector\Desktop 8.3\Reflector.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\Desktop\GitHubSetup.exe
+  2013-08-21 23:53:01Z - C:\Users\eric\AppData\Local\Apps\2.0\2X8RJDNE.Q9M\ZTMY44TP.L6K\gith..tion_317444273a93ac29_0002.0006_322e607d54d660d4\GitHub.exe
+----------------------------------------
+appkeys v.20200517
+(NTUSER.DAT, Software) Extracts AppKeys entries.
+
+----------------------------------------
+applets v.20200525
+(NTUSER.DAT) Gets contents of user's Applets key
+
+Applets
+Software\Microsoft\Windows\CurrentVersion\Applets
+LastWrite Time 2014-09-16 02:20:01Z
+
+Software\Microsoft\Windows\CurrentVersion\Applets\Paint\Recent File List not found.
+
+Software\Microsoft\Windows\CurrentVersion\Applets\Regedit
+LastWrite Time 2014-11-07 18:10:37Z
+RegEdit LastKey value -> Computer\HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\Shell\BagMRU\1
+----------------------------------------
+apppaths v.20200511
+(NTUSER.DAT,Software) Gets content of App Paths subkeys
+
+----------------------------------------
+Software\Microsoft\IntelliPoint\AppSpecific not found.
+----------------------------------------
+appx v.20200427
+(NTUSER.DAT, USRCLASS.DAT) Checks for persistence via Universal Windows Platform Apps
+
+----------------------------------------
+arpcache v.20200515
+(NTUSER.DAT) Retrieves CurrentVersion\App Management\ARPCache entries
+
+Software\Microsoft\Windows\CurrentVersion\App Management\ARPCache not found.
+----------------------------------------
+attachmgr v.20200525
+(NTUSER.DAT) Checks user's keys that manage the Attachment Manager functionality
+
+Software\Microsoft\Windows\CurrentVersion\Policies\Associations not found.
+
+Software\Microsoft\Windows\CurrentVersion\Policies\Attachments not found.
+
+----------------------------------------
+cached v.20200525
+(NTUSER.DAT) Gets cached Shell Extensions from NTUSER.DAT hive
+
+Software\Microsoft\Windows\CurrentVersion\Shell Extensions\Cached
+LastWrite Time 2014-11-25 16:51:36Z
+
+2014-05-20 14:19:39Z  First Load: {4234D49B-0245-4DF3-B780-3893943456E1} (IShellFolder)
+2014-05-20 14:19:41Z  First Load: {ED228FDF-9EA8-4870-83B1-96B02CFE0D52} (IShellFolder)
+2014-05-20 14:19:41Z  First Load: {04731B67-D933-450A-90E6-4ACD2E9408FE} (IDelegateFolder)
+2014-05-20 14:19:41Z  First Load: {98F275B4-4FFF-11E0-89E2-7B86DFD72085} (IShellFolder)
+2014-05-20 14:19:41Z  First Load: {C2B136E2-D50E-405C-8784-363C582BF43E} (IDelegateFolder)
+2014-05-20 14:19:42Z  First Load: {2227A280-3AEA-1069-A2DE-08002B30309D} (IShellFolder)
+2014-05-20 14:19:42Z  First Load: {C7657C4A-9F68-40FA-A4DF-96BC08EB3551} ({E357FCCD-A995-4576-B01F-234630154E96})
+2014-05-20 14:19:42Z  First Load: {871C5380-42A0-1069-A2EA-08002B30309D} (IShellFolder)
+2014-05-20 14:19:42Z  First Load: {F02C1A0D-BE21-4350-88B0-7367FC96EF3C} (IShellFolder)
+2014-05-20 14:19:42Z  First Load: {E345F35F-9397-435C-8F95-4E922C26259E} (IShellFolder)
+2014-05-20 14:19:42Z  First Load: {B2952B16-0E07-4E5A-B993-58C52CB94CAE} (IShellFolder)
+2014-05-20 14:20:03Z  First Load: {FBF23B40-E3F0-101B-8488-00AA003E56F8} (IShellLinkW)
+2014-05-20 14:20:06Z  First Load: {17FE9752-0B5A-4665-84CD-569794602F5C} (IExecuteCommand)
+2014-05-20 14:20:08Z  First Load: {FF393560-C2A7-11CF-BFF4-444553540000} (IShellFolder)
+2014-05-20 14:20:35Z  First Load: {9C73F5E5-7AE7-4E32-A8E8-8D23B85255BF} (IShellFolder)
+2014-05-20 14:23:22Z  First Load: {596AB062-B4D2-4215-9F74-E9109B0A8153} (IContextMenu)
+2014-05-20 14:23:23Z  First Load: {40DD6E20-7C17-11CE-A804-00AA003CA9F6} (IShellCopyHookW)
+2014-05-20 14:23:23Z  First Load: {D9144DCD-E998-4ECA-AB6A-DCD83CCBA16D} (IShellIconOverlayIdentifier)
+2014-05-20 14:23:23Z  First Load: {4E77131D-3629-431C-9818-C5679DC83E81} (IShellIconOverlayIdentifier)
+2014-05-20 14:23:23Z  First Load: {E44E9428-BDBC-4987-A099-40DC8FD255E7} ({6A283FE2-ECFA-4599-91C4-E80957137B26})
+2014-05-20 14:23:41Z  First Load: {BD84B380-8CA2-1069-AB1D-08000948F534} (IShellFolder)
+2014-05-20 14:23:55Z  First Load: {289AF617-1CC3-42A6-926C-E6A863F0E3BA} (IDelegateFolder)
+2014-05-20 14:23:55Z  First Load: {35786D3C-B075-49B9-88DD-029876E11C01} (IDelegateFolder)
+2014-05-20 14:23:55Z  First Load: {594D4122-1F87-41E2-96C7-825FB4796516} (IShellIconOverlayIdentifier)
+2014-05-20 14:24:37Z  First Load: {2781761E-28E0-4109-99FE-B9D127C57AFE} ({56FFCC30-D398-11D0-B2AE-00A0C908FA49})
+2014-05-20 14:25:42Z  First Load: {11DBB47C-A525-400B-9E80-A54615A090C0} (IExecuteCommand)
+2014-05-20 14:25:42Z  First Load: {553891B7-A0D5-4526-BE18-D3CE461D6310} ({EB0FE172-1A3A-11D0-89B3-00A0C90A90AC})
+2014-05-20 14:25:45Z  First Load: {15FC1BAC-8D83-4E87-8CC2-A70C9F66F943} ({05B2F74E-2712-46BA-BCA3-F65A46BF0E00})
+2014-05-20 14:26:00Z  First Load: {FBF23B40-E3F0-101B-8488-00AA003E56F8} (IExtractIconW)
+2014-05-20 14:26:21Z  First Load: {474C98EE-CF3D-41F5-80E3-4AAB0AB04301} (IContextMenu)
+2014-05-20 14:26:21Z  First Load: {E595F05F-903F-4318-8B0A-7F633B520D2B} (IContextMenu)
+2014-05-20 14:26:21Z  First Load: {85BBD920-42A0-1069-A2E4-08002B30309D} (IContextMenu)
+2014-05-20 14:26:21Z  First Load: {B7373566-8FF2-45D8-AF1F-DA39F289BCF9} (IExplorerCommand)
+2014-05-20 14:26:21Z  First Load: {9113A02D-00A3-46B9-BC5F-9C04DADDD5D7} (IDelegateFolder)
+2014-05-20 14:26:24Z  First Load: {2854F705-3548-414C-A113-93E27C808C85} (IContextMenu)
+2014-05-20 14:26:28Z  First Load: {E61BF828-5E63-4287-BEF1-60B1A4FDE0E3} (IContextMenu)
+2014-05-20 14:26:28Z  First Load: {F81E9010-6EA4-11CE-A7FF-00AA003CA9F6} (IContextMenu)
+2014-05-20 14:26:28Z  First Load: {99D353BC-C813-41EC-8F28-EAE61E702E57} (IExplorerCommand)
+2014-05-20 14:26:28Z  First Load: {888DCA60-FC0A-11CF-8F0F-00C04FD7D062} (IDropTarget)
+2014-05-20 14:26:28Z  First Load: {9E56BE61-C50F-11CF-9A2C-00A0C90A90CE} (IDropTarget)
+2014-05-20 14:26:28Z  First Load: {ECF03A32-103D-11D2-854D-006008059367} (IDropTarget)
+2014-05-20 14:26:28Z  First Load: {9E56BE60-C50F-11CF-9A2C-00A0C90A90CE} (IDropTarget)
+2014-05-20 14:26:31Z  First Load: {5E2121EE-0300-11D4-8D3B-444553540000} (IContextMenu)
+2014-05-20 14:26:32Z  First Load: {BD472F60-27FA-11CF-B8B4-444553540000} (IContextMenu)
+2014-05-20 14:26:32Z  First Load: {8C83ACB1-75C3-45D2-882C-EFA32333491C} (IContextMenu)
+2014-05-20 14:26:40Z  First Load: {A38B883C-1682-497E-97B0-0A3A9E801682} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2014-05-20 14:27:21Z  First Load: {939D20AC-8036-406F-BD5C-BF672896BD71} (IExplorerCommand)
+2014-05-20 14:27:33Z  First Load: {5C65F4B0-3651-4514-B207-D10CB699B14B} (IExecuteCommand)
+2014-05-20 14:28:34Z  First Load: {1D27F844-3A1F-4410-85AC-14651078412D} (IContextMenu)
+2014-05-20 14:28:42Z  First Load: {23170F69-40C1-278A-1000-000100020000} (IContextMenu)
+2014-05-20 14:28:55Z  First Load: {E88DCCE0-B7B3-11D1-A9F0-00AA0060FA31} (IShellFolder)
+2014-05-20 14:28:55Z  First Load: {E44E9428-BDBC-4987-A099-40DC8FD255E7} (IExecuteCommand)
+2014-05-20 14:31:38Z  First Load: {3CF9ECE0-1A9F-11D2-8C73-00C06C2005DE} ({000214FB-0000-0000-C000-000000000046})
+2014-05-20 14:33:06Z  First Load: {E9FE4040-3C93-11D4-8006-00201860E88A} (IContextMenu)
+2014-05-20 14:34:56Z  First Load: {BD7A2E7B-21CB-41B2-A086-B309680C6B7E} (IShellFolder)
+2014-05-20 14:34:56Z  First Load: {11016101-E366-4D22-BC06-4ADA335C892B} (IShellFolder)
+2014-05-20 14:35:08Z  First Load: {EE761688-C137-4B04-8FAB-3C9CDF0886F0} ({000214FB-0000-0000-C000-000000000046})
+2014-05-20 14:44:24Z  First Load: {513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8} ({000214E9-0000-0000-C000-000000000046})
+2014-05-20 14:44:24Z  First Load: {85BBD920-42A0-1069-A2E4-08002B30309D} ({000214E9-0000-0000-C000-000000000046})
+2014-05-20 14:44:24Z  First Load: {7444C719-39BF-11D1-8CD9-00C04FC29D45} ({000214E9-0000-0000-C000-000000000046})
+2014-05-20 14:44:24Z  First Load: {748F920F-FB24-4D09-B360-BAF6F199AD6D} ({000214E9-0000-0000-C000-000000000046})
+2014-05-20 14:44:24Z  First Load: {1F2E5C40-9550-11CE-99D2-00AA006E086C} ({000214E9-0000-0000-C000-000000000046})
+2014-05-20 14:44:24Z  First Load: {3EA48300-8CF6-101B-84FB-666CCB9BCD32} ({000214E9-0000-0000-C000-000000000046})
+2014-05-20 14:44:24Z  First Load: {596AB062-B4D2-4215-9F74-E9109B0A8153} ({000214E9-0000-0000-C000-000000000046})
+2014-05-20 14:44:24Z  First Load: {7EFA68C6-086B-43E1-A2D2-55A113531240} ({000214E9-0000-0000-C000-000000000046})
+2014-05-20 14:47:00Z  First Load: {EE761688-C137-4B04-8FAB-3C9CDF0886F0} ({000214F5-0000-0000-C000-000000000046})
+2014-05-20 14:48:21Z  First Load: {0BF754AA-C967-445C-AB3D-D8FDA9BAE7EF} (IContextMenu)
+2014-05-20 14:48:21Z  First Load: {B9DD4945-1BED-4CB7-994C-F40B72B7725A} (IContextMenu)
+2014-05-20 14:55:16Z  First Load: {1984DD45-52CF-49CD-AB77-18F378FEA264} (IContextMenu)
+2014-05-20 14:58:09Z  First Load: {57CE581A-0CB6-4266-9CA0-19364C90A0B3} (IContextMenu)
+2014-05-20 15:04:35Z  First Load: {FB314ED9-A251-47B7-93E1-CDD82E34AF8B} (IShellIconOverlayIdentifier)
+2014-05-20 15:04:35Z  First Load: {FB314EDA-A251-47B7-93E1-CDD82E34AF8B} (IShellIconOverlayIdentifier)
+2014-05-20 15:04:35Z  First Load: {FB314EDB-A251-47B7-93E1-CDD82E34AF8B} (IShellIconOverlayIdentifier)
+2014-05-20 15:04:35Z  First Load: {FB314EDC-A251-47B7-93E1-CDD82E34AF8B} (IShellIconOverlayIdentifier)
+2014-05-20 15:06:23Z  First Load: {0CD7A5C0-9F37-11CE-AE65-08002B2E1262} (IShellFolder)
+2014-05-20 15:10:31Z  First Load: {1E589E9D-8A8D-46D9-A2F9-E6D4F8161EE9} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2014-05-20 15:11:08Z  First Load: {F81E9010-6EA4-11CE-A7FF-00AA003CA9F6} ({000214E9-0000-0000-C000-000000000046})
+2014-05-20 15:11:08Z  First Load: {4A7DED0A-AD25-11D0-98A8-0800361B1103} ({000214E9-0000-0000-C000-000000000046})
+2014-05-20 15:11:08Z  First Load: {ECCDF543-45CC-11CE-B9BF-0080C87CDBA6} ({000214E9-0000-0000-C000-000000000046})
+2014-05-20 15:13:08Z  First Load: {FB314ED9-A251-47B7-93E1-CDD82E34AF8B} (IContextMenu)
+2014-05-20 15:27:28Z  First Load: {CF74B903-3389-469C-B3B6-0204D204FCBD} (IContextMenu)
+2014-05-20 15:29:55Z  First Load: {30351349-7B7D-4FCC-81B4-1E394CA267EB} (IContextMenu)
+2014-05-20 15:30:51Z  First Load: {30351349-7B7D-4FCC-81B4-1E394CA267EB} (IShellCopyHookW)
+2014-05-20 15:35:36Z  First Load: {3035134A-7B7D-4FCC-81B4-1E394CA267EB} (IContextMenu)
+2014-05-20 15:37:20Z  First Load: {C5994560-53D9-4125-87C9-F193FC689CB2} (IShellIconOverlayIdentifier)
+2014-05-20 15:37:20Z  First Load: {C5994561-53D9-4125-87C9-F193FC689CB2} (IShellIconOverlayIdentifier)
+2014-05-20 15:37:20Z  First Load: {C5994562-53D9-4125-87C9-F193FC689CB2} (IShellIconOverlayIdentifier)
+2014-05-20 15:37:20Z  First Load: {C5994563-53D9-4125-87C9-F193FC689CB2} (IShellIconOverlayIdentifier)
+2014-05-20 15:37:20Z  First Load: {C5994564-53D9-4125-87C9-F193FC689CB2} (IShellIconOverlayIdentifier)
+2014-05-20 15:37:20Z  First Load: {C5994565-53D9-4125-87C9-F193FC689CB2} (IShellIconOverlayIdentifier)
+2014-05-20 15:37:20Z  First Load: {C5994566-53D9-4125-87C9-F193FC689CB2} (IShellIconOverlayIdentifier)
+2014-05-20 15:37:20Z  First Load: {C5994567-53D9-4125-87C9-F193FC689CB2} (IShellIconOverlayIdentifier)
+2014-05-20 15:37:20Z  First Load: {C5994568-53D9-4125-87C9-F193FC689CB2} (IShellIconOverlayIdentifier)
+2014-05-20 15:54:34Z  First Load: {30351349-7B7D-4FCC-81B4-1E394CA267EB} ({000214EF-0000-0000-C000-000000000046})
+2014-05-20 15:58:58Z  First Load: {573FFD05-2805-47C2-BCE0-5F19512BEB8D} (IExplorerCommandState)
+2014-05-20 18:09:18Z  First Load: {30351349-7B7D-4FCC-81B4-1E394CA267EB} ({000214E9-0000-0000-C000-000000000046})
+2014-05-20 18:10:25Z  First Load: {8D80504A-0826-40C5-97E1-EBC68F953792} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2014-05-20 18:12:06Z  First Load: {9A2B23E4-2A50-48DB-B3C3-F5EA12947CB8} (IExtractIconW)
+2014-05-20 18:22:17Z  First Load: {BBD5F00E-26A6-4FB2-BAE1-31543C0BEA47} (IExtractIconW)
+2014-05-20 18:27:21Z  First Load: {E7E4BC40-E76A-11CE-A9BB-00AA004AE837} (IShellFolder)
+2014-05-20 18:46:42Z  First Load: {8BA85C75-763B-4103-94EB-9470F12FE0F7} (IShellIconOverlayIdentifier)
+2014-05-20 18:46:42Z  First Load: {CD55129A-B1A1-438E-A425-CEBC7DC684EE} (IShellIconOverlayIdentifier)
+2014-05-20 18:46:42Z  First Load: {E768CD3B-BDDC-436D-9C13-E1B39CA257B1} (IShellIconOverlayIdentifier)
+2014-05-20 22:11:48Z  First Load: {7B81BE6A-CE2B-4676-A29E-EB907A5126C5} (IShellFolder)
+2014-05-21 12:36:56Z  First Load: {49C407EF-78B9-4C82-A40B-2FE02F8E771D} ({E357FCCD-A995-4576-B01F-234630154E96})
+2014-05-21 13:32:28Z  First Load: {C41662BB-1FA0-4CE0-8DC5-9B7F8279FF97} ({BB2E617C-0920-11D1-9A0B-00C04FC2D6C1})
+2014-05-21 13:47:28Z  First Load: {993BE281-6695-4BA5-8A2A-7AACBFAAB69E} ({0000013A-0000-0000-C000-000000000046})
+2014-05-21 13:57:02Z  First Load: {40DD6E20-7C17-11CE-A804-00AA003CA9F6} ({000214EF-0000-0000-C000-000000000046})
+2014-05-21 16:31:15Z  First Load: {97E467B4-98C6-4F19-9588-161B7773D6F6} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2014-05-21 16:34:10Z  First Load: {42042206-2D85-11D3-8CFF-005004838597} (IExtractIconW)
+2014-05-21 17:22:14Z  First Load: {005A3A96-BAC4-4B0A-94EA-C0CE100EA736} (IDropTarget)
+2014-05-22 13:33:34Z  First Load: {FFE2A43C-56B9-4BF5-9A79-CC6D4285608A} (IContextMenu)
+2014-05-22 13:33:34Z  First Load: {FFE2A43C-56B9-4BF5-9A79-CC6D4285608A} (IDropTarget)
+2014-05-23 20:15:44Z  First Load: {D6791A63-E7E2-4FEE-BF52-5DED8E86E9B8} (IContextMenu)
+2014-05-23 20:15:44Z  First Load: {59099400-57FF-11CE-BD94-0020AF85B590} (IContextMenu)
+2014-05-27 17:56:18Z  First Load: {89D83576-6BD1-4C86-9454-BEB04E94C819} (IShellFolder)
+2014-05-27 17:56:18Z  First Load: {863AA9FD-42DF-457B-8E4D-0DE1B8015C60} (IShellFolder)
+2014-05-27 21:27:36Z  First Load: {FBF23B40-E3F0-101B-8488-00AA003E56F8} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2014-06-25 18:56:17Z  First Load: {E46787A1-4629-4423-A693-BE1F003B2742} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2014-06-25 20:39:06Z  First Load: {F81B1B56-7613-4EE4-BC05-1FAB5DE5C07E} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2014-06-27 15:40:47Z  First Load: {2C673043-FC2E-4D67-8920-517D24DEBD2C} ({05B2F74E-2712-46BA-BCA3-F65A46BF0E00})
+2014-06-27 15:47:30Z  First Load: {E598560B-28D5-46AA-A14A-8A3BEA34B576} (IContextMenu)
+2014-06-27 15:47:30Z  First Load: {7AD84985-87B4-4A16-BE58-8B72A5B390F7} (IContextMenu)
+2014-07-01 14:44:39Z  First Load: {9A2B23E4-2A50-48DB-B3C3-F5EA12947CB8} ({0000013A-0000-0000-C000-000000000046})
+2014-07-01 14:44:46Z  First Load: {B5EEDEE0-C06E-11CF-8C56-444553540000} (IContextMenu)
+2014-07-07 13:07:51Z  First Load: {55B3A0BD-4D28-42FE-8CFB-FA3EDFF969B8} ({000214E9-0000-0000-C000-000000000046})
+2014-07-07 13:07:51Z  First Load: {7988B573-EC89-11CF-9C00-00AA00A14F56} ({000214E9-0000-0000-C000-000000000046})
+2014-07-07 14:02:16Z  First Load: {3CF9ECE0-1A9F-11D2-8C73-00C06C2005DE} ({000214F5-0000-0000-C000-000000000046})
+2014-07-08 19:22:38Z  First Load: {F85D7E1E-9662-4B38-B1AE-3CF1E9581A3C} (IDropTarget)
+2014-07-08 21:02:59Z  First Load: {FBF23B40-E3F0-101B-8488-00AA003E56F8} (IContextMenu)
+2014-07-10 20:04:45Z  First Load: {E2FB4720-F45F-4A3C-8CB2-2060E12425C3} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2014-07-10 20:46:23Z  First Load: {FBF23B40-E3F0-101B-8488-00AA003E56F8} ({00021500-0000-0000-C000-000000000046})
+2014-07-14 21:18:58Z  First Load: {57FA2D12-D22D-490A-805A-5CB48E84F12A} (IContextMenu)
+2014-07-15 14:20:40Z  First Load: {0E32D9F9-10FB-4B90-8B24-826B07B084D0} (IExplorerCommand)
+2014-07-15 14:20:40Z  First Load: {69375D35-B310-40FD-A7DC-9548E1DBC3B5} (IExplorerCommand)
+2014-07-15 14:20:40Z  First Load: {35A5E985-12E6-46EE-B385-E887F3940FB0} (IExplorerCommand)
+2014-07-15 14:29:17Z  First Load: {9343812E-1C37-4A49-A12E-4B2D810D956B} (IShellFolder)
+2014-07-24 18:35:28Z  First Load: {1D2680C9-0E2A-469D-B787-065558BC7D43} (IShellFolder)
+2014-07-29 13:15:56Z  First Load: {CFBFAE00-17A6-11D0-99CB-00C04FD64497} ({AC60F6A0-0FD9-11D0-99CB-00C04FD64497})
+2014-07-30 20:19:36Z  First Load: {ED9D80B9-D157-457B-9192-0E7280313BF0} (IDropTarget)
+2014-08-02 22:26:06Z  First Load: {7A80E4A8-8005-11D2-BCF8-00C04F72C717} (IExtractIconW)
+2014-08-06 20:49:32Z  First Load: {E4D28EDC-8C0B-43EE-9E7D-C8A8682334DC} (IContextMenu)
+2014-08-07 16:04:42Z  First Load: {83D96563-DB11-42DF-92F9-32CE7BA54ED8} (IDropTarget)
+2014-08-08 12:22:17Z  First Load: {F0152790-D56E-4445-850E-4F3117DB740C} ({000214E9-0000-0000-C000-000000000046})
+2014-08-20 13:05:59Z  First Load: {AEB16279-B750-48F1-8586-97956060175A} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2014-08-28 17:58:04Z  First Load: {3F30C968-480A-4C6C-862D-EFC0897BB84B} ({BB2E617C-0920-11D1-9A0B-00C04FC2D6C1})
+2014-09-05 14:20:45Z  First Load: {88C6C381-2E85-11D0-94DE-444553540000} (IShellFolder)
+2014-09-05 14:20:46Z  First Load: {F5175861-2688-11D0-9C5E-00AA00A45957} (IShellFolder)
+2014-09-12 12:55:22Z  First Load: {8BE9F5EA-E746-4E47-AD57-3FB191CA1EED} ({358B0897-FF98-48E7-9CA7-0F1D980BFB56})
+2014-09-12 22:44:31Z  First Load: {B41DB860-64E4-11D2-9906-E49FADC173CA} (IContextMenu)
+2014-09-15 13:18:45Z  First Load: {B41DB860-8EE4-11D2-9906-E49FADC173CA} (IContextMenu)
+2014-09-17 21:20:37Z  First Load: {E82A2D71-5B2F-43A0-97B8-81BE15854DE8} (IShellLinkW)
+2014-09-17 21:20:37Z  First Load: {E37E2028-CE1A-4F42-AF05-6CEABC4E5D75} (IExtractIconW)
+2014-09-23 19:36:37Z  First Load: {CEEFEA1B-3E29-4EF1-B34C-FEC79C4F70AF} ({01B8912E-05CD-4EB2-8B4B-9112E8C2A8BE})
+2014-09-23 20:49:48Z  First Load: {4C8CC9CB-80CA-4E16-9F60-F5EB55092361} (IExplorerCommand)
+2014-09-23 20:49:48Z  First Load: {7B0C11A0-2FAF-40D4-9FE5-28FA27C85442} (IExplorerCommand)
+2014-09-23 20:49:48Z  First Load: {3613F1D2-C9A5-4F41-A070-E5BB823B2E5B} (IExplorerCommand)
+2014-09-23 20:49:48Z  First Load: {10E59D21-3860-4ED8-BD52-883E116A892E} (IExplorerCommand)
+2014-09-23 20:49:48Z  First Load: {DF46C02A-3568-4765-AAD3-88F5E1D42F92} (IExplorerCommand)
+2014-09-23 20:49:48Z  First Load: {C7F2FB0F-ACC2-4DDF-9D8A-5E6E80D61024} (IExplorerCommand)
+2014-09-23 20:49:48Z  First Load: {7C127AC8-EC8D-40F2-91D0-B791CFC2397B} (IExplorerCommand)
+2014-09-23 20:49:48Z  First Load: {A38E6420-19EC-490C-B4BF-51673C360213} (IExplorerCommand)
+2014-09-23 20:49:48Z  First Load: {87AB8051-37BD-4E70-83C0-1E4F9AE1D37D} (IExplorerCommand)
+2014-09-23 20:49:48Z  First Load: {D509C21A-B88C-4AD1-8FAD-D6A7572728E5} (IExplorerCommand)
+2014-09-23 20:49:48Z  First Load: {576C5669-E07F-4A1B-9A7A-8F85D944283B} (IExplorerCommand)
+2014-09-23 20:49:48Z  First Load: {652527C4-4A72-4BD3-BFAB-4B06AB172D7C} (IExplorerCommand)
+2014-09-23 20:49:48Z  First Load: {CC3FA696-93B8-4745-B935-0599ACB97747} (IExplorerCommand)
+2014-09-25 17:02:01Z  First Load: {E82A2D71-5B2F-43A0-97B8-81BE15854DE8} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2014-10-16 17:02:39Z  First Load: {FB314EDD-A251-47B7-93E1-CDD82E34AF8B} (IShellIconOverlayIdentifier)
+2014-10-16 17:02:39Z  First Load: {FB314EDE-A251-47B7-93E1-CDD82E34AF8B} (IShellIconOverlayIdentifier)
+2014-10-16 17:02:39Z  First Load: {FB314EDF-A251-47B7-93E1-CDD82E34AF8B} (IShellIconOverlayIdentifier)
+2014-10-16 17:02:39Z  First Load: {FB314EE0-A251-47B7-93E1-CDD82E34AF8B} (IShellIconOverlayIdentifier)
+2014-10-24 16:32:58Z  First Load: {7007ACC7-3202-11D1-AAD2-00805FC1270E} (IShellFolder)
+2014-11-04 15:51:50Z  First Load: {C120DE80-FDE4-49F5-A713-E902EF062B8A} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2014-11-25 16:51:36Z  First Load: {871C5380-42A0-1069-A2EA-08002B30309D} (IContextMenu)
+----------------------------------------
+cmdproc v.20200515
+(NTUSER.DAT) Autostart - get Command Processor\AutoRun value from NTUSER.DAT hive
+
+Software\Microsoft\Command Processor
+LastWrite Time 2014-05-20 14:19:35Z
+AutoRun value not found.
+----------------------------------------
+comdlg32 v.20200517
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32
+LastWrite Time 2014-05-20 15:21:50Z
+CIDSizeMRU
+LastWrite: 2014-12-08 13:43:37Z
+Note: All value names are listed in MRUListEx order.
+
+  devenv.exe
+  snagiteditor.exe
+  ShellBagsExplorer.vshost.exe
+  postbox.exe
+  Kjs.AppLife.Update.MakeUpdate.UI.exe
+  {2C2B5BDC-CC12-49CD-8887-C6536BDDCFF3}
+  xwforensics.exe
+  Skype.exe
+  EditPadPro7.exe
+  chrome.exe
+  vmware.exe
+  SumatraPDF.exe
+  ShellBagsExplorer.exe
+  {E91E2A02-2A32-4640-9A06-8F92C0AAD835}
+  {041A58F1-5B94-426F-8F4F-0250AC969788}
+  Aid4Mail.exe
+  OpenWith.exe
+  SmartAssembly.exe
+  Infragistics.VersionUtility.UI.exe
+  kitty_portable.exe
+  ArsenalImageMounterMountTool.exe
+  elex.exe
+  WinHex.exe
+  Highlighter.exe
+  rr.exe
+  cpwsave.exe
+  FTK Imager.exe
+  emule.exe
+  vlc.exe
+  Hasher.vshost.exe
+  Hubstream.Intelligence.Agent.exe
+  TortoiseProc.exe
+  ImgBurn.exe
+  mbam.exe
+  navicat.exe
+  SkypeAlyzer.exe
+  TrueCrypt.exe
+  TrueCrypt Format.exe
+  iexplore.exe
+  dopus.exe
+  SerialWizard.exe
+  xwforensics64.exe
+  BCompare.exe
+  XWFRT.exe
+  GOON2.exe
+  XWFRT.vshost.exe
+  PowerGREP4.exe
+  RegexBuddy4.exe
+  ProjectConverter.exe
+  MozBackup.exe
+
+FirstFolder
+LastWrite time: 2014-11-25 15:31:02Z
+Note: All value names are listed in MRUListEx order.
+
+  C:\Program Files (x86)\VMware\VMware Workstation\vmware.exe J:\Windows 7 x64 Gigatribe 
+  C:\20141113084945_xwf_Backup\xwforensics.exe  
+  C:\xwf\WinHex.exe  
+  C:\Program Files (x86)\Event Log Explorer\elex.exe C:\Users\eric\Documents 
+  C:\PROGRA~2\ACROSO~1\CUTEPD~1\cpwsave.exe J:\ICS\ 
+  C:\Program Files (x86)\Malwarebytes Anti-Malware\mbam.exe C:\Windows\system32 
+  C:\Program Files (x86)\Sanderson Forensics\SkypeAlyzer\SkypeAlyzer.exe C:\Users\eric\Documents 
+  C:\xwf\xwforensics64.exe  
+  C:\Program Files (x86)\Beyond Compare 4\BCompare.exe C:\Users\eric\Desktop 
+  C:\Program Files (x86)\TechSmith\Snagit 12\snagiteditor.exe  
+  C:\Program Files (x86)\VideoLAN\VLC\vlc.exe C:\Users\eric\Documents 
+  C:\Program Files (x86)\Google\Chrome\Application\chrome.exe  
+  C:\Program Files (x86)\Postbox\postbox.exe  
+  C:\xwf\xwforensics.exe  
+  D:\Dropbox\!Software\MozBackup\MozBackup.exe  
+
+LastVisitedPidlMRU
+LastWrite time: 2014-12-08 13:43:37Z
+Note: All value names are listed in MRUListEx order.
+
+  devenv.exe - My Computer\C:\ProjectWorkingFolder\Registry
+  ShellBagsExplorer.vshost.exe - My Computer\D:\Dropbox (Personal)\usrclass examples\Hives for lunch
+  postbox.exe - My Computer\S:\!!Temp
+  Kjs.AppLife.Update.MakeUpdate.UI.exe - My Computer\C:\ProjectWorkingFolder\XWFManager\XWFManager\trunk\XWFManager
+  {2C2B5BDC-CC12-49CD-8887-C6536BDDCFF3} - My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer
+  Skype.exe - My Computer\D:\Dropbox (Personal)
+  EditPadPro7.exe - My Computer\D:\Dropbox (Personal)
+  chrome.exe - 
+  vmware.exe - My Computer\J:\Windows 7 x64 Gigatribe
+  ShellBagsExplorer.exe - My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data
+  {E91E2A02-2A32-4640-9A06-8F92C0AAD835} - My Computer\C:\Users\eric\Desktop
+  {041A58F1-5B94-426F-8F4F-0250AC969788} - 
+  Aid4Mail.exe - 
+  OpenWith.exe - My Computer\C:\Program Files (x86)\Microsoft Office\Office15
+  SmartAssembly.exe - My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\SBE
+  Infragistics.VersionUtility.UI.exe - My Computer\C:\ProjectWorkingFolder\GOON2
+  kitty_portable.exe - 
+  xwforensics.exe - My Computer\I:\XWCases
+  Highlighter.exe - My Computer\CLSID_Documents
+  rr.exe - 288\1
+  FTK Imager.exe - 
+  vlc.exe - 
+  Hasher.vshost.exe - My Computer\U:\Infragistics Icons\SoftwareComputing\Set 1\ExternalHardDrive
+  Hubstream.Intelligence.Agent.exe - My Computer\D:\Dropbox (Personal)\hubstream
+  ImgBurn.exe - 
+
+LastVisitedPidlMRU
+LastWrite time: 2014-12-08 13:25:55Z
+Note: All value names are listed in MRUListEx order.
+
+  snagiteditor.exe - My Computer\J:\reciepts
+  xwforensics.exe - My Computer\D:\XWImages
+  ArsenalImageMounterMountTool.exe - My Computer\D:\XWImages\SU-5632698\14257-6 Images
+  elex.exe - 288\2
+  WinHex.exe - 288\2
+  cpwsave.exe - My Computer\J:\ICS
+  SkypeAlyzer.exe - My Computer\C:\Users\eric\AppData\Roaming\Skype\ericpeterson87
+  xwforensics64.exe - My Computer\C:\XWCases
+  BCompare.exe - Users
+  MozBackup.exe - My Computer\D:\Dropbox
+
+OpenSavePidlMRU
+LastWrite time: 2014-11-25 15:31:07Z
+OpenSavePidlMRU\*
+LastWrite Time: Mon Dec  8 13:43:37 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\ProjectWorkingFolder\Registry\Registry.sln
+  My Computer\J:\reciepts\Hotel.png
+  My Computer\D:\Dropbox (Personal)\usrclass examples\Hives for lunch\UsrClass unknown stuff lee history vault websites.dat
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\!Strange\Donald\NTUSER.DAT
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\!Strange\Donald\UsrClass.dat
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\!working\DaveB_UsrClass.dat
+  aa\UsrClass 1.dat
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\!working\DanP_1UsrClass.dat
+  My Computer\D:\Dropbox (Personal)\usrclass examples\Hives for lunch\UsrClass CDburn UNC fat filesystem .dat
+  My Computer\S:\!!Temp\ptviola50.zip
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\UsrClassJimW2.dat
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\UsrClassWin10.dat
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\10\UsrClass (8).dat
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\!working\UsrClass_2 beef0010.dat
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\10\UsrClass (9).dat
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\10\UsrClass (3).dat
+  My Computer\U:\Infragistics Icons\Office\Locations\Calendar\_Master\Calendar24.png
+  My Computer\U:\Infragistics Icons\Office\Locations\Folder Base (Adorner in Front)\Folder (Adorner in front) Information\Folder (Adorner in front) Information24.png
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\UsrClass BEEF000E.dat
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\!Strange\erzUsrClass (2 unk blocks).dat
+
+OpenSavePidlMRU\001
+LastWrite Time: Mon Jul  7 13:01:53 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\D:\Hard disk 5, Partition 1.001
+  My Computer\D:\XWImages\Seagate FreeAgent GoFlex.001
+
+OpenSavePidlMRU\7z
+LastWrite Time: Thu Aug 28 18:15:29 2014
+Note: All value names are listed in MRUListEx order.
+
+  com.sgiggle.Tango.7z
+  pics17.8.7z
+  pics 17.7 sr7.7z
+
+OpenSavePidlMRU\ad1
+LastWrite Time: Wed Sep 24 14:08:57 2014
+Note: All value names are listed in MRUListEx order.
+
+  SANS508-USRCLASS-NTUSER.ad1
+
+OpenSavePidlMRU\asc
+LastWrite Time: Thu Oct 16 15:36:27 2014
+Note: All value names are listed in MRUListEx order.
+
+  gmgarner_at_gmgsystemsinc_dot_com.asc
+  My Computer\D:\Dropbox (Personal)\GnuPG\keys\keyserver1.pgp.comGlobalDirectoryKey.asc
+  My Computer\D:\Dropbox (Personal)\GnuPG\keys\Eric_Peterson_keypair.asc
+  My Computer\D:\Dropbox (Personal)\GnuPG\keys\ericpeterson87@gmail.com (0x24E22AFC) rev.asc
+  My Computer\C:\temp\LlallawgFyrddin.asc
+  DF04B457.asc
+
+OpenSavePidlMRU\aup
+LastWrite Time: Wed Nov 26 22:51:11 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\ProjectWorkingFolder\XWFManager\XWFManager\trunk\XWFManager\XWFManager.aup
+  My Computer\C:\ProjectWorkingFolder\GOON2\GOON2\GOON2.aup
+  My Computer\C:\ProjectWorkingFolder\osTriage2\trunk\osTriage2\osTriage2.aup
+  My Computer\C:\ProjectWorkingFolder\Hasher\trunk\Hasher\Hasher.aup
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer\ShellBagsExplorer.aup
+  My Computer\C:\ProjectWorkingFolder\eMule Parser\eMuleParser.aup
+  My Computer\C:\ProjectWorkingFolder\Installer\Installer\Installer.aup
+  My Computer\C:\ProjectWorkingFolder\GOON\trunk\GOON\GOON.aup
+  My Computer\C:\ProjectWorkingFolder\XWFManager\XWFManager\trunk\XWFRT\XWFRT.aup
+  My Computer\C:\ProjectWorkingFolder\TwitterParse\TwitterParserGUI\TwitterParserGUI.aup
+
+OpenSavePidlMRU\bak4
+LastWrite Time: Mon Jul 21 13:38:14 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\XWCases\Rodriguez.xfc.bak4
+
+OpenSavePidlMRU\bmp
+LastWrite Time: Wed Oct  8 18:39:37 2014
+Note: All value names are listed in MRUListEx order.
+
+
+OpenSavePidlMRU\config
+LastWrite Time: Tue Aug 19 12:48:35 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\ProjectWorkingFolder\GOON2\GOON2\bin\Release\NLog.config
+
+OpenSavePidlMRU\cs
+LastWrite Time: Mon Nov 17 21:59:30 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\ProjectWorkingFolder\GOON2\GOON2.ServiceInterface\Administrative.cs
+  My Computer\C:\ProjectWorkingFolder\GOON2\GOON2Manager\ServiceModel\AdministrativeService.cs
+  My Computer\C:\ProjectWorkingFolder\GOON2\GOON2\Forms\MainForm.cs
+  My Computer\C:\ProjectWorkingFolder\GOON2\GOON2\Forms\History.cs
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer\GridData.cs
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer\About.cs
+  My Computer\D:\Dropbox (Personal)\emule\ConsoleApplication8\ConsoleApplication8\PartMet.cs
+  My Computer\C:\ProjectWorkingFolder\GOON2\GOON2Manager\ServiceModel\EmailService.cs
+
+OpenSavePidlMRU\csproj
+LastWrite Time: Wed Nov 26 14:07:05 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\ProjectWorkingFolder\ErdelyDump2\ErdelyDump2.csproj
+  My Computer\C:\ProjectWorkingFolder\GOON2\GOON2Manager\GOON2Manager.csproj
+  My Computer\C:\ProjectWorkingFolder\osTriage2\trunk\osTriagePluginFreenet\osTriagePluginFreenet.csproj
+
+OpenSavePidlMRU\csv
+LastWrite Time: Fri Nov  7 20:58:01 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\D:\temp\hives\Out\weg UsrClass.dat.csv
+  My Computer\C:\Users\eric\Desktop\Book1DanP.csv
+  Book1DanP.csv
+  My Computer\D:\temp\hives\tdun2UsrClass.dat.csv
+  My Computer\D:\temp\hives\helpdeskUsrClass.dat.csv
+  My Computer\D:\temp\hives\AdminUsrClass.dat.csv
+  asddsasadasdsda.csv
+  aaaaa.csv
+  asddsaasdsa.csv
+  My Computer\C:\Users\eric\Desktop\aaaaaaa.csv
+  aaaaaaa.csv
+  dasdasdas.csv
+  asdadsasd.csv
+  asdasdsadasd.csv
+  My Computer\C:\Users\eric\Desktop\aaaaaaaaaaa.csv
+  aaaaaaaaaaa.csv
+  asdsdsdfsd.csv
+  asddasasd.csv
+  My Computer\C:\eMTP\OUTPUT\parsed_known_met.csv
+  My Computer\C:\eMTP\OUTPUT\parsed_part_met_files.csv
+
+OpenSavePidlMRU\dat
+LastWrite Time: Wed Dec  3 03:23:07 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\D:\Dropbox (Personal)\usrclass examples\Hives for lunch\UsrClass unknown stuff lee history vault websites.dat
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\!Strange\Donald\NTUSER.DAT
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\!Strange\Donald\UsrClass.dat
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\!working\DaveB_UsrClass.dat
+  aa\UsrClass 1.dat
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\!working\DanP_1UsrClass.dat
+  My Computer\D:\Dropbox (Personal)\usrclass examples\Hives for lunch\UsrClass CDburn UNC fat filesystem .dat
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\UsrClassJimW2.dat
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\UsrClassWin10.dat
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\10\UsrClass (8).dat
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\!working\UsrClass_2 beef0010.dat
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\10\UsrClass (9).dat
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\10\UsrClass (3).dat
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\UsrClass BEEF000E.dat
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\!Strange\erzUsrClass (2 unk blocks).dat
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\!working\weg 0x32 errors UsrClass 2.dat
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\!Strange\StewardUsrClass.dat
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\!working\Reed Richards\UsrClass.dat
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\!working\MPT\Win7_3-samsung_galaxys4_android\Users\Win7SP1\UsrClass.dat
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\test data\!working\win7\copy0UsrClass.dat
+
+OpenSavePidlMRU\db
+LastWrite Time: Tue Aug 26 14:25:50 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\Users\eric\AppData\Roaming\Skype\ericpeterson87\main.db
+
+OpenSavePidlMRU\dd
+LastWrite Time: Thu Oct 16 16:14:53 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\I:\XWCases\288A-SU-5632698\14257-5_1, P3\hiberfil.sys.dd
+
+OpenSavePidlMRU\dll
+LastWrite Time: Wed Nov 26 14:02:44 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\Program Files\nsoftware\IPWorks SSL V9 .NET Edition\lib\nsoftware.IPWorksSSL.dll
+  My Computer\C:\Program Files\nsoftware\IPWorks ZIP V9 .NET Edition\lib\nsoftware.IPWorksZip.dll
+  My Computer\C:\ProjectWorkingFolder\GOON2\GOON2\bin\Release\ServiceStack.Interfaces.dll
+  My Computer\C:\ProjectWorkingFolder\zzzemihash451\EMIHash.dll
+  My Computer\C:\ProjectWorkingFolder\VDialog.dll
+  My Computer\C:\ProjectWorkingFolder\Be.Windows.Forms.HexBox.dll
+  My Computer\C:\Program Files (x86)\Gurock Software\SmartInspect Professional\lib\dotnet\v2.x\Gurock.SmartInspect.dll
+  My Computer\C:\Program Files (x86)\AppLife Update\PublicAssemblies\Kjs.AppLife.Update.Controller.dll
+
+OpenSavePidlMRU\dmp
+LastWrite Time: Wed Oct 15 20:22:37 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\temp\process.0xfffffa803eb23060.0x1c0b0000.dmp
+
+OpenSavePidlMRU\docx
+LastWrite Time: Thu Oct 16 15:29:59 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\Users\eric\Desktop\Payment info.docx
+  How to get osTriage.docx
+  My Computer\C:\Users\eric\Desktop\osTriage webinar schedule.docx
+  FVTC Webinar Lesson Plan_TEMPLATE new 2014.docx
+  Appeal response - client draft Aug 21 - rev-2.docx
+  My Computer\D:\Dropbox (Personal)\Appeal response.docx
+  My Computer\CLSID_Desktop\IP Address.docx
+  IP Address.docx
+  My Computer\C:\ProjectWorkingFolder\GOON\trunk\GOON\GOONManual.docx
+  My Computer\D:\Dropbox (Personal)\EricZimmermanCV.docx
+  My Computer\D:\Dropbox (Personal)\KSA OTD posting.docx
+  My Computer\J:\KSA h.docx
+
+OpenSavePidlMRU\e01
+LastWrite Time: Tue Nov 25 19:48:31 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\D:\XWImages\Samsung SSD 840 PRO Series.e01
+  My Computer\D:\XWImages\SU-5632698\14257-6 Images\14257-6.E01
+  My Computer\D:\XWImages\SU-5632698\14257-4 Dell Latitude D620\14257-4_1\14257-4_1.E01
+  My Computer\D:\XWImages\SU-5632698\14257-3\14257-3_Image\14257-3.E01
+  My Computer\D:\XWImages\SU-5632698\14257-2 Images\14257-2.E01
+  My Computer\D:\XWImages\SU-5632698\14257-1 Images\14257-1.E01
+  My Computer\D:\XWImages\SU-5632698\14257-5\9VM88GC5_ST3500418AS\14257-5_1.E01
+  My Computer\D:\XWImages\SU-5632698\14257-4 Dell Latitude D620\14257-4Ram\14257-4_RAM.E01
+  My Computer\D:\XWImages\SU-5632698\14257-2 Images\14257-2_RAM.E01
+  My Computer\D:\XWImages\SU-5632698\14257-1 Images\14257-1_RAM.E01
+  My Computer\D:\XWImages\SU-5632698\14257-7\14257-7.E01
+  My Computer\I:\14257-5\9VM88GC5_ST3500418AS\14257-5_1.E01
+  My Computer\I:\14257-4 Dell Latitude D620\14257-4_1\14257-4_1.E01
+  My Computer\I:\14257-3\14257-3_Image\14257-3.E01
+  My Computer\I:\14257-2 Images\14257-2.E01
+  My Computer\I:\14257-1 Images\14257-1.E01
+  My Computer\I:\Images\13326-2_2.E01
+  My Computer\I:\Images\13326-2_1.E01
+  My Computer\I:\Images\13326-1_1.E01
+  My Computer\D:\Dropbox (Personal)\XW training material\Images\NTFS Image.e01
+
+OpenSavePidlMRU\elc
+LastWrite Time: Thu Oct 16 21:02:56 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Documents\login.elc
+
+OpenSavePidlMRU\evtx
+LastWrite Time: Thu Oct 16 21:00:21 2014
+Note: All value names are listed in MRUListEx order.
+
+  288\2\Security.evtx
+  288\5\Security.evtx
+
+OpenSavePidlMRU\exe
+LastWrite Time: Fri Nov 14 18:58:09 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\Program Files (x86)\Microsoft Office\Office15\EXCEL.EXE
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\SBE\bin\SBECmd.exe
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\SBE\bin\x86\Release\SBECmd.exe
+  My Computer\C:\temp\executable.740.exe
+  aaa\aahCfgSvc.exe
+  My Computer\C:\ProjectWorkingFolder\eMule Parser\eMule Parser\bin\eMuleParser.exe
+  My Computer\C:\ProjectWorkingFolder\eMule Parser\eMule Parser\bin\Release\eMuleParser.exe
+  My Computer\C:\ProjectWorkingFolder\eMule Parser\eMule Parser\bin\Release\eMule Parser.exe
+  My Computer\C:\Program Files (x86)\eMule\emule.exe
+  winpmem_1.6.0.exe
+  My Computer\C:\ProjectWorkingFolder\GOON2\GOON2\bin\GOON2.exe
+  My Computer\C:\xwf1\mplayer.exe
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer\bin\ShellBagsExplorer.exe
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer\bin\x86\Release\ShellBagsExplorer.exe
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer\bin\x86\Debug\ShellBagsExplorer.exe
+  My Computer\C:\ProjectWorkingFolder\ConsoleApplication6\ConsoleApplication6\bin\ConsoleApplication6_SA.exe
+  My Computer\C:\ProjectWorkingFolder\ConsoleApplication6\ConsoleApplication6\bin\ConsoleApplication6.exe
+  My Computer\C:\ProjectWorkingFolder\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+  My Computer\C:\ProjectWorkingFolder\XWFManager\XWFManager\trunk\XWFRT\bin\Release\XWFRT.exe
+  My Computer\C:\ProjectWorkingFolder\XWFManager\XWFManager\trunk\XWFManager\bin\Release\XWFIM.exe
+
+OpenSavePidlMRU\gif
+LastWrite Time: Thu Jul 24 19:28:23 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\ProjectWorkingFolder\icons\xml.gif
+
+OpenSavePidlMRU\h
+LastWrite Time: Fri Sep 12 20:02:53 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\D:\Dropbox (Personal)\emule\eMule0.50a-Sources\srchybrid\opcodes.h
+  My Computer\D:\Dropbox (Personal)\emule\opcodes.h
+
+OpenSavePidlMRU\htm
+LastWrite Time: Fri Oct 10 20:40:55 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\J:\ICS\Re  US Water ICS Intrusion - Provo River Water Association 288A-SU-5632698 - Outlook Web Access Light.htm
+  My Computer\D:\Dropbox (Personal)\emule\Decoding example\Deciphering of  known.met  file.htm
+
+OpenSavePidlMRU\html
+LastWrite Time: Thu Oct 16 20:53:14 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\xwf\Registry Report 1.html
+  My Computer\C:\xwf\Registry Report 4.html
+  My Computer\C:\xwf\Registry Report 5.html
+  My Computer\C:\xwf\Registry Report 6.html
+  My Computer\C:\xwf\Registry Report -3.html
+  My Computer\C:\xwf\Registry Report -2.html
+  My Computer\C:\xwf\Registry Report.html
+  My Computer\C:\XWCases\New Case\report.html
+  My Computer\C:\Users\eric\Desktop\SearchHits.html
+  My Computer\C:\Users\eric\Desktop\rod\report.html
+  My Computer\C:\Users\eric\Desktop\rod2\report.html
+  rod\report.html
+  My Computer\C:\Users\eric\Desktop\rod3\report.html
+  rod3\report.html
+  rod2\report.html
+  rod - Copy\report.html
+  My Computer\C:\Users\eric\Desktop\rod - Copy\report.html
+  rod - Copy\index.html
+  My Computer\C:\XWCases\Rodriguez\Registry Report.html
+  My Computer\CLSID_Desktop\Report\Report.html
+
+OpenSavePidlMRU\ico
+LastWrite Time: Thu Nov 20 21:54:38 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\U:\Infragistics Icons\Legal\Set 2\SandTimer\SandTimer.ico
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer\BriefcaseSearch256.ico
+  My Computer\C:\ProjectWorkingFolder\eMule Parser\eMule Parser\emule.ico
+  My Computer\C:\ProjectWorkingFolder\Hasher\trunk\Hasher2\ExternalHardDrive256.ico
+  ExternalHardDrive256.ico
+  emule (1).ico
+  emule.ico
+  Users\AppData\Local\Temp\{0b3e9a26-155d-42c3-aac0-b7571833df38}\.ba1\res\warn.ico
+  PcDesktopSearch256.ico
+  GangOfCriminals256.ico
+  Threading256.ico
+  ServerToClient256.ico
+  My Computer\U:\Infragistics Icons\BusinessFinance\Briefcase\Adorners\Search\BriefcaseSearch.ico
+  My Computer\C:\ProjectWorkingFolder\icons\Text Document\Text Document.ico
+  My Computer\C:\ProjectWorkingFolder\icons\!Infragistics\Help\Help.ico
+  My Computer\U:\Infragistics Icons\BusinessFinance\Briefcase\Briefcase.ico
+
+OpenSavePidlMRU\ids
+LastWrite Time: Wed Aug 20 13:43:19 2014
+Note: All value names are listed in MRUListEx order.
+
+  usb.ids
+
+OpenSavePidlMRU\jpeg
+LastWrite Time: Wed Oct  8 18:39:37 2014
+Note: All value names are listed in MRUListEx order.
+
+
+OpenSavePidlMRU\jpg
+LastWrite Time: Fri Nov 14 18:49:12 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\ProjectWorkingFolder\icons\csv.jpg
+  My Computer\C:\ProjectWorkingFolder\icons\tsv.jpg
+  download.jpg
+  image.jpg
+  10550081_10204811891041142_5574600266326644130_o.jpg
+  images.jpg
+  My Computer\D:\temp\fbi_logo_twitter.jpg
+  TheCaptain2.jpg
+  My Computer\C:\Users\eric\Desktop\rod\report_files\000744.avi.jpg
+  American-Flag.jpg
+
+OpenSavePidlMRU\json
+LastWrite Time: Mon Nov 17 20:19:16 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Documents\Hubstream\Inbox\0-635448408689030000.json
+  My Computer\C:\Users\eric\Documents\Hubstream\Inbox\0-635448408689030000.json
+  test.json
+
+OpenSavePidlMRU\licx
+LastWrite Time: Wed Nov  5 13:42:07 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\ProjectWorkingFolder\osTriage2\trunk\osTriage2\My Project\licenses.licx
+  My Computer\C:\ProjectWorkingFolder\ErdleyDump\My Project\licenses.licx
+
+OpenSavePidlMRU\mbox
+LastWrite Time: Wed May 21 19:01:53 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\D:\temp\mtd4949\mtd4949@gmail.com.Gmail.Content.mbox
+
+OpenSavePidlMRU\met
+LastWrite Time: Fri Sep 12 19:51:43 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Downloads\eMule\Temp\005.part.met
+  My Computer\CLSID_Downloads\eMule\Temp\008.part.met
+
+OpenSavePidlMRU\mov
+LastWrite Time: Mon Sep 15 21:35:59 2014
+Note: All value names are listed in MRUListEx order.
+
+  app.mov
+
+OpenSavePidlMRU\mp4
+LastWrite Time: Thu Oct 16 21:52:07 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\D:\Dropbox (Personal)\temp\SSG Win8.1 Unit Demo.mp4
+
+OpenSavePidlMRU\mpg
+LastWrite Time: Fri Jun 27 14:32:41 2014
+Note: All value names are listed in MRUListEx order.
+
+  AntiProp.mpg
+
+OpenSavePidlMRU\opuscert
+LastWrite Time: Tue May 20 18:23:39 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\D:\Dropbox\!Software\Dopus keys\Directory Opus Program Certificate 5 user.opuscert
+  My Computer\D:\Dropbox\!Software\Dopus keys\Directory Opus Program Certificate 10 user.opuscert
+
+OpenSavePidlMRU\pcv
+LastWrite Time: Tue May 20 15:25:34 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\D:\Dropbox\PostBox 3.0.9 (en-US) - 2014-05-20.pcv
+  My Computer\D:\Dropbox\PostBox 3.0.8 (en-US) - 2013-09-03.pcv
+
+OpenSavePidlMRU\pdf
+LastWrite Time: Fri Nov 21 20:02:35 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorerManual.pdf
+  My Computer\D:\Dropbox (Personal)\osTriage2\osTriageManual.pdf
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer\ShellBagsExplorerManual.pdf
+  invoice_4-141025-5909.pdf
+  invoice_4-140825-6359.pdf
+  My Computer\C:\ProjectWorkingFolder\GOON2\GOON2\GOON2Manual.pdf
+  KnTTools_NI_END_USER_LICENSE_AGREEMENT.pdf
+  payment_info.pdf
+  My Computer\J:\ICS\Request for logs.pdf
+  My Computer\J:\ICS\network setup.pdf
+  My Computer\J:\ICS\ActionPlan RCFL.pdf
+  My Computer\J:\ICS\questions from conference call.pdf
+  My Computer\J:\ICS\US Water ICS intrusion.pdf
+  My Computer\J:\ICS\Dupe drive needed.pdf
+  My Computer\J:\ICS\ICS-Cert mailing address.pdf
+  My Computer\J:\ICS\Image handoff contacts.pdf
+  My Computer\C:\ProjectWorkingFolder\GOON\trunk\GOON\GOONManual.pdf
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\[MS-PROPSTORE].pdf
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\Windows Shell Item format (1).pdf
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\Windows Shell Item format.pdf
+
+OpenSavePidlMRU\pfx
+LastWrite Time: Wed Sep 17 21:20:50 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\D:\Dropbox (Personal)\hubstream\Eric Zimmerman.pfx
+
+OpenSavePidlMRU\pgp
+LastWrite Time: Thu Oct 16 20:12:03 2014
+Note: All value names are listed in MRUListEx order.
+
+  EDA2020F-D026-4C8E-902B-AA83A7E39B1E.zip.pgp
+
+OpenSavePidlMRU\png
+LastWrite Time: Mon Dec  8 13:25:55 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\J:\reciepts\Hotel.png
+  My Computer\U:\Infragistics Icons\Office\Locations\Calendar\_Master\Calendar24.png
+  My Computer\U:\Infragistics Icons\Office\Locations\Folder Base (Adorner in Front)\Folder (Adorner in front) Information\Folder (Adorner in front) Information24.png
+  My Computer\U:\Infragistics Icons\SoftwareComputing\Set 1\Alerts\Adorners\Error\AlertsError24.png
+  My Computer\U:\Infragistics Icons\SoftwareComputing\Set 1\Alerts\Alerts24.png
+  ts2.png
+  ts1.png
+  FTP directories.png
+  l_blue.png
+  f_blue.png
+  My Computer\C:\ProjectWorkingFolder\icons\Hard Disk\Hard Disk_24x24.png
+  _icon-ftp.png
+  My Computer\U:\Infragistics Icons\SoftwareComputing\Set 2\ServerToClient\ServerToClient32.png
+  SBETimeZone.png
+  My Computer\U:\Infragistics Icons\Office\Locations\Calendar\Calendar Search\Calendar Search32.png
+  xways vic\8 results part 2.png
+  xways vic\8 results part 1.png
+  xways vic\7 select which hash sets to match against.png
+  xways vic\6 RVS against files, including hashing and matching against data sets.png
+  xways vic\5 completed import.png
+
+OpenSavePidlMRU\ppt
+LastWrite Time: Mon Nov 24 13:34:35 2014
+Note: All value names are listed in MRUListEx order.
+
+  INTRO TO COMPUTER FORENSICS.ppt
+
+OpenSavePidlMRU\pptx
+LastWrite Time: Wed Sep 17 21:07:34 2014
+Note: All value names are listed in MRUListEx order.
+
+  Lockdown Plist.pptx
+
+OpenSavePidlMRU\reg
+LastWrite Time: Tue Aug 26 18:05:28 2014
+Note: All value names are listed in MRUListEx order.
+
+  AresGalaxyNETWORK.DHTID.reg
+
+OpenSavePidlMRU\rtf
+LastWrite Time: Wed Sep 17 21:43:48 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Documents\ChatLog MIHTCIA May 21st_ 2014 2014_05_21 07_56.rtf
+  My Computer\CLSID_Documents\ChatLog MIHTCIA May 21st_ 2014 2014_05_21 07_58.rtf
+
+OpenSavePidlMRU\saproj
+LastWrite Time: Fri Nov  7 19:32:51 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\SBE\SBECmd.saproj
+  My Computer\C:\ProjectWorkingFolder\GigaRoundUpImport\GigaRoundUpImport\GigaRoundUpImport.saproj
+  My Computer\C:\ProjectWorkingFolder\eMule Parser\eMuleParser.saproj
+  My Computer\C:\ProjectWorkingFolder\Installer\Installer\Installer.saproj
+  My Computer\C:\ProjectWorkingFolder\GOONReplay\GOONReplay.saproj
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer.saproj
+  My Computer\C:\ProjectWorkingFolder\Hasher\trunk\Hasher\Hasher.saproj
+  My Computer\C:\ProjectWorkingFolder\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.saproj
+  My Computer\C:\ProjectWorkingFolder\XWFManager\XWFManager\trunk\XWFRT\XWFRT.saproj
+  My Computer\C:\ProjectWorkingFolder\GigaURLMonitor\GigaURLMonitor.saproj
+  My Computer\C:\ProjectWorkingFolder\XWFManager\XWFManager\trunk\XWFManager\XWFManager.saproj
+  My Computer\C:\ProjectWorkingFolder\osTriage2\trunk\osTriage2.saproj
+  My Computer\C:\ProjectWorkingFolder\GOON2\GOON2\GOON2.saproj
+  My Computer\C:\ProjectWorkingFolder\TwitterParse\TwitterParserGUI\TwitterParserGUI.saproj
+
+OpenSavePidlMRU\sfsdb
+LastWrite Time: Thu Aug 28 20:06:59 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Documents\ads.sfsdb
+
+OpenSavePidlMRU\sln
+LastWrite Time: Mon Dec  8 13:43:37 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\ProjectWorkingFolder\Registry\Registry.sln
+  My Computer\C:\ProjectWorkingFolder\XWFManager\XWFManager\trunk\XWFManager.sln
+  My Computer\C:\ProjectWorkingFolder\GigaRoundUpImport\GigaRoundUpImport.sln
+  My Computer\C:\ProjectWorkingFolder\GOONService\GOONService.sln
+  My Computer\C:\ProjectWorkingFolder\GOON2\GOON2.sln
+  My Computer\CLSID_Desktop\e\EMIHash.sln
+  My Computer\C:\ProjectWorkingFolder\Hasher\trunk\Hasher.sln
+  My Computer\C:\ProjectWorkingFolder\Installer\Installer.sln
+  My Computer\D:\Dropbox (Personal)\emule\ConsoleApplication8\ConsoleApplication8.sln
+  My Computer\C:\ProjectWorkingFolder\GOONReplay\GOONReplay.sln
+  My Computer\C:\ProjectWorkingFolder\osTriage2\trunk\osTriage2.sln
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer.sln
+  My Computer\C:\ProjectWorkingFolder\GigaURLMonitor\GigaURLMonitor.sln
+  My Computer\C:\ProjectWorkingFolder\TwitterParse\TwitterParse.sln
+
+OpenSavePidlMRU\tsv
+LastWrite Time: Tue Nov 18 19:50:50 2014
+Note: All value names are listed in MRUListEx order.
+
+  combined.tsv
+  sadasddasasasdasdads.tsv
+  sasdasdad.tsv
+  test.tsv
+
+OpenSavePidlMRU\txt
+LastWrite Time: Wed Nov 26 16:06:49 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\D:\Dropbox (Personal)\SANS proposal.txt
+  HashesOfInterest 2014112512472522.txt
+  My Computer\CLSID_Documents\Beef000e block.txt
+  malware.txt
+  My Computer\J:\bad.txt
+  My Computer\C:\xwf\Reg Report Networks.txt
+  My Computer\C:\xwf\Reg Report System.txt
+  My Computer\CLSID_Documents\me.txt
+  288\1\SOFTWARE.txt
+  288\1\Security.txt
+  288\1\SAM.txt
+  My Computer\D:\volatility_2.4.win.standalone\ns3.txt
+  My Computer\D:\volatility_2.4.win.standalone\ns2.txt
+  My Computer\D:\volatility_2.4.win.standalone\image1netscan.txt
+  My Computer\J:\ips.txt
+  My Computer\D:\volatility_2.4.win.standalone\netscan6.txt
+  My Computer\D:\volatility_2.4.win.standalone\netscan.txt
+  My Computer\CLSID_Documents\rr.txt
+  HashesOfInterestRoundUp20140915.txt
+  HashesOfInterestInfohash20140915.txt
+
+OpenSavePidlMRU\vb
+LastWrite Time: Mon Nov 17 21:48:27 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\ProjectWorkingFolder\GigatribeChatParser\GigatribeChatParser\frmMain.vb
+  My Computer\C:\ProjectWorkingFolder\GOONService\GOONService\action.asmx.vb
+  My Computer\C:\ProjectWorkingFolder\osTriage2\trunk\osTriage2\frmMain.vb
+  My Computer\C:\ProjectWorkingFolder\Hasher\trunk\Hasher2\frmMain.vb
+  My Computer\C:\ProjectWorkingFolder\ErdleyDump\Module1.vb
+
+OpenSavePidlMRU\vbproj
+LastWrite Time: Tue Nov  4 15:37:04 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\ProjectWorkingFolder\ErdleyDump\ErdleyDump.vbproj
+
+OpenSavePidlMRU\vmdk
+LastWrite Time: Tue Nov 25 15:33:12 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\J:\Windows 7 x64 Gigatribe\Windows 7 x64 Gigatribe.vmdk
+  My Computer\J:\Windows 7 x64 Gigatribe\Windows 7 x64 Gigatribe-000001.vmdk
+
+OpenSavePidlMRU\vmx
+LastWrite Time: Tue Nov 25 15:30:13 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\J:\Windows 7 x64 Gigatribe\Windows 7 x64 Gigatribe.vmx
+  My Computer\D:\VirtualMachines\SIFT Workstation 3\SIFT Workstation 3.0.vmx
+  My Computer\D:\VirtualMachines\Windows 7 x64\Windows 7 x64.vmx
+
+OpenSavePidlMRU\wmf
+LastWrite Time: Wed Oct  8 18:39:37 2014
+Note: All value names are listed in MRUListEx order.
+
+
+OpenSavePidlMRU\xfc
+LastWrite Time: Tue Nov 25 19:48:08 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\I:\XWCases\New Case.xfc
+  My Computer\D:\XWCasesOld\Rodriguez.xfc
+  My Computer\F:\XWCasesOld\SU-2719767_2.xfc
+  My Computer\I:\XWCases\288A-SU-5632698.xfc
+  My Computer\E:\XWCases\288A-SU-5632698.xfc
+  My Computer\C:\XWCases\454545.xfc
+  My Computer\C:\XWCases\New Case.xfc
+  My Computer\C:\XWCases\SU-2719767_2.xfc
+  My Computer\C:\XWCases\Rodriguez.xfc
+  My Computer\C:\XWCases\New Case1.xfc
+  My Computer\C:\XWCases\SU-2719767.xfc
+  My Computer\C:\XWCases\wednesday demo.xfc
+
+OpenSavePidlMRU\xlsx
+LastWrite Time: Tue Nov 18 22:05:14 2014
+Note: All value names are listed in MRUListEx order.
+
+  Dedupe data.xlsx
+  My Computer\C:\Users\eric\Desktop\Dedupe data.xlsx
+  dsadadsads.xlsx
+  SBEWithFirstVisitAndLastExplored.xlsx
+  My Computer\C:\Users\eric\Desktop\SBETestData.xlsx
+  Sans408 index.xlsx
+  20140923112000_SBE_messages.xlsx
+  2002\eMTP output.xlsx
+  My Computer\C:\Users\eric\Desktop\compare.xlsx
+  My Computer\C:\Users\eric\Desktop\RodAccts.xlsx
+  asdasd.xlsx
+  test.xlsx
+  BD.xlsx
+  My Computer\I:\ArchitectureMillworkDesign\Unique IPs geolocated.xlsx
+  My Computer\D:\temp\yuscologistics\Work product\batch-lookup.xlsx
+  My Computer\D:\temp\yuscologistics\Work product\Book1.xlsx
+  My Computer\C:\Users\eric\Desktop\batch-lookup.xlsx
+  My Computer\D:\temp\chase.ingersol\Work product\Email Contact.xlsx
+  My Computer\D:\temp\chase.ingersol\Work product\batch-lookup.xlsx
+  My Computer\D:\temp\mtd4949\Work product\Email Contact.xlsx
+
+OpenSavePidlMRU\xml
+LastWrite Time: Fri Sep 12 13:17:12 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\ProjectWorkingFolder\osTriage2\trunk\osTriage2\bin\Debug\Plugins\__tmp\5c5b9f88-ac6e-431b-9c51-a636f91cdcbd-u.xml
+  My Computer\C:\ProjectWorkingFolder\GOON2\GOON2\bin\Debug\Data\zimjob1.xml
+
+OpenSavePidlMRU\xspf
+LastWrite Time: Fri Sep 19 14:37:03 2014
+Note: All value names are listed in MRUListEx order.
+
+  LedZep.xspf
+  aaaaaaaaaa.xspf
+
+OpenSavePidlMRU\zip
+LastWrite Time: Sat Nov 29 18:07:40 2014
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\S:\!!Temp\ptviola50.zip
+  2002.zip
+  My Computer\C:\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer\bin\x86\Debug.zip
+  Twitter Text Files.zip
+
+
+----------------------------------------
+compdesc v.20200511
+(NTUSER.DAT) Gets contents of user's ComputerDescriptions key
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\ComputerDescriptions not found.
+----------------------------------------
+DDO v.20140414
+(NTUSER.DAT) Gets user's DeviceDisplayObjects key contents
+
+Software\Microsoft\Windows NT\CurrentVersion\DeviceDisplayObjects not found.
+----------------------------------------
+disablemru v.20190924
+(NTUSER.DAT, Software) Checks settings disabling user's MRUs
+
+----------------------------------------
+disableuserassist v.20230710
+(NTUSER.DAT) Get Start_TrackEnabled and Start_TrackProgs values which confirm if UserAssist was disabled.
+
+----------------------------------------
+environment v.20200512
+(System, NTUSER.DAT) Get environment vars from NTUSER.DAT & System hives
+
+Environment
+LastWrite Time: 2014-06-27 19:12:14Z
+
+TMP                       %USERPROFILE%\AppData\Local\Temp                  
+TEMP                      %USERPROFILE%\AppData\Local\Temp                  
+Path                      C:\Program Files (x86)\IDM Computer Solutions\UltraEdit\
+----------------------------------------
+featureusage v.20200511
+(NTUSER.DAT) Extracts user's FeatureUsage data.
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage not found.
+----------------------------------------
+[-] SOFTWARE\HeidiSQL not found.
+[-] SOFTWARE\HeidiSQL\Servers not found.
+
+----------------------------------------
+----------------------------------------
+identities v.20200525
+(NTUSER.DAT) Extracts values from Identities key; NTUSER.DAT
+
+Identities
+LastWrite Time 2014-05-20 18:43:10Z
+
+Identities has no values.
+
+----------------------------------------
+injectdll64 v.20200427
+(NTUSER.DAT, Software) Retrieve values set to weaken Chrome security
+
+Software\Policies\Google\Chrome\CertificateTransparencyEnforcementDisabledForUrls not found.
+Policies\Google\Chrome\CertificateTransparencyEnforcementDisabledForUrls not found.
+----------------------------------------
+jumplistdata v.20200517
+Gets contents of user's JumpListData key
+
+Software\Microsoft\Windows\CurrentVersion\Search\JumpListData not found.
+----------------------------------------
+knowndev v.20200515
+(NTUSER.DAT) Gets user's KnownDevices key contents
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\KnownDevices not found.
+----------------------------------------
+listsoft v.20200517
+(NTUSER.DAT) Lists contents of user's Software key
+
+List the contents of the Software key in the NTUSER.DAT hive
+file, in order by LastWrite time.
+
+2014-12-08 15:00:15Z 	Classes
+2014-12-08 13:52:01Z 	Red Gate Software Ltd.
+2014-12-08 13:51:49Z 	Red Gate
+2014-12-08 13:17:04Z 	Microsoft
+2014-12-04 01:11:01Z 	TeamViewer
+2014-11-29 23:12:16Z 	Citrix
+2014-11-28 16:48:53Z 	VMware, Inc.
+2014-11-25 18:15:57Z 	TortoiseSVN
+2014-11-24 13:51:17Z 	Developer Express
+2014-11-22 09:27:06Z 	RegisteredApplications
+2014-11-18 22:37:21Z 	Siber Systems
+2014-11-17 14:33:01Z 	JetBrains
+2014-11-04 17:46:55Z 	Macromedia
+2014-11-04 17:30:06Z 	VB and VBA Program Settings
+2014-11-03 16:43:39Z 	IDM Computer Solutions
+2014-10-24 14:14:06Z 	JavaSoft
+2014-10-23 16:43:18Z 	Amazon
+2014-10-22 15:06:09Z 	ImgBurn
+2014-10-22 14:33:17Z 	AppWork
+2014-10-22 14:33:17Z 	ej-technologies
+2014-10-16 21:27:48Z 	Tableau
+2014-10-16 20:05:25Z 	ASProtect
+2014-10-16 20:05:16Z 	EventLogXP
+2014-10-16 15:25:30Z 	IM Providers
+2014-10-14 21:00:57Z 	Infragistics
+2014-10-14 13:00:45Z 	BitTorrent
+2014-10-10 20:43:16Z 	Acro Software Inc
+2014-10-08 18:25:49Z 	Policies
+2014-09-24 17:03:14Z 	Piriform
+2014-09-24 14:12:24Z 	AccessData
+2014-09-12 22:45:53Z 	WinRAR
+2014-09-12 22:44:07Z 	WinRAR SFX
+2014-09-02 19:56:39Z 	eMule
+2014-09-02 15:45:32Z 	pth264
+2014-08-28 20:06:53Z 	Sanderson Forensics
+2014-08-28 20:06:52Z 	Raize
+2014-08-26 17:52:22Z 	Ares
+2014-08-26 14:22:49Z 	PremiumSoft
+2014-08-20 17:33:48Z 	SmartWhois
+2014-08-07 15:46:05Z 	Altova
+2014-07-29 16:25:33Z 	yaru
+2014-07-29 14:58:59Z 	Intel
+2014-07-22 13:08:04Z 	Hewlett-Packard
+2014-07-17 16:14:36Z 	GOON
+2014-07-14 21:18:26Z 	Scooter Software
+2014-07-11 16:15:38Z 	Hagel
+2014-05-29 22:28:53Z 	CodeValue Ltd
+2014-05-29 21:35:38Z 	F-ResponseCC
+2014-05-29 18:26:01Z 	7-Zip
+2014-05-29 13:06:41Z 	Sysinternals
+2014-05-23 19:31:42Z 	JGsoft
+2014-05-23 14:35:08Z 	9bis.com
+2014-05-23 14:27:36Z 	Garmin
+2014-05-21 16:33:56Z 	KineticJump
+2014-05-21 13:47:50Z 	MozillaPlugins
+2014-05-20 22:10:55Z 	Mindscape
+2014-05-20 21:51:14Z 	SharpCrafters
+2014-05-20 21:46:12Z 	DevExpress
+2014-05-20 21:38:49Z 	Gurock Software
+2014-05-20 18:45:50Z 	Thingummy Software
+2014-05-20 18:35:28Z 	Red Gate Software Ltd
+2014-05-20 18:27:33Z 	Skype
+2014-05-20 18:10:15Z 	AnkhSVN
+2014-05-20 15:56:30Z 	Netscape
+2014-05-20 15:56:30Z 	ODBC
+2014-05-20 15:25:28Z 	TechSmith
+2014-05-20 15:21:19Z 	Mozilla Backup
+2014-05-20 15:20:13Z 	Clients
+2014-05-20 15:05:27Z 	Dropbox
+2014-05-20 15:01:57Z 	Binary Fortress Software
+2014-05-20 14:58:37Z 	Trolltech
+2014-05-20 14:57:52Z 	Common
+2014-05-20 14:55:24Z 	Stardock
+2014-05-20 14:25:42Z 	IvoSoft
+2014-05-20 14:23:36Z 	Google
+2014-05-20 14:19:52Z 	ATI
+2014-05-20 14:19:40Z 	AppDataLow
+2014-05-20 14:19:40Z 	Wow6432Node
+2014-05-20 14:19:35Z 	Mine
+----------------------------------------
+load v.20200517
+(NTUSER.DAT) Gets load and run values from user hive
+
+load
+Software\Microsoft\Windows NT\CurrentVersion\Windows
+LastWrite Time 2014-11-28 16:53:50Z
+
+load value not found.
+run value not found.
+----------------------------------------
+logonstats v.20200517
+Gets contents of user's LogonStats key
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\LogonStats not found.
+----------------------------------------
+lxss v.20200511
+(NTUSER.DAT) Gets WSL config.
+
+Software\Microsoft\Windows\CurrentVersion\Lxss not found.
+----------------------------------------
+mixer v.20200517
+(NTUSER.DAT) Checks user's audio mixer settings
+
+LastWrite Time, App, Device GUID
+2014-08-27 19:49:40Z,\Device\HarddiskVolume4\ProjectWorkingFolder\osTriage2\trunk\osTriage2\bin\Debug\osTriage2.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-09-17 20:36:46Z,\Device\HarddiskVolume4\Users\eric\Desktop\ShellBags Explorer\ShellBagsExplorer.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-05-21 15:51:51Z,\Device\HarddiskVolume4\xwf\MPlayer\mplayer.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-05-21 16:22:12Z,\Device\HarddiskVolume4\Program Files (x86)\VideoLAN\VLC\vlc.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-05-20 14:20:25Z,#,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-11-25 19:57:31Z,\Device\HarddiskVolume4\Program Files (x86)\Skype\Phone\Skype.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-06-26 17:31:39Z,#,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\espdifout2topo/00010001
+2014-09-17 19:48:14Z,\Device\HarddiskVolume4\temp\ShellBagsExplorer.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-08-09 22:09:38Z,\Device\HarddiskVolume4\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer\bin\x86\Debug\ShellBagsExplorer.vshost.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-09-12 13:22:22Z,\Device\HarddiskVolume4\Program Files (x86)\Skype\Phone\Skype.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-09-16 03:01:24Z,\Device\HarddiskVolume4\ProjectWorkingFolder\eMule Parser\eMule Parser\bin\Debug\eMuleParser.vshost.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-08-10 16:49:17Z,\Device\HarddiskVolume4\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer\bin\ShellBagsExplorer.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-11-24 17:57:56Z,\Device\HarddiskVolume4\Users\eric\AppData\Local\Citrix\GoToMeeting\1865\g2mui.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\espdifouttopo/00010001
+2014-09-12 17:45:58Z,\Device\HarddiskVolume4\Users\eric\AppData\Local\Citrix\GoToMeeting\1468\g2mcomm.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\espdifout2topo/00010001
+2014-09-25 17:29:46Z,\Device\HarddiskVolume4\Program Files (x86)\Skype\Phone\Skype.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-11-17 17:58:56Z,\Device\HarddiskVolume4\Program Files (x86)\TeamViewer\TeamViewer.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-05-20 15:20:32Z,\Device\HarddiskVolume4\Program Files (x86)\Postbox\postbox.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-09-15 17:27:31Z,\Device\HarddiskVolume4\ProjectWorkingFolder\Installer\Installer\bin\Debug\Installer.vshost.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-09-02 15:45:31Z,\Device\HarddiskVolume4\Program Files (x86)\Paltalk Messenger\paltalk.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-06-18 00:30:23Z,\Device\HarddiskVolume2\Dropbox (Personal)\!Software\xwfim\XWFIM.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-07-02 21:09:33Z,\Device\HarddiskVolume4\ProjectWorkingFolder\XWFManager\XWFManager\trunk\XWFManager\bin\x86\Debug\CygXWFIM.vshost.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-09-16 19:33:20Z,\Device\HarddiskVolume4\Program Files (x86)\Skype\Phone\Skype.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-05-30 14:35:02Z,\Device\HarddiskVolume2\Dropbox (Personal)\!Software\Hasher\hasher.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-09-02 19:53:45Z,\Device\HarddiskVolume4\Program Files (x86)\Skype\Phone\Skype.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-06-26 17:31:39Z,#,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\espdifouttopo/00010001
+2014-10-05 03:37:12Z,\Device\HarddiskVolume4\Program Files (x86)\Google\Chrome\Application\chrome.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-09-12 17:45:58Z,\Device\HarddiskVolume4\Users\eric\AppData\Local\Citrix\GoToMeeting\1468\g2mcomm.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-07-29 14:58:02Z,\Device\HarddiskVolume4\temp\New Folder\mplayer.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-05-21 17:48:46Z,\Device\HarddiskVolume2\temp\mtd4949\Work product\ThunderbirdPortable\App\Thunderbird\thunderbird.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-09-23 12:47:52Z,\Device\HarddiskVolume4\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer\bin\x86\Release\ShellBagsExplorer.vshost.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-07-10 22:59:33Z,\Device\HarddiskVolume4\Program Files (x86)\Skype\Phone\Skype.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-05-28 19:21:27Z,\Device\HarddiskVolume4\Program Files (x86)\Skype\Phone\Skype.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-11-13 15:42:48Z,\Device\HarddiskVolume4\Users\eric\AppData\Roaming\Spotify\spotify.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-05-21 13:48:08Z,\Device\HarddiskVolume4\Users\eric\AppData\Local\Citrix\GoToMeeting\1350\g2mcomm.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-08-08 16:31:20Z,\Device\HarddiskVolume4\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer\bin\x86\Debug\ShellBagsExplorer.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-09-11 02:37:38Z,\Device\HarddiskVolume4\ProjectWorkingFolder\osTriage2\trunk\osTriage2\bin\Debug\osTriage2.vshost.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-09-02 15:45:10Z,\Device\HarddiskVolume4\Program Files (x86)\Paltalk Messenger\paltalk.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\espdifouttopo/00010001
+2014-09-16 16:00:26Z,\Device\HarddiskVolume7\xwfim\XWFIM.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-09-02 15:45:10Z,\Device\HarddiskVolume4\Program Files (x86)\Paltalk Messenger\paltalk.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\espdifout2topo/00010001
+2014-05-23 14:06:21Z,\Device\HarddiskVolume4\Program Files (x86)\Skype\Phone\Skype.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-11-24 17:57:56Z,\Device\HarddiskVolume4\Users\eric\AppData\Local\Citrix\GoToMeeting\1865\g2mui.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\espdifout2topo/00010001
+2014-11-24 17:57:58Z,\Device\HarddiskVolume4\Users\eric\AppData\Local\Citrix\GoToMeeting\1865\g2mcomm.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-08-26 13:45:35Z,\Device\HarddiskVolume4\Program Files (x86)\Skype\Phone\Skype.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-05-28 15:14:20Z,\Device\HarddiskVolume2\temp\osTriage2\osTriage2.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-09-18 17:55:28Z,\Device\HarddiskVolume2\Forensics\ShellBagsExplorer.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-08-04 14:56:07Z,\Device\HarddiskVolume4\Program Files (x86)\Skype\Phone\Skype.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-05-20 15:26:23Z,\Device\HarddiskVolume4\Program Files (x86)\TechSmith\Snagit 12\SnagitEditor.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-07-08 20:37:07Z,\Device\HarddiskVolume4\ProjectWorkingFolder\XWFManager\XWFManager\trunk\XWFManager\bin\Debug\XWFIM.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-07-07 18:40:58Z,\Device\HarddiskVolume4\Program Files (x86)\Skype\Phone\Skype.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-05-21 13:48:08Z,\Device\HarddiskVolume4\Users\eric\AppData\Local\Citrix\GoToMeeting\1350\g2mui.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-09-16 02:26:57Z,\Device\HarddiskVolume4\ProjectWorkingFolder\eMule Parser\eMule Parser\bin\Debug\eMule Parser.vshost.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-07-16 18:10:46Z,\Device\HarddiskVolume4\Users\eric\Desktop\osTriage2\osTriage2.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-07-29 19:20:02Z,\Device\HarddiskVolume4\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer\bin\x86\Release\ShellBagsExplorer.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-08-04 14:21:41Z,\Device\HarddiskVolume4\Program Files (x86)\TeamViewer\Version9\TeamViewer.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-09-12 17:45:58Z,\Device\HarddiskVolume4\Users\eric\AppData\Local\Citrix\GoToMeeting\1468\g2mcomm.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\espdifouttopo/00010001
+2014-08-28 22:47:54Z,\Device\HarddiskVolume4\Program Files (x86)\Skype\Phone\Skype.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-09-09 13:25:30Z,\Device\HarddiskVolume4\Users\eric\AppData\Roaming\Spotify\Data\SpotifyHelper.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-05-27 21:33:05Z,\Device\HarddiskVolume4\Windows\System32\mstsc.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-05-21 13:48:44Z,\Device\HarddiskVolume4\Users\eric\AppData\Local\Citrix\GoToMeeting\1350\g2mlauncher.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-05-20 14:20:22Z,\Device\HarddiskVolume4\Program Files (x86)\Internet Explorer\iexplore.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-07-16 18:09:37Z,\Device\HarddiskVolume2\Dropbox (Personal)\osTriageInstaller.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-05-28 21:24:51Z,\Device\HarddiskVolume2\Dropbox (Personal)\!Software\GOON\GOON.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-06-17 20:07:36Z,\Device\HarddiskVolume4\Program Files (x86)\TechSmith\Snagit 12\Snagit32.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-11-03 21:04:14Z,\Device\HarddiskVolume4\Program Files (x86)\Skype\Phone\Skype.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-09-09 14:46:25Z,\Device\HarddiskVolume4\Users\eric\Desktop\ShellBagsExplorer.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-09-12 17:44:50Z,\Device\HarddiskVolume4\Users\eric\AppData\Local\Citrix\GoToMeeting\1468\g2mlauncher.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-11-19 18:08:45Z,\Device\HarddiskVolume4\Program Files (x86)\Skype\Phone\Skype.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-11-17 18:14:05Z,\Device\HarddiskVolume2\temp\ShellBagsExplorer\ShellBagsExplorer.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-08-19 12:52:02Z,\Device\HarddiskVolume2\temp\Installer.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-11-26 23:41:29Z,\Device\HarddiskVolume9\xwfim\XWFIM.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-08-28 23:10:02Z,\Device\HarddiskVolume12\osTriage2\osTriage2.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-11-24 15:34:49Z,\Device\HarddiskVolume4\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\devenv.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-09-15 17:22:44Z,\Device\HarddiskVolume2\Dropbox (Personal)\Installer.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-05-30 22:52:31Z,\Device\HarddiskVolume4\Program Files (x86)\Malwarebytes Anti-Malware\mbam.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-11-24 17:57:56Z,\Device\HarddiskVolume4\Users\eric\AppData\Local\Citrix\GoToMeeting\1865\g2mui.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-06-25 03:22:28Z,\Device\HarddiskVolume4\xwf\MPlayer\mplayer.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\espdifout2topo/00010001
+2014-09-12 17:45:58Z,\Device\HarddiskVolume4\Users\eric\AppData\Local\Citrix\GoToMeeting\1468\g2mui.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-07-29 14:46:47Z,\Device\HarddiskVolume4\ProjectWorkingFolder\XWFManager\XWFManager\trunk\XWFManager\bin\Debug\XWFIM.vshost.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-07-29 14:46:38Z,\Device\HarddiskVolume4\ProjectWorkingFolder\XWFManager\XWFManager\trunk\XWFManager\bin\Release\XWFIM.vshost.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-09-11 14:40:54Z,\Device\HarddiskVolume4\Program Files\GPSoftware\Directory Opus\dopus.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-07-22 13:08:02Z,\Device\HarddiskVolume4\Program Files (x86)\VMware\VMware Workstation\x64\vmware-vmx.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-10-15 19:53:58Z,\Device\HarddiskVolume4\Windows\System32\conhost.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-07-08 19:35:20Z,\Device\HarddiskVolume4\Program Files (x86)\ImgBurn\ImgBurn.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-10-14 13:03:32Z,\Device\HarddiskVolume4\Users\eric\AppData\Roaming\uTorrent\uTorrent.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+2014-05-21 21:00:24Z,\Device\HarddiskVolume10\DirectSolution\ThunderbirdPortable\App\Thunderbird\thunderbird.exe,\\?\hdaudio#func_01&ven_10ec&dev_0900&subsys_1043859d&rev_1000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\elineouttopo/00010001
+----------------------------------------
+mmc v.20200517
+(NTUSER.DAT) Get contents of user's MMC\Recent File List key
+
+MMC - Recent File List
+Software\Microsoft\Microsoft Management Console\Recent File List
+LastWrite Time 2014-11-25 15:59:20Z
+  File1 -> C:\Windows\system32\eventvwr.msc
+  File2 -> C:\Windows\system32\compmgmt.msc
+  File3 -> C:\Windows\system32\devmgmt.msc
+----------------------------------------
+mmo v.20200517
+(NTUSER.DAT) Checks NTUSER for Multimedia\Other values [malware]
+
+Software\Microsoft\Multimedia\Other not found.
+Software\Microsoft\CTF\LangBarAddIn not found.
+----------------------------------------
+mndmru v.20200517
+(NTUSER.DAT) Get contents of user's Map Network Drive MRU
+
+Map Network Drive MRU
+Software\Microsoft\Windows\CurrentVersion\Explorer\Map Network Drive MRU
+LastWrite Time 2014-10-24 15:17:40Z
+  MRUList = a
+  a   \\su-svr03\GOON\api
+----------------------------------------
+mp2 v.20200526
+(NTUSER.DAT) Gets user's MountPoints2 key contents
+
+MountPoints2
+Software\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2
+LastWrite Time 2014-11-25 16:50:02Z
+
+Remote Drives:
+2014-10-24 15:17:40Z
+  ##su-svr03#GOON#api
+2014-05-20 14:23:55Z
+  ##su-nas01#home
+  ##su-nas01#porn
+  ##su-nas01#storage
+
+Volumes:
+2014-12-08 13:38:24Z
+  {af86ca3e-e75d-11e3-8258-ac220b2a5a56}
+2014-12-01 15:32:34Z
+  {a80d8780-6340-11e4-8268-ac220b2a5a56}
+2014-11-25 16:50:02Z
+  {11fad92f-e259-11e3-8258-ac220b2a5a56}
+2014-11-25 16:12:10Z
+  {11fad92e-e259-11e3-8258-ac220b2a5a56}
+2014-11-24 20:53:04Z
+  {300d5738-7407-11e4-826b-ac220b2a5a56}
+2014-11-07 22:22:32Z
+  {99bccb18-6665-11e4-8268-ac220b2a5a56}
+2014-11-04 15:51:45Z
+  {b7e6bd32-642d-11e4-8268-ac220b2a5a56}
+  {b7e6bd33-642d-11e4-8268-ac220b2a5a56}
+2014-10-30 15:47:54Z
+  {16d9b973-604c-11e4-8268-ac220b2a5a56}
+2014-10-30 15:42:05Z
+  {667f6880-6014-11e4-8268-ac220b2a5a56}
+2014-10-23 18:52:09Z
+  {ec6c4c49-4339-11e4-8264-ac220b2a5a56}
+2014-10-22 15:14:40Z
+  {10feca7d-e030-11e3-8250-806e6f6e6963}
+2014-10-17 20:24:16Z
+  {a4529950-5620-11e4-8267-ac220b2a5a56}
+  {a4529951-5620-11e4-8267-ac220b2a5a56}
+2014-10-17 19:32:45Z
+  {a4529815-5620-11e4-8267-ac220b2a5a56}
+2014-10-17 17:09:18Z
+  {4d841f90-5620-11e4-8267-ac220b2a5a56}
+2014-10-17 17:07:58Z
+  {61f7fa15-561a-11e4-8267-ac220b2a5a56}
+  {61f7fa16-561a-11e4-8267-ac220b2a5a56}
+2014-10-17 14:32:40Z
+  {21ae59d3-55dc-11e4-8267-ac220b2a5a56}
+  {21ae59d4-55dc-11e4-8267-ac220b2a5a56}
+2014-10-16 21:32:02Z
+  {b2078760-556a-11e4-8267-ac220b2a5a56}
+2014-10-16 15:18:42Z
+  {421b7f33-93d5-4ca4-b4b7-8b061e672e99}
+2014-10-15 14:13:14Z
+  {10feca7e-e030-11e3-8250-806e6f6e6963}
+2014-10-14 20:39:34Z
+  {3aa3a4a9-087f-11e4-825d-ac220b2a5a56}
+2014-10-08 15:06:35Z
+  {4cedb3f5-4e0c-11e4-8264-ac220b2a5a56}
+2014-10-05 20:04:29Z
+  {83a716d8-3800-11e4-8261-ac220b2a5a56}
+2014-09-24 16:16:09Z
+  {88e3bf8f-4402-11e4-8264-ac220b2a5a56}
+2014-09-24 16:11:15Z
+  {88e3bf8e-4402-11e4-8264-ac220b2a5a56}
+2014-09-23 16:20:28Z
+  {fe23c506-e891-4228-9f36-8f2e2e316316}
+2014-09-23 15:43:39Z
+  {99340582-d453-4e97-8e6e-745901282060}
+2014-09-19 19:39:35Z
+  {4f1e38d2-4023-11e4-8264-ac220b2a5a56}
+2014-09-19 17:10:46Z
+  {407ef0a4-400d-11e4-8264-ac220b2a5a56}
+2014-09-17 20:15:08Z
+  {49aba5fd-8dea-4782-900f-4bac4cfd35af}
+2014-09-16 16:00:27Z
+  {5446a0aa-7cdf-4208-af85-5aafb327e00e}
+2014-09-15 21:03:54Z
+  {83bb2d8c-3d18-11e4-8262-ac220b2a5a56}
+2014-09-12 15:42:14Z
+  {5c18fcb2-e2a6-11e3-8258-ac220b2a5a56}
+2014-09-12 15:33:32Z
+  {11fadcf4-e259-11e3-8258-ac220b2a5a56}
+2014-08-08 20:44:42Z
+  {ac1dd09d-55e0-4621-8942-193e19f14be9}
+2014-08-04 21:09:17Z
+  {31acd9bd-176e-4bb6-9667-f34d7d4e1b46}
+2014-07-15 14:18:51Z
+  {4f5b220c-0bff-11e4-825d-ac220b2a5a56}
+2014-07-14 21:48:10Z
+  {567e52c7-0b5c-11e4-825d-ac220b2a5a56}
+2014-07-07 13:07:30Z
+  {6758d071-05b6-11e4-825a-ac220b2a5a56}
+2014-07-01 21:02:59Z
+  {66a49b4c-012d-11e4-825a-ac220b2a5a56}
+2014-05-29 21:33:17Z
+  {b331ded0-e778-11e3-8258-ac220b2a5a56}
+2014-05-29 21:33:14Z
+  {b331db4e-e778-11e3-8258-ac220b2a5a56}
+2014-05-21 21:29:34Z
+  {14fc5203-e0e5-11e3-8258-ac220b2a5a56}
+2014-05-21 20:54:30Z
+  {14fc504e-e0e5-11e3-8258-ac220b2a5a56}
+2014-05-21 19:45:15Z
+  {14fc45bc-e0e5-11e3-8258-ac220b2a5a56}
+2014-05-20 14:26:21Z
+  {c4b20ddb-3f44-4286-935a-a0b10d948e59}
+2014-05-20 14:23:56Z
+  {10feca76-e030-11e3-8250-806e6f6e6963}
+  {10feca77-e030-11e3-8250-806e6f6e6963}
+  {7be91ab7-00ad-47b7-8615-cbfec797c5c3}
+
+Drives:
+2014-05-20 14:19:40Z - CPC
+
+Unique MAC Addresses:
+AC:22:0B:2A:5A:56
+80:6E:6F:6E:69:63
+19:3E:19:F1:4B:E9
+8B:06:1E:67:2E:99
+F3:4D:7D:4E:1B:46
+8F:2E:2E:31:63:16
+4B:AC:4C:FD:35:AF
+74:59:01:28:20:60
+5A:AF:B3:27:E0:0E
+A0:B1:0D:94:8E:59
+CB:FE:C7:97:C5:C3
+
+Analysis Tip: Correlate the Volume entries to those found in the MountedDevices
+entries that begin with "\??\Volume".
+----------------------------------------
+mpmru v.20200517
+(NTUSER.DAT) Gets user's Media Player RecentFileList values
+
+Software\Microsoft\MediaPlayer\Player\RecentFileList not found.
+----------------------------------------
+msoffice v.20200518
+
+Office Identities
+Eric (eric@SU.local)
+
+Software\Microsoft\Office\15.0\Common\Internet
+LastWrite time: 2014-09-16 17:36:50Z
+UseRWHlinkNavigation value = C:\Users\eric\Desktop\Intro Slides 2014 revised.pptx
+
+Word - TrustRecords
+2014-11-07 18:58:13Z: file:///C:/ProjectWorkingFolder/ShellBagsExplorer/ShellBagsExplorer/ShellBagsExplorerManual.docx
+
+Word\User MRU\AD_E4AD528701B6F14FEA4579C55D1CE68A7BC6B175E25472D710E2C350F620B4DE - File MRU
+2014-11-26 18:01:01Z: C:\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorerManual.docx
+2014-11-19 17:05:59Z: D:\Dropbox (Personal)\EricZimmermanCV.docx
+2014-11-07 18:58:54Z: C:\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer\ShellBagsExplorerManual.docx
+2014-11-04 15:24:47Z: C:\ProjectWorkingFolder\GOON2\GOON2\GOON2Manual.docx
+2014-10-16 19:22:29Z: C:\Users\eric\Desktop\Payment info.docx
+2014-09-18 19:17:08Z: C:\Users\eric\Desktop\How to get osTriage.docx
+2014-09-18 15:27:15Z: C:\Users\eric\Desktop\osTriage webinar schedule.docx
+2014-09-15 17:31:57Z: C:\ProjectWorkingFolder\osTriage2\trunk\osTriage2\osTriageManual.docx
+2014-09-02 17:17:49Z: D:\!ost2 test\Paltalk\chats\im_9785274818365163.rtf
+2014-09-02 17:17:24Z: D:\!ost2 test\Paltalk\chats\im_978527481599078.rtf
+2014-09-02 16:58:05Z: D:\!ost2 test\Paltalk\chats\im_9785274890493451.rtf
+2014-09-02 16:58:02Z: D:\!ost2 test\Paltalk\chats\im_9785274895150280.rtf
+2014-09-02 16:57:57Z: D:\!ost2 test\Paltalk\chats\im_9785274885060492.rtf
+2014-09-02 16:57:52Z: D:\!ost2 test\Paltalk\chats\im_9785274884961160.rtf
+2014-09-02 15:56:24Z: C:\Users\eric\AppData\Roaming\Paltalk\chats\im_9805660585106392.rtf
+2014-09-02 15:56:22Z: C:\Users\eric\AppData\Roaming\Paltalk\chats\im_9805660579899030.rtf
+2014-09-02 15:55:35Z: C:\Users\eric\AppData\Roaming\Paltalk\chats\im_98056605188845.rtf
+2014-09-02 15:51:43Z: C:\Users\eric\AppData\Roaming\Paltalk\chats\im_9805660590506218.rtf
+2014-09-02 15:51:37Z: C:\Users\eric\AppData\Roaming\Paltalk\chats\im_9805660582121034.rtf
+2014-09-02 15:51:27Z: C:\Users\eric\AppData\Roaming\Paltalk\chats\im_9805660597975437.rtf
+2014-08-27 19:45:31Z: C:\temp\im_9785274878355564.rtf
+2014-08-25 18:43:02Z: C:\Users\eric\Desktop\FVTC Webinar Lesson Plan_TEMPLATE new 2014.docx
+2014-08-25 18:23:22Z: D:\Dropbox (Personal)\osTriage Objectives and test questions.docx
+2014-08-25 18:12:01Z: D:\Dropbox (Personal)\osTriage training plan.doc
+2014-08-25 13:44:05Z: C:\Users\eric\Desktop\Appeal response - client draft Aug 21 - rev-2.docx
+2014-08-21 13:49:21Z: D:\Dropbox (Personal)\Appeal response.docx
+2014-08-21 12:50:57Z: C:\Users\eric\Desktop\IP Address.docx
+2014-07-11 16:43:47Z: D:\Dropbox (Personal)\GOON2\wishlist.doc
+2014-06-25 18:56:12Z: J:\jobs\KSA OTD posting.docx
+2014-06-25 18:55:06Z: D:\Dropbox (Personal)\KSA.docx
+2014-06-25 17:45:56Z: D:\Dropbox (Personal)\KSA OTD posting.docx
+2014-06-25 16:20:20Z: D:\Dropbox (Personal)\KSA old.docx
+2014-06-25 16:14:16Z: D:\Dropbox (Personal)\KSA Cyber TDY posting.docx
+2014-06-24 21:27:51Z: U:\Sans netwars\Level 1\Level 1.docx
+2014-05-28 14:48:14Z: C:\Users\eric\Desktop\TAP.docx
+2014-05-21 16:31:17Z: C:\Users\eric\Desktop\dxtasy.doc
+2014-05-21 13:47:34Z: D:\Dropbox (Personal)\XW training material\!!!ERZ Class\X-ways training outline.docx
+
+Word\User MRU\AD_E4AD528701B6F14FEA4579C55D1CE68A7BC6B175E25472D710E2C350F620B4DE - Place MRU
+2014-11-26 18:01:01Z: C:\ProjectWorkingFolder\ShellBagsExplorer\
+2014-11-19 17:05:59Z: D:\Dropbox (Personal)\
+2014-11-07 18:58:54Z: C:\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer\
+2014-11-04 15:24:47Z: C:\ProjectWorkingFolder\GOON2\GOON2\
+2014-10-16 19:22:29Z: C:\Users\eric\Desktop\
+2014-09-15 17:31:57Z: C:\ProjectWorkingFolder\osTriage2\trunk\osTriage2\
+2014-09-02 17:17:49Z: D:\!ost2 test\Paltalk\chats\
+2014-09-02 15:56:24Z: C:\Users\eric\AppData\Roaming\Paltalk\chats\
+2014-08-27 19:45:31Z: C:\temp\
+2014-07-11 16:43:47Z: D:\Dropbox (Personal)\GOON2\
+2014-06-25 18:56:12Z: J:\jobs\
+2014-06-24 21:27:51Z: U:\Sans netwars\Level 1\
+2014-05-21 13:47:34Z: D:\Dropbox (Personal)\XW training material\!!!ERZ Class\
+
+
+PowerPoint\User MRU\AD_E4AD528701B6F14FEA4579C55D1CE68A7BC6B175E25472D710E2C350F620B4DE - File MRU
+2014-11-24 13:37:42Z: C:\Users\eric\Desktop\INTRO TO COMPUTER FORENSICS.ppt
+2014-09-18 17:58:13Z: C:\Users\eric\Desktop\Intro Slides 2014 revised.pptx
+2014-07-08 19:18:11Z: D:\Dropbox (Personal)\Powerpoint\Gigatribe Investigations.ppt.ppt
+2014-07-08 19:15:37Z: D:\Dropbox (Personal)\Powerpoint\Gigatribe basic and advanced.ppt
+
+PowerPoint\User MRU\AD_E4AD528701B6F14FEA4579C55D1CE68A7BC6B175E25472D710E2C350F620B4DE - Place MRU
+2014-11-24 13:37:42Z: C:\Users\eric\Desktop\
+2014-07-08 19:18:11Z: D:\Dropbox (Personal)\Powerpoint\
+
+Excel - TrustRecords
+2014-05-21 20:46:24Z: file:///D:/temp/chase.ingersol/Work%20product/Email%20Contact.xlsx **Enable Content button clicked.
+2014-09-23 16:20:28Z: %USERPROFILE%/Desktop/20140923112000_SBE_messages.xlsx
+2014-11-03 17:19:20Z: %USERPROFILE%/Desktop/stronglifts-5x5-lb.xls
+
+Excel\User MRU\AD_E4AD528701B6F14FEA4579C55D1CE68A7BC6B175E25472D710E2C350F620B4DE - File MRU
+2014-11-21 19:59:48Z: C:\Users\eric\Desktop\aa\Out\Deduplicated.tsv
+2014-11-19 15:08:05Z: C:\Users\eric\Desktop\Dedupe data.xlsx
+2014-11-18 22:03:49Z: C:\Users\eric\Desktop\combined.tsv
+2014-11-18 19:45:04Z: C:\Users\eric\Desktop\aa\sample\UsrClass 2.dat.tsv
+2014-11-18 19:45:03Z: C:\Users\eric\Desktop\aa\sample\UsrClass 1.dat.tsv
+2014-11-18 19:04:02Z: D:\temp\hives\Out\AdminUsrClass.dat.tsv
+2014-11-18 19:01:51Z: D:\temp\hives\Out\weg UsrClass.dat.tsv
+2014-11-18 19:01:25Z: D:\temp\hives\Out\DanP_1UsrClass.dat.tsv
+2014-11-17 22:15:06Z: C:\Users\eric\Desktop\sadasddasasasdasdads.tsv
+2014-11-14 19:03:21Z: C:\Users\eric\Desktop\aa\Out\UsrClass.dat.tsv
+2014-11-14 18:58:11Z: C:\Users\eric\Desktop\sasdasdad.tsv
+2014-11-06 23:46:32Z: C:\Users\eric\Desktop\SBEWithFirstVisitAndLastExplored.xlsx
+2014-11-06 17:56:36Z: C:\Users\eric\Desktop\asdadsasd.csv
+2014-11-06 17:16:54Z: C:\Users\eric\Desktop\SBETestData.xlsx
+2014-11-03 17:19:31Z: C:\Users\eric\Desktop\stronglifts-5x5-lb.xls
+2014-10-30 16:54:31Z: C:\Users\eric\Desktop\W38_PCAP_Analysis1.xlsx
+2014-09-23 16:48:24Z: C:\Users\eric\Desktop\Sans408 index.xlsx
+2014-09-23 16:20:42Z: C:\Users\eric\Desktop\20140923112000_SBE_messages.xlsx
+2014-09-23 02:52:46Z: C:\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer\bin\x86\Debug\20140922205238_SBE_messages.xlsx
+2014-09-23 02:49:10Z: C:\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer\bin\x86\Debug\20140922204846_SBE_messages.xlsx
+2014-09-18 14:31:19Z: C:\Users\eric\Desktop\EmuleParser output.xlsx
+2014-09-17 19:15:21Z: C:\Users\eric\Desktop\EmuleParser output1.xlsx
+2014-09-17 18:56:53Z: C:\temp\foo.xlsx
+2014-09-17 18:44:33Z: C:\Users\eric\Desktop\Manperv\RodAccts.xlsx
+2014-09-17 18:18:19Z: C:\eMTP\OUTPUT\parsed_known_met.csv
+2014-09-17 17:54:33Z: C:\eMTP\OUTPUT\cummulative_output_from_parsed_met_files.csv
+2014-09-17 14:17:51Z: C:\Users\eric\Desktop\2002\eMTP output.xlsx
+2014-09-17 14:02:08Z: C:\eMTP\OUTPUT\parsed_part_met_files.csv
+2014-09-16 15:53:17Z: C:\Users\eric\Desktop\base32sha1.csv
+2014-09-16 15:52:13Z: C:\Users\eric\Desktop\compare.xlsx
+2014-09-15 22:02:45Z: C:\Users\eric\Desktop\RodAccts.xlsx
+2014-09-12 16:30:18Z: C:\Users\eric\Desktop\RodAccts.csv
+2014-07-31 22:21:10Z: K:\Copy of 18 Month TDY Voucher v3.4.xlsx
+2014-07-29 21:15:13Z: D:\temp\TZWORKS\bin\vista.csv
+2014-07-28 21:34:28Z: C:\Users\eric\Desktop\asdasd.xlsx
+2014-07-27 04:47:59Z: C:\Users\eric\Desktop\test.xlsx
+2014-07-27 04:35:41Z: C:\temp\out.csv
+2014-07-27 04:30:24Z: C:\temp\out.xlsx
+2014-07-09 16:50:43Z: C:\Users\eric\Desktop\BD.xlsx
+2014-05-30 19:23:44Z: C:\Users\eric\Desktop\IP Audit.xlsx
+2014-05-29 18:42:43Z: J:\well\yuscologistics\Work product\IPs geolocated.xlsx
+2014-05-21 21:31:44Z: I:\ArchitectureMillworkDesign\Unique IPs geolocated.xlsx
+2014-05-21 21:30:06Z: I:\ArchitectureMillworkDesign\architecturalmillworkdesign-lt-05.06.2013_04.11.2014.xlsx
+2014-05-21 21:22:06Z: D:\temp\yuscologistics\Work product\batch-lookup.xlsx
+2014-05-21 21:21:45Z: C:\Users\eric\Desktop\batch-lookup.csv
+2014-05-21 21:20:14Z: D:\temp\yuscologistics\Work product\Book1.xlsx
+2014-05-21 21:19:41Z: D:\temp\yuscologistics\Work product\Email Contact.csv
+2014-05-21 21:01:54Z: D:\temp\chase.ingersol\Work product\Email Contact.xlsx
+2014-05-21 20:58:19Z: C:\Users\eric\Desktop\batch-lookup.xlsx
+2014-05-21 20:56:30Z: I:\DirectSolution\directsolution49-lt-06.24.2013_04.11.2014.xlsx
+
+Excel\User MRU\AD_E4AD528701B6F14FEA4579C55D1CE68A7BC6B175E25472D710E2C350F620B4DE - Place MRU
+2014-11-21 19:59:48Z: C:\Users\eric\Desktop\aa\Out\
+2014-11-19 15:08:05Z: C:\Users\eric\Desktop\
+2014-11-18 19:45:04Z: C:\Users\eric\Desktop\aa\sample\
+2014-11-18 19:04:02Z: D:\temp\hives\Out\
+2014-09-23 02:52:46Z: C:\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer\bin\x86\Debug\
+2014-09-17 18:56:53Z: C:\temp\
+2014-09-17 18:44:33Z: C:\Users\eric\Desktop\Manperv\
+2014-09-17 18:18:19Z: C:\eMTP\OUTPUT\
+2014-09-17 14:17:51Z: C:\Users\eric\Desktop\2002\
+2014-07-31 22:21:10Z: K:\
+2014-07-29 21:15:13Z: D:\temp\TZWORKS\bin\
+2014-05-29 18:42:43Z: J:\well\yuscologistics\Work product\
+2014-05-21 21:31:44Z: I:\ArchitectureMillworkDesign\
+2014-05-21 21:22:06Z: D:\temp\yuscologistics\Work product\
+2014-05-21 21:01:54Z: D:\temp\chase.ingersol\Work product\
+2014-05-21 20:56:30Z: I:\DirectSolution\
+2014-05-21 20:31:42Z: D:\temp\mtd4949\Work product\
+2014-05-21 20:30:44Z: D:\temp\mtd4949\
+
+
+Word - Reading Locations
+2014-11-04 15:24:15Z: C:\ProjectWorkingFolder\GOON2\GOON2\GOON2Manual.docx (2014-11-04T08:24)
+2014-10-16 17:22:36Z: C:\Users\eric\Desktop\Payment info.docx (2014-10-16T11:22)
+2014-11-04 19:30:56Z: C:\Users\eric\AppData\Local\Temp\SAMPLE OF OLD CRT AND NEW SAGE QUESTIONS.docx (2014-11-04T12:30)
+2014-11-06 16:16:40Z: C:\Users\eric\AppData\Local\Temp\AG2014-838 Ops Plan, Barfuss.docx (2014-11-06T09:16)
+2014-11-07 18:59:50Z: C:\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorer\ShellBagsExplorerManual.docx (2014-11-07T11:59)
+2014-11-17 15:10:38Z: C:\Users\eric\AppData\Local\Temp\Ops Order for Stump residence - Taylorsville.docx (2014-11-17T08:10)
+2014-11-18 18:35:45Z: C:\Users\eric\AppData\Local\Temp\Ops Plan for Lehi SW - Macarthur.docx (2014-11-18T11:35)
+2014-11-19 17:34:34Z: D:\Dropbox (Personal)\EricZimmermanCV.docx (2014-11-19T10:34)
+2014-11-26 18:01:01Z: C:\ProjectWorkingFolder\ShellBagsExplorer\ShellBagsExplorerManual.docx (2014-11-26T11:01)
+
+----------------------------------------
+muicache v.20200525
+(NTUSER.DAT,USRCLASS.DAT) Gets EXEs from user's MUICache key
+
+Software\Microsoft\Windows\ShellNoRoam\MUICache
+LastWrite Time 2014-05-20 14:31:38Z
+  C:\Program Files\GPSoftware\Directory Opus\dopusrt.exe (Directory Opus Launcher)
+  C:\Program Files\GPSoftware\Directory Opus\d8viewer.exe (Directory Opus Viewer)
+Local Settings\Software\Microsoft\Windows\Shell\MUICache not found.
+----------------------------------------
+nation v.20200517
+(ntuser.dat) Gets region information from HKCU
+
+Nation Information Check
+Control Panel\International\Geo
+LastWrite time: 2014-05-20 14:19:35Z
+
+The Region value is : 244
+The Country Is: United States
+For more information please visit the link below:
+https://msdn.microsoft.com/en-us/library/aa723531.aspx
+
+----------------------------------------
+oisc v.20091125
+(NTUSER.DAT) Gets contents of user's Office Internet Server Cache
+
+Office Version: 15.0
+Software\Microsoft\Office\15.0\Common\Internet\Server Cache not found.
+----------------------------------------
+onedrive v.20200515
+(NTUSER.DAT) Gets contents of user's OneDrive key
+
+Software\Microsoft\OneDrive not found.
+----------------------------------------
+OSVersion
+Software\Microsoft
+LastWrite Time 2014-12-08 13:17:04Z
+
+OSVersion value not found.
+----------------------------------------
+outlookhomepage v.20201002
+(NTUSER.DAT, Software) Retrieve values set to attack Outlook WebView Homepage
+
+Looking for webview homepage modifications. If this value is pointing
+to a URL outside the corporate domain it may be a malicious site.
+
+Looking for key values associated with security.
+If you see:
+[Example]  EnableRoamingFolderHomepages : 1
+[Example]  NonDefaultStoreScript : 1
+[Example]  EnableUnsafeClientMailRules : 1
+You may have a security vulnerability that allows attackers to hijack the URL
+
+----------------------------------------
+pendinggpos v.20200427
+NTUSER.DAT - Gets contents of user's PendingGPOs key
+
+Software\Microsoft\IEAK\GroupPolicy\PendingGPOs not found.
+----------------------------------------
+profiler v.20200525
+(NTUSER.DAT, System) Environment profiler information
+
+Environment
+LastWrite Time 2014-06-27 19:12:14Z
+
+TMP -> %USERPROFILE%\AppData\Local\Temp
+TEMP -> %USERPROFILE%\AppData\Local\Temp
+Path -> C:\Program Files (x86)\IDM Computer Solutions\UltraEdit\
+
+----------------------------------------
+pslogging v.20200515
+(NTUSER.DAT, Software) Extracts PowerShell logging settings
+
+Software\Policies\Microsoft\Windows\PowerShell not found.
+Policies\Microsoft\Windows\PowerShell not found.
+----------------------------------------
+----------------------------------------
+putty v.20200515
+(NTUSER.DAT) Extracts the saved SshHostKeys for PuTTY.
+
+Software\SimonTatham\PuTTY\SshHostKeys not found.
+
+----------------------------------------
+recentapps v.20200515
+- Gets contents of user's RecentApps key
+
+Software\Microsoft\Windows\CurrentVersion\Search\RecentApps not found.
+----------------------------------------
+recentdocs v.20200427
+(NTUSER.DAT) Gets contents of user's RecentDocs key
+
+RecentDocs
+**All values printed in MRUList\MRUListEx order.
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs
+LastWrite Time: 2014-12-08 14:59:56Z
+  41 = ShellBagsExplorer
+  2 = ShellBagsExplorer.sln
+  112 = Registry
+  128 = Registry.sln
+  42 = reciepts
+  131 = OJYBIB.pdf
+  147 = Hotel.png
+  17 = Hives for lunch
+  26 = UsrClass unknown stuff lee history vault websites.dat
+  16 = Donald
+  83 = NTUSER.DAT
+  8 = UsrClass.dat
+  7 = !working
+  141 = DaveB_UsrClass.dat
+  74 = aa
+  110 = UsrClass 1.dat
+  93 = DanP_1UsrClass.dat
+  98 = UsrClass CDburn UNC fat filesystem .dat
+  71 = ptviola50.zip
+  13 = test data
+  126 = UsrClassJimW2.dat
+  49 = UsrClassWin10.dat
+  36 = 10
+  76 = UsrClass (8).dat
+  135 = _Master
+  95 = Calendar24.png
+  118 = Folder (Adorner in front) Information
+  129 = Folder (Adorner in front) Information24.png
+  9 = !Strange
+  14 = Error
+  51 = AlertsError24.png
+  143 = Alerts
+  138 = Alerts24.png
+  58 = XWFManager
+  59 = XWFManager.aup
+  60 = trunk
+  34 = XWFManager.sln
+  24 = FTP directories.png
+  127 = ts2.png
+  104 = ts1.png
+  37 = ShellBagsExplorerManual.docx
+  52 = ShellBagsExplorerManual.pdf
+  40 = Reed Richards
+  124 = Win7SP1
+  133 = win7
+  134 = others
+  55 = Susan Storm Richards
+  70 = Windows
+  23 = Dropbox (Personal)
+  87 = SANS proposal.txt
+  69 = !ext block mismatch
+  10 = Thumb (J:)
+  1 = CAT_Deployment_in_Support_of_OPWAN_Roll-out.pdf
+  4 = Cannot Parse
+  18 = l_blue.png
+  33 = f_blue.png
+  99 = Hard Disk
+  149 = GOON2
+  3 = GOON2.sln
+  137 = ErdleyDump
+  62 = ErdleyDump.vbproj
+  38 = Release
+  105 = Log.txt
+  0 = ErdelyDump2.csproj
+  72 = ErdleyDump.sln
+  53 = GigaRoundUpImport.sln
+  50 = Samsung SSD 840 PRO Series.e01
+  97 = New Case.xfc
+  15 = HashesOfInterest 2014112512472522.txt
+  25 = Clipboard Text.txt
+  146 = 2014-11-21 errors.txt
+  78 = 2014-11-19 errors.txt
+  45 = Debian6.0.10/
+  31 = Q2318NW_CIR_1999.zip
+  100 = SBETODO.txt
+  80 = Beef000e block.txt
+  117 = vmware.log
+  144 = vmware-2.log
+  56 = Windows 7 x64 Gigatribe.vmx
+  130 = timeapp.sln
+  88 = INTRO TO COMPUTER FORENSICS.ppt
+  63 = Deduplicated.tsv
+  111 = SandTimer.ico
+  122 = TimeLord.application
+  94 = 2014-11-12 errors.txt
+  75 = 2014-11-17 errors.txt
+  27 = EricZimmermanCV.docx
+  82 = Dedupe data.xlsx
+  85 = combined.tsv
+  73 = 0-635448408689030000.json
+  11 = UsrClass 2.dat.tsv
+  47 = UsrClass 1.dat.tsv
+  145 = AdminUsrClass.dat.tsv
+  109 = weg UsrClass.dat.tsv
+  20 = DanP_1UsrClass.dat.tsv
+  12 = sadasddasasasdasdads.tsv
+  116 = Administrative.cs
+  107 = AdministrativeService.cs
+  46 = frmMain.vb
+  6 = MainForm.cs
+  44 = History.cs
+  54 = osTriageManual.pdf
+  120 = UsrClass.dat.tsv
+  86 = sasdasdad.tsv
+  68 = csv.jpg
+  28 = tsv.jpg
+  108 = dsadadsads.xlsx
+  64 = install-20140529123206.log
+  125 = weg UsrClass.dat.csv
+  102 = Book1DanP.csv
+  90 = tdun2UsrClass.dat.csv
+  5 = helpdeskUsrClass.dat.csv
+  123 = AdminUsrClass.dat.csv
+  66 = GridData.cs
+  103 = SBECmd.saproj
+  35 = BriefcaseSearch256.ico
+  132 = asddsasadasdsda.csv
+  114 = asddsaasdsa.csv
+  96 = aaaaa.csv
+  65 = SBEWithFirstVisitAndLastExplored.xlsx
+  84 = aaaaaaa.csv
+  142 = dasdasdas.csv
+  140 = SBETestData.xlsx
+  22 = licenses.licx
+  91 = 20121215_121512.jpg
+  77 = GigaRoundUpImport.saproj
+  136 = action.asmx.vb
+  101 = invoice_4-141025-5909.pdf
+  21 = invoice_4-140825-6359.pdf
+  148 = INV00818612.pdf
+  113 = Video.MOV
+  19 = 184278_infidel_infidel_lililili.mp3
+  61 = ring_ding.mp3
+  121 = gun95silencerRingtone.mp3
+  48 = Resampled_2013-06-22_11-39-16_326.jpg
+  30 = noodles stickers.jpg
+  89 = ts.mp3
+  139 = GOONService.sln
+  115 = GOON2Manual.pdf
+  32 = GOON2Manual.docx
+  29 = 1212466.avi
+  79 = 1209170.avi
+  92 = 1185981.avi
+  81 = 1143559.avi
+  119 = 969372.avi
+  106 = 472256.avi
+  39 = 459804.avi
+  67 = 451658.avi
+  43 = 449518.avi
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.001
+LastWrite Time 2014-07-07 13:01:53Z
+MRUListEx = 1,0
+  1 = Hard disk 5, Partition 1.001
+  0 = Seagate FreeAgent GoFlex.001
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.10/
+LastWrite Time 2014-11-25 16:51:32Z
+MRUListEx = 0
+  0 = Debian6.0.10/
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.7z
+LastWrite Time 2014-10-17 15:16:01Z
+MRUListEx = 5,4,3,2,1,0
+  5 = mimikatz_trunk.7z
+  4 = SIFT Workstation 3.0.7z
+  3 = com.sgiggle.Tango.7z
+  2 = ffmpeg-20140818-git-3c19744-win32-static.7z
+  1 = pics17.8.7z
+  0 = pics 17.7 sr7.7z
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.ad1
+LastWrite Time 2014-09-24 14:08:57Z
+MRUListEx = 0
+  0 = SANS508-USRCLASS-NTUSER.ad1
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.application
+LastWrite Time 2014-11-19 20:47:58Z
+MRUListEx = 0
+  0 = TimeLord.application
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.asc
+LastWrite Time 2014-10-16 15:36:27Z
+MRUListEx = 5,4,3,2,1,0
+  5 = gmgarner_at_gmgsystemsinc_dot_com.asc
+  4 = keyserver1.pgp.comGlobalDirectoryKey.asc
+  3 = Eric_Peterson_keypair.asc
+  2 = ericpeterson87@gmail.com (0x24E22AFC) rev.asc
+  1 = LlallawgFyrddin.asc
+  0 = DF04B457.asc
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.aup
+LastWrite Time 2014-11-26 22:51:11Z
+MRUListEx = 2,1,0,5,6,9,8,7,3
+  2 = XWFManager.aup
+  1 = GOON2.aup
+  0 = osTriage2.aup
+  5 = Hasher.aup
+  6 = ShellBagsExplorer.aup
+  9 = eMuleParser.aup
+  8 = Installer.aup
+  7 = GOON.aup
+  3 = XWFRT.aup
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.avi
+LastWrite Time 2014-11-04 14:22:47Z
+MRUListEx = 1,0,9,8,7,6,5,4,3,2
+  1 = 1212466.avi
+  0 = 1209170.avi
+  9 = 1185981.avi
+  8 = 1143559.avi
+  7 = 969372.avi
+  6 = 472256.avi
+  5 = 459804.avi
+  4 = 451658.avi
+  3 = 449518.avi
+  2 = 448247.avi
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.bak4
+LastWrite Time 2014-07-21 13:38:14Z
+MRUListEx = 0
+  0 = Rodriguez.xfc.bak4
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.config
+LastWrite Time 2014-08-19 12:48:35Z
+MRUListEx = 0
+  0 = NLog.config
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.crdownload
+LastWrite Time 2014-07-24 19:39:22Z
+MRUListEx = 0
+  0 = Unconfirmed 410416.crdownload
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.cs
+LastWrite Time 2014-11-17 21:59:30Z
+MRUListEx = 7,6,0,5,4,3,2,1
+  7 = Administrative.cs
+  6 = AdministrativeService.cs
+  0 = MainForm.cs
+  5 = History.cs
+  4 = GridData.cs
+  3 = About.cs
+  2 = PartMet.cs
+  1 = EmailService.cs
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.csproj
+LastWrite Time 2014-11-26 14:07:05Z
+MRUListEx = 2,1,0
+  2 = ErdelyDump2.csproj
+  1 = GOON2Manager.csproj
+  0 = osTriagePluginFreenet.csproj
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.css
+LastWrite Time 2014-09-11 14:54:46Z
+MRUListEx = 0
+  0 = report.css
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.csv
+LastWrite Time 2014-11-07 20:58:01Z
+MRUListEx = 6,5,4,2,3,7,9,1,0,8
+  6 = weg UsrClass.dat.csv
+  5 = Book1DanP.csv
+  4 = tdun2UsrClass.dat.csv
+  2 = helpdeskUsrClass.dat.csv
+  3 = AdminUsrClass.dat.csv
+  7 = asddsasadasdsda.csv
+  9 = asddsaasdsa.csv
+  1 = aaaaa.csv
+  0 = aaaaaaa.csv
+  8 = dasdasdas.csv
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.dat
+LastWrite Time 2014-12-03 03:23:07Z
+MRUListEx = 6,2,3,7,5,0,1,8,4,9
+  6 = UsrClass unknown stuff lee history vault websites.dat
+  2 = NTUSER.DAT
+  3 = UsrClass.dat
+  7 = DaveB_UsrClass.dat
+  5 = UsrClass 1.dat
+  0 = DanP_1UsrClass.dat
+  1 = UsrClass CDburn UNC fat filesystem .dat
+  8 = UsrClassJimW2.dat
+  4 = UsrClassWin10.dat
+  9 = UsrClass (8).dat
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.dd
+LastWrite Time 2014-10-16 16:14:53Z
+MRUListEx = 0
+  0 = hiberfil.sys.dd
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.dmp
+LastWrite Time 2014-10-15 20:22:37Z
+MRUListEx = 0
+  0 = process.0xfffffa803eb23060.0x1c0b0000.dmp
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.doc
+LastWrite Time 2014-08-25 18:25:59Z
+MRUListEx = 2,1,0
+  2 = osTriage training plan.doc
+  1 = wishlist.doc
+  0 = dxtasy.doc
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.docx
+LastWrite Time 2014-11-26 18:01:01Z
+MRUListEx = 9,0,6,2,7,1,8,5,4,3
+  9 = ShellBagsExplorerManual.docx
+  0 = EricZimmermanCV.docx
+  6 = GOON2Manual.docx
+  2 = Payment info.docx
+  7 = How to get osTriage.docx
+  1 = osTriage webinar schedule.docx
+  8 = osTriageManual.docx
+  5 = FVTC Webinar Lesson Plan_TEMPLATE new 2014.docx
+  4 = osTriage Objectives and test questions.docx
+  3 = Appeal response - client draft Aug 21 - rev-2.docx
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.e01
+LastWrite Time 2014-11-25 19:48:31Z
+MRUListEx = 8,7,5,4,3,0,6,1,2,9
+  8 = Samsung SSD 840 PRO Series.e01
+  7 = 14257-6.E01
+  5 = 14257-4_1.E01
+  4 = 14257-3.E01
+  3 = 14257-2.E01
+  0 = 14257-1.E01
+  6 = 14257-5_1.E01
+  1 = 14257-4_RAM.E01
+  2 = 14257-2_RAM.E01
+  9 = 14257-1_RAM.E01
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.elc
+LastWrite Time 2014-10-16 21:02:56Z
+MRUListEx = 0
+  0 = login.elc
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.evtx
+LastWrite Time 2014-10-16 22:35:49Z
+MRUListEx = 0
+  0 = Security.evtx
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.gif
+LastWrite Time 2014-07-24 19:28:23Z
+MRUListEx = 0
+  0 = xml.gif
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.gz
+LastWrite Time 2014-07-17 13:47:59Z
+MRUListEx = 0
+  0 = update_3.0.12_to_3.1.0-RC2.tar.gz
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.h
+LastWrite Time 2014-09-12 20:02:53Z
+MRUListEx = 0
+  0 = opcodes.h
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.htm
+LastWrite Time 2014-10-10 20:40:55Z
+MRUListEx = 1,0
+  1 = Re  US Water ICS Intrusion - Provo River Water Association 288A-SU-5632698 - Outlook Web Access Light.htm
+  0 = Deciphering of  known.met  file.htm
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.html
+LastWrite Time 2014-10-16 20:53:14Z
+MRUListEx = 3,0,5,4,9,8,7,2,1,6
+  3 = Registry Report 1.html
+  0 = Registry Report 4.html
+  5 = Registry Report 5.html
+  4 = Registry Report 6.html
+  9 = Registry Report -3.html
+  8 = Registry Report -2.html
+  7 = Registry Report.html
+  2 = index.html
+  1 = arfntjlf.bvn_contactSheet.html
+  6 = ibfg0pwb.tub_contactSheet.html
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.ico
+LastWrite Time 2014-11-20 21:54:43Z
+MRUListEx = 2,4,9,1,0,8,7,6,5,3
+  2 = SandTimer.ico
+  4 = BriefcaseSearch256.ico
+  9 = emule.ico
+  1 = ExternalHardDrive256.ico
+  0 = emule (1).ico
+  8 = PcDesktopSearch256.ico
+  7 = GangOfCriminals256.ico
+  6 = Threading256.ico
+  5 = ServerToClient256.ico
+  3 = BriefcaseSearch.ico
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.ids
+LastWrite Time 2014-08-20 13:43:19Z
+MRUListEx = 0
+  0 = usb.ids
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.ini
+LastWrite Time 2014-09-22 01:31:43Z
+MRUListEx = 2,1,0
+  2 = preferences.ini
+  1 = statistics.ini
+  0 = toolboxcreator.ini
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.jpg
+LastWrite Time 2014-11-14 18:49:12Z
+MRUListEx = 0,2,9,8,7,6,5,1,4
+  0 = csv.jpg
+  2 = tsv.jpg
+  9 = 20121215_121512.jpg
+  8 = Resampled_2013-06-22_11-39-16_326.jpg
+  7 = noodles stickers.jpg
+  6 = IMG_5499.JPG
+  5 = AA1B4Cg_h150_w310_m7[1].jpg
+  1 = IMG_0024.JPG
+  4 = download.jpg
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.json
+LastWrite Time 2014-11-18 20:20:21Z
+MRUListEx = 8,7,6,5,3,2,1,0,9,4
+  8 = 0-635448408689030000.json
+  7 = InviteAcceptCreate_0f71fd34-b125-4401-a827-cb4dc663aaea.json
+  6 = DeletedUserCreate_6c77c13f-e4c0-4fbf-957f-61c82563e6de.json
+  5 = DeletedUserCreate_0fa2d8e8-25f5-4acf-af7c-0db763476425.json
+  3 = GIMPRunCreate_ee785204-c1ec-4a1b-8033-9d6737d41ad0.json
+  2 = GIMPRunCreate_ee96358f-c158-49c9-9be7-8f3d7b085a74.json
+  1 = GIMPRunCreate_ee246a0c-f7ca-45a7-906b-75a903c7246c.json
+  0 = GIMPRunCreate_ee35b4dd-23ed-412d-8470-5f50c37aaf7a.json
+  9 = GIMPRunCreate_ebe26eaf-641f-49f5-9e57-518427392cb7.json
+  4 = GIMPRunCreate_eb009963-3c8f-4032-aea7-8fc23c49a828.json
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.licx
+LastWrite Time 2014-11-05 13:42:07Z
+MRUListEx = 0
+  0 = licenses.licx
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.log
+LastWrite Time 2014-11-25 15:37:46Z
+MRUListEx = 6,5,4,3,2,1,0
+  6 = vmware.log
+  5 = vmware-2.log
+  4 = install-20140529123206.log
+  3 = out.log
+  2 = SYSTEM.log
+  1 = console.log
+  0 = log4net_internal.log
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.m4a
+LastWrite Time 2014-10-22 14:38:05Z
+MRUListEx = 0
+  0 = tell em (official video1080hdp) - saquan - directed by Enzo & LaVon Smith (256kbit).m4a
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.mbox
+LastWrite Time 2014-05-21 19:01:53Z
+MRUListEx = 0
+  0 = mtd4949@gmail.com.Gmail.Content.mbox
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.met
+LastWrite Time 2014-09-12 19:51:43Z
+MRUListEx = 3,2,1,0
+  3 = 005.part.met
+  2 = 008.part.met
+  1 = known2_64.met
+  0 = known.met
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.MOV
+LastWrite Time 2014-11-04 15:53:56Z
+MRUListEx = 5,4,3,2,1,0
+  5 = Video.MOV
+  4 = app.mov
+  3 = DSCN2758.MOV
+  2 = DSCN2753.MOV
+  1 = DSCN2750.MOV
+  0 = DSCN2316.MOV
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.mp3
+LastWrite Time 2014-11-04 15:53:40Z
+MRUListEx = 3,2,1,0
+  3 = 184278_infidel_infidel_lililili.mp3
+  2 = ring_ding.mp3
+  1 = gun95silencerRingtone.mp3
+  0 = ts.mp3
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.mp4
+LastWrite Time 2014-10-22 14:45:42Z
+MRUListEx = 4,3,2,1,0
+  4 = Cross Country Pimping Part 4-Preview (360p).mp4
+  3 = A-Jay - Bill Clinton - STEEZY BOY RECORDS. Dir. by saquan (720p).mp4
+  2 = SALT LAKE-COUNTRY CHRIS INTERVIEW (SAQUAN) (480p).mp4
+  1 = tell em (official video1080hdp) - saquan - directed by Enzo & LaVon Smith (1080p).mp4
+  0 = SSG Win8.1 Unit Demo.mp4
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.mpg
+LastWrite Time 2014-06-27 15:19:49Z
+MRUListEx = 0
+  0 = AntiProp.mpg
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.O
+LastWrite Time 2014-07-18 18:49:19Z
+MRUListEx = 0
+  0 = REO Speedwagon - R.E.O
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.opuscert
+LastWrite Time 2014-05-20 18:23:39Z
+MRUListEx = 2,1,0
+  2 = Directory Opus Program Certificate 5 user.opuscert
+  1 = Directory Opus Program Certificate 10 user.opuscert
+  0 = Directory Opus Program Certificate.opuscert
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.org
+LastWrite Time 2014-05-22 12:36:33Z
+MRUListEx = 0
+  0 = spepenella@pascosheriff.org
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.pcv
+LastWrite Time 2014-05-20 15:25:34Z
+MRUListEx = 1,0
+  1 = PostBox 3.0.9 (en-US) - 2014-05-20.pcv
+  0 = PostBox 3.0.8 (en-US) - 2013-09-03.pcv
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.pdf
+LastWrite Time 2014-12-08 13:38:58Z
+MRUListEx = 1,0,7,4,2,3,5,6,9,8
+  1 = OJYBIB.pdf
+  0 = ShellBagsExplorerManual.pdf
+  7 = CAT_Deployment_in_Support_of_OPWAN_Roll-out.pdf
+  4 = osTriageManual.pdf
+  2 = invoice_4-141025-5909.pdf
+  3 = invoice_4-140825-6359.pdf
+  5 = INV00818612.pdf
+  6 = GOON2Manual.pdf
+  9 = QuickStartGuide_SanDiskSecureAccessV2.0.pdf
+  8 = WhatsNew.2898.pdf
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.pfx
+LastWrite Time 2014-09-17 21:22:22Z
+MRUListEx = 0
+  0 = Eric Zimmerman.pfx
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.pgp
+LastWrite Time 2014-10-16 20:12:03Z
+MRUListEx = 0
+  0 = EDA2020F-D026-4C8E-902B-AA83A7E39B1E.zip.pgp
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.pl
+LastWrite Time 2014-07-24 18:15:15Z
+MRUListEx = 1,0
+  1 = shellbags.pl
+  0 = shellbags_tln.pl
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.png
+LastWrite Time 2014-12-08 13:25:55Z
+MRUListEx = 1,5,3,4,2,9,0,8,7,6
+  1 = Hotel.png
+  5 = Calendar24.png
+  3 = Folder (Adorner in front) Information24.png
+  4 = AlertsError24.png
+  2 = Alerts24.png
+  9 = FTP directories.png
+  0 = ts2.png
+  8 = ts1.png
+  7 = l_blue.png
+  6 = f_blue.png
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.ppt
+LastWrite Time 2014-11-24 13:37:41Z
+MRUListEx = 2,1,0
+  2 = INTRO TO COMPUTER FORENSICS.ppt
+  1 = Gigatribe Investigations.ppt.ppt
+  0 = Gigatribe basic and advanced.ppt
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.pptx
+LastWrite Time 2014-09-18 17:58:12Z
+MRUListEx = 0,1
+  0 = Intro Slides 2014 revised.pptx
+  1 = Lockdown Plist.pptx
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.rar
+LastWrite Time 2014-10-23 16:14:05Z
+MRUListEx = 4,3,2,1,0
+  4 = UsrClass.rar
+  3 = config.rar
+  2 = 4zimmerman.rar
+  1 = crark34-linux-opencl.rar
+  0 = crark50-ocl.rar
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.rtf
+LastWrite Time 2014-09-17 21:45:04Z
+MRUListEx = 5,3,2,4,7,8,9,0,6,1
+  5 = ChatLog MIHTCIA May 21st_ 2014 2014_05_21 07_56.rtf
+  3 = ChatLog MIHTCIA May 21st_ 2014 2014_05_21 07_58.rtf
+  2 = im_978527481599078.rtf
+  4 = im_9785274818365163.rtf
+  7 = im_9785274884961160.rtf
+  8 = im_9785274885060492.rtf
+  9 = im_9785274895150280.rtf
+  0 = im_9785274890493451.rtf
+  6 = im_9805660579899030.rtf
+  1 = im_98056605188845.rtf
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.saproj
+LastWrite Time 2014-11-07 19:32:51Z
+MRUListEx = 3,2,1,0,9,8,7,6,5,4
+  3 = SBECmd.saproj
+  2 = GigaRoundUpImport.saproj
+  1 = eMuleParser.saproj
+  0 = Installer.saproj
+  9 = GOONReplay.saproj
+  8 = ShellBagsExplorer.saproj
+  7 = Hasher.saproj
+  6 = ConsoleApplication6.saproj
+  5 = XWFRT.saproj
+  4 = GigaURLMonitor.saproj
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.sfsdb
+LastWrite Time 2014-08-28 22:21:18Z
+MRUListEx = 0
+  0 = ads.sfsdb
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.sil
+LastWrite Time 2014-09-16 15:37:08Z
+MRUListEx = 1,0,9,8,7,6,5,4,3,2
+  1 = osTriagelog-2014-09-16-15-29-12.sil
+  0 = osTriagelog-2014-09-12-13-21-34.sil
+  9 = osTriagelog-2014-09-11-00-59-29.sil
+  8 = osTriagelog-2014-09-06-16-01-33 Exploding reve report.sil
+  7 = osTriagelog-2014-08-15-05-07-21.sil
+  6 = osTriagelog-2014-05-20-23-38-36.sil
+  5 = osTriagelog-2014-05-20-23-32-29.sil
+  4 = osTriagelog-2014-05-20-23-31-02.sil
+  3 = osTriagelog-2014-05-20-23-23-03.sil
+  2 = osTriagelog-2014-05-20-23-16-00.sil
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.sln
+LastWrite Time 2014-12-08 14:59:56Z
+MRUListEx = 9,8,0,1,2,6,3,4,7,5
+  9 = ShellBagsExplorer.sln
+  8 = Registry.sln
+  0 = XWFManager.sln
+  1 = GOON2.sln
+  2 = ErdleyDump.sln
+  6 = GigaRoundUpImport.sln
+  3 = timeapp.sln
+  4 = GOONService.sln
+  7 = eMule Parser.sln
+  5 = EMIHash.sln
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.spp
+LastWrite Time 2014-08-07 15:46:37Z
+MRUListEx = 0
+  0 = Examples.spp
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.torrent
+LastWrite Time 2014-10-14 13:02:49Z
+MRUListEx = 0
+  0 = Snappening.torrent
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.tsv
+LastWrite Time 2014-11-21 19:59:47Z
+MRUListEx = 2,1,0,9,8,7,6,5,4,3
+  2 = Deduplicated.tsv
+  1 = combined.tsv
+  0 = UsrClass 2.dat.tsv
+  9 = UsrClass 1.dat.tsv
+  8 = AdminUsrClass.dat.tsv
+  7 = weg UsrClass.dat.tsv
+  6 = DanP_1UsrClass.dat.tsv
+  5 = sadasddasasasdasdads.tsv
+  4 = UsrClass.dat.tsv
+  3 = sasdasdad.tsv
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.txt
+LastWrite Time 2014-11-26 16:14:25Z
+MRUListEx = 7,8,9,3,0,5,2,6,1,4
+  7 = SANS proposal.txt
+  8 = Log.txt
+  9 = HashesOfInterest 2014112512472522.txt
+  3 = Clipboard Text.txt
+  0 = 2014-11-21 errors.txt
+  5 = 2014-11-19 errors.txt
+  2 = SBETODO.txt
+  6 = Beef000e block.txt
+  1 = 2014-11-12 errors.txt
+  4 = 2014-11-17 errors.txt
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.vb
+LastWrite Time 2014-11-17 21:48:27Z
+MRUListEx = 2,1,0
+  2 = frmMain.vb
+  1 = action.asmx.vb
+  0 = Module1.vb
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.vbproj
+LastWrite Time 2014-11-26 14:08:59Z
+MRUListEx = 1,0
+  1 = ErdleyDump.vbproj
+  0 = Hasher3.vbproj
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.vcf
+LastWrite Time 2014-05-21 17:28:00Z
+MRUListEx = 0
+  0 = mtd4949.Gmail.Contacts.vcf
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.vmx
+LastWrite Time 2014-11-25 15:30:13Z
+MRUListEx = 2,1,0
+  2 = Windows 7 x64 Gigatribe.vmx
+  1 = SIFT Workstation 3.0.vmx
+  0 = Windows 7 x64.vmx
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.vsix
+LastWrite Time 2014-05-20 21:50:51Z
+MRUListEx = 1,0
+  1 = PostSharp-3.1.40.vsix
+  0 = RedGate.NetDemon.vsix
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.wma
+LastWrite Time 2014-09-11 14:40:43Z
+MRUListEx = 0
+  0 = บอกให้คนเสิร์ฟเอาเบียร์มาให้ฉันขวดหนึ่ง.wma
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.xfc
+LastWrite Time 2014-11-25 19:48:08Z
+MRUListEx = 0,2,4,7,6,5,3,1
+  0 = New Case.xfc
+  2 = Rodriguez.xfc
+  4 = SU-2719767_2.xfc
+  7 = 288A-SU-5632698.xfc
+  6 = 454545.xfc
+  5 = New Case1.xfc
+  3 = SU-2719767.xfc
+  1 = wednesday demo.xfc
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.xls
+LastWrite Time 2014-11-03 17:19:31Z
+MRUListEx = 0
+  0 = stronglifts-5x5-lb.xls
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.xlsx
+LastWrite Time 2014-11-19 15:08:05Z
+MRUListEx = 8,0,2,6,5,4,1,3,9,7
+  8 = Dedupe data.xlsx
+  0 = dsadadsads.xlsx
+  2 = SBEWithFirstVisitAndLastExplored.xlsx
+  6 = SBETestData.xlsx
+  5 = W38_PCAP_Analysis1.xlsx
+  4 = Sans408 index.xlsx
+  1 = 20140923112000_SBE_messages.xlsx
+  3 = 20140922205238_SBE_messages.xlsx
+  9 = 20140922204846_SBE_messages.xlsx
+  7 = EmuleParser output.xlsx
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.xml
+LastWrite Time 2014-09-18 14:54:20Z
+MRUListEx = 8,7,6,5,4,3,1,2,0
+  8 = ar.xml
+  7 = 5c5b9f88-ac6e-431b-9c51-a636f91cdcbd-u.xml
+  6 = xml.xml
+  5 = skype1.xml
+  4 = skype.xml
+  3 = bumble_bee.xml
+  1 = zimjob1.xml
+  2 = classybitch.xml
+  0 = exception-33535047382f23f90dff30d7194281c7-1d7906f2-0d77-4771-acd3-87c26e339a48.xml
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.xspf
+LastWrite Time 2014-09-24 16:05:06Z
+MRUListEx = 1,0
+  1 = LedZep.xspf
+  0 = aaaaaaaaaa.xspf
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.zip
+LastWrite Time 2014-11-29 18:07:40Z
+MRUListEx = 8,7,6,5,3,4,2,1,0
+  8 = ptviola50.zip
+  7 = Q2318NW_CIR_1999.zip
+  6 = 2002.zip
+  5 = level 1a.zip
+  3 = TZWORKS.zip
+  4 = level 1.zip
+  2 = zSearch529.zip
+  1 = Debug.zip
+  0 = Twitter Text Files.zip
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\Folder
+LastWrite Time 2014-12-08 14:59:56Z
+MRUListEx = 29,6,1,23,22,10,15,21,3,16,19,13,9,8,20,14,0,27,24,26,4,11,5,12,2,28,17,18,25,7
+  29 = ShellBagsExplorer
+  6 = Registry
+  1 = reciepts
+  23 = Hives for lunch
+  22 = Donald
+  10 = !working
+  15 = aa
+  21 = test data
+  3 = 10
+  16 = _Master
+  19 = Folder (Adorner in front) Information
+  13 = !Strange
+  9 = Error
+  8 = Alerts
+  20 = XWFManager
+  14 = trunk
+  0 = Reed Richards
+  27 = Win7SP1
+  24 = win7
+  26 = others
+  4 = Susan Storm Richards
+  11 = Windows
+  5 = Dropbox (Personal)
+  12 = !ext block mismatch
+  2 = Thumb (J:)
+  28 = Cannot Parse
+  17 = Hard Disk
+  18 = GOON2
+  25 = ErdleyDump
+  7 = Release
+
+----------------------------------------
+run v.20200511
+(Software, NTUSER.DAT) [Autostart] Get autostart key contents from Software hive
+
+Software\Microsoft\Windows\CurrentVersion\Run
+LastWrite Time 2014-12-08 13:19:24Z
+  DU Meter - "C:\Program Files (x86)\DU Meter\DUMeter.exe" /autostart
+  GoogleChromeAutoLaunch_6D4382F268C09BA9241DE79E98DCE3EC - "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --no-startup-window
+  ClipboardFusion - "C:\Program Files (x86)\ClipboardFusion\ClipboardFusion.exe"
+  RoboForm - "C:\Program Files (x86)\Siber Systems\AI RoboForm\RoboTaskBarIcon.exe"
+  CCleaner Monitoring - "C:\Program Files\CCleaner\CCleaner64.exe" /MONITOR
+  Directory Opus Desktop Dblclk - "C:\Program Files\GPSoftware\Directory Opus\dopusrt.exe" /dblclk
+  SmartInspect Console - C:\Program Files (x86)\Gurock Software\SmartInspect Professional\SmartInspectConsole.exe /AutoStart
+  Spotify Web Helper - "C:\Users\eric\AppData\Roaming\Spotify\Data\SpotifyWebHelper.exe"
+  Spotify - "C:\Users\eric\AppData\Roaming\Spotify\spotify.exe" /uri spotify:autostart
+  Amazon Music - "C:\Users\eric\AppData\Local\Amazon Music\Amazon Music Helper.exe"
+  Skype - "C:\Program Files (x86)\Skype\Phone\Skype.exe" /minimized /regrun
+  GarminExpressTrayApp - "C:\Program Files (x86)\Garmin\Express Tray\ExpressTray.exe"
+  DisplayFusion - "C:\Program Files (x86)\DisplayFusion\DisplayFusion.exe"
+
+Software\Microsoft\Windows\CurrentVersion\Run has no subkeys.
+
+Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Run not found.
+
+Software\Microsoft\Windows\CurrentVersion\RunOnce
+LastWrite Time 2014-11-06 17:17:42Z
+Software\Microsoft\Windows\CurrentVersion\RunOnce has no values.
+Software\Microsoft\Windows\CurrentVersion\RunOnce has no subkeys.
+
+Software\Microsoft\Windows\CurrentVersion\RunServices not found.
+
+Software\Microsoft\Windows\CurrentVersion\RunServicesOnce not found.
+
+Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Run not found.
+
+Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\RunOnce not found.
+
+Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run not found.
+
+Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run not found.
+
+Software\Microsoft\Windows\CurrentVersion\StartupApproved\Run not found.
+
+Software\Microsoft\Windows\CurrentVersion\StartupApproved\Run32 not found.
+
+Software\Microsoft\Windows\CurrentVersion\StartupApproved\StartupFolder not found.
+
+----------------------------------------
+runmru v.20200525
+(NTUSER.DAT) Gets contents of user's RunMRU key
+
+RunMru
+Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU
+LastWrite Time 2014-05-20 14:26:30Z
+Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU has no values.
+----------------------------------------
+runvirtual v.20200427
+(NTUSER.DAT, Software) Gets RunVirtual entries
+
+----------------------------------------
+searchscopes v.20200517
+- Gets contents of user's SearchScopes key
+
+SearchScopes
+Software\Microsoft\Internet Explorer\SearchScopes
+DefaultScope: {0633EE93-D776-472f-A0FF-E1416B8B2E3A}
+
+{0633EE93-D776-472f-A0FF-E1416B8B2E3A} [2014-10-22 14:50:04Z]
+DisplayName: Bing
+
+----------------------------------------
+sevenzip v.20210329
+- Gets records of histories from 7-Zip keys
+
+FM LastWrite: [2014-11-25 18:14:02Z]
+
+Compression LastWrite: [2014-09-18 15:05:50Z]
+
+FM\PanelPath0: C:\Users\eric\AppData\Local\Temp\
+
+Compression\ArcHistory:
+  osTriage2RunToExtract.exe
+  osTriage2.exe
+  HashesOfInterestRoundUp20140915.zip
+  HashesOfInterestInfohash20140915.zip
+  Keywords CP.zip
+  Keywords CP.7z
+  
+Extraction\PathHistory:
+FM\CopyHistory:
+  C:\ProjectWorkingFolder\ShellBagsExplorer\test data\
+  C:\Users\eric\Desktop\
+  D:\Forensics\
+  C:\Windows\System32\
+  D:\
+  C:\Users\eric\Desktop\e\
+  C:\temp\
+  
+
+FM\FolderHistory:
+  C:\Users\eric\AppData\Local\Temp\Cannot Parse.zip\Cannot Parse\
+  C:\Users\eric\AppData\Local\Temp\Cannot Parse.zip\
+  C:\Users\eric\Desktop\TimeLord.zip\
+  C:\Users\eric\Desktop\RobustHash_Latest.zip\RobustHash\Hash\
+  C:\Users\eric\Desktop\RobustHash_Latest.zip\RobustHash\
+  C:\Users\eric\Desktop\RobustHash_Latest.zip\
+  C:\Users\eric\Desktop\xw_forensics1800-preview8.zip\
+  C:\Users\eric\AppData\Local\Temp\Item103.zip\
+  C:\Users\eric\Desktop\Simple Drag And Drop Between Two Grids.zip\Simple Drag And Drop Between Two Grids\
+  C:\Users\eric\Desktop\Simple Drag And Drop Between Two Grids.zip\
+  C:\Users\eric\Desktop\PatchGuard 3 Source Code.zip\PG3Disable\Pg\
+  C:\Users\eric\Desktop\PatchGuard 3 Source Code.zip\PG3Disable\
+  C:\Users\eric\Desktop\PatchGuard 3 Source Code.zip\
+  C:\ProjectWorkingFolder\GOON2\ErdelyDump\bin\Debug\roundUpGigaDump.zip\
+  C:\Users\eric\Desktop\volatility-2.4.zip\volatility-2.4\volatility\plugins\
+  C:\Users\eric\Desktop\volatility-2.4.zip\volatility-2.4\volatility\plugins\gui\
+  C:\Users\eric\Desktop\volatility-2.4.zip\volatility-2.4\volatility\plugins\malware\
+  C:\Users\eric\Desktop\volatility-2.4.zip\volatility-2.4\volatility\plugins\registry\
+  C:\Users\eric\Desktop\volatility-2.4.zip\volatility-2.4\volatility\
+  C:\Users\eric\Desktop\volatility-2.4.zip\volatility-2.4\
+  C:\Users\eric\Desktop\volatility-2.4.zip\
+  C:\Users\eric\Desktop\volatility-2.4.zip\volatility-2.4\contrib\
+  C:\Users\eric\Desktop\volatility-2.4.zip\volatility-2.4\contrib\plugins\
+  C:\Users\eric\Desktop\volatility-2.4.zip\volatility-2.4\contrib\plugins\malware\
+  C:\Users\eric\Desktop\volatility-2.4.zip\volatility-2.4\contrib\plugins\aspaces\
+  C:\Users\eric\Desktop\PeStudio841.zip\
+  C:\Users\eric\Desktop\LINQPad4-AnyCPU.zip\
+  C:\Users\eric\Desktop\UsrClass (1).rar\
+  C:\Users\eric\Desktop\phpBB-3.1.0-RC6-files.zip\
+  C:\Users\eric\Desktop\phpBB-3.1.0-RC6-files.zip\phpBB-3.1.0-RC5_to_3.1.0-RC6.zip\
+  C:\Users\eric\Desktop\phpBB-3.1.0-RC6-files.zip\phpBB-3.1.0-RC5_to_3.1.0-RC6.zip\phpbb\
+  C:\Users\eric\Desktop\phpBB-3.1.0-RC6-files.zip\phpBB-3.1.0-RC5_to_3.1.0-RC6.zip\phpbb\db\
+  C:\Users\eric\Desktop\phpBB-3.1.0-RC6-files.zip\phpBB-3.1.0-RC5_to_3.1.0-RC6.zip\phpbb\db\migration\
+  C:\Users\eric\Desktop\phpBB-3.1.0-RC6-files.zip\phpBB-3.1.0-RC5_to_3.1.0-RC6.zip\phpbb\db\migration\data\
+  C:\Users\eric\Desktop\phpBB-3.1.0-RC6-files.zip\phpBB-3.1.0-RC5_to_3.1.0-RC6.zip\phpbb\db\migration\data\v310\
+  C:\Users\eric\Desktop\phpBB-3.1.0-RC6-files.zip\docs\
+  C:\Users\eric\Desktop\phpBB-3.1.0-RC6-files.zip\install\
+  C:\Users\eric\Desktop\update_3.1.0-RC5_to_3.1.0-RC6.zip\phpbb\db\migration\data\v310\
+  C:\Users\eric\Desktop\update_3.1.0-RC5_to_3.1.0-RC6.zip\phpbb\db\migration\data\
+  C:\Users\eric\Desktop\update_3.1.0-RC5_to_3.1.0-RC6.zip\phpbb\db\migration\
+  C:\Users\eric\Desktop\update_3.1.0-RC5_to_3.1.0-RC6.zip\phpbb\db\
+  C:\Users\eric\Desktop\update_3.1.0-RC5_to_3.1.0-RC6.zip\phpbb\
+  C:\Users\eric\Desktop\update_3.1.0-RC5_to_3.1.0-RC6.zip\
+  C:\Users\eric\Desktop\
+  C:\Users\eric\Desktop\KnTToolsEnterprise--2.3.0.2898d.zip\KnTToolsEnterprise\
+  C:\Users\eric\Desktop\KnTToolsEnterprise--2.3.0.2898d.zip\
+  C:\Users\eric\Desktop\20140827072529_Hellewell_1a237b63-505b-4563-afc4-f39b374e7812.zip\20140827072529_Hellewell_1a237b63-505b-4563-afc4-f39b374e7812\Files from Dell desktop Room K\
+  C:\Users\eric\Desktop\20140827072529_Hellewell_1a237b63-505b-4563-afc4-f39b374e7812.zip\20140827072529_Hellewell_1a237b63-505b-4563-afc4-f39b374e7812\
+  C:\Users\eric\Desktop\20140827072529_Hellewell_1a237b63-505b-4563-afc4-f39b374e7812.zip\
+  C:\Users\eric\Desktop\mimikatz_trunk.7z\
+  C:\Users\eric\Desktop\Autoruns.zip\
+  C:\Users\eric\Desktop\EDA2020F-D026-4C8E-902B-AA83A7E39B1E.zip\
+  C:\Users\eric\Desktop\Parse-Evtx-current.zip\Parse-Evtx-1.1.1\
+  C:\Users\eric\Desktop\Parse-Evtx-current.zip\Parse-Evtx-1.1.1\lib\
+  C:\Users\eric\Desktop\Parse-Evtx-current.zip\Parse-Evtx-1.1.1\lib\Parse\
+  C:\Users\eric\Desktop\Parse-Evtx-current.zip\
+  C:\Users\eric\Desktop\evtx_view32.v.0.78.win.zip\
+  C:\Users\eric\AppData\Local\Temp\IncidentResponse2-1.zip\IncidentResponse2\
+  C:\Users\eric\AppData\Local\Temp\IncidentResponse2-1.zip\IncidentResponse2\prwua13systemlogimages\
+  C:\Users\eric\AppData\Local\Temp\IncidentResponse2-1.zip\
+  C:\Users\eric\AppData\Local\Temp\Incident Response.zip\Incident Response\
+  C:\Users\eric\AppData\Local\Temp\Incident Response.zip\
+  C:\Users\eric\Desktop\elex.zip\
+  C:\Users\eric\Desktop\rrv2.8.zip\
+  C:\Users\eric\Desktop\graphviz-2.38.zip\release\bin\
+  C:\Users\eric\Desktop\graphviz-2.38.zip\release\
+  C:\Users\eric\Desktop\graphviz-2.38.zip\
+  C:\Users\eric\Desktop\gpg4win-light-2.2.2.exe\
+  C:\Users\eric\Desktop\gpg4win-light-2.2.2.exe\bin\
+  C:\Users\eric\Desktop\gpg4win-light-2.2.2.exe\pub\
+  C:\Users\eric\Desktop\SIFT Workstation 3.0.7z\
+  C:\Users\eric\Desktop\IgniteUI_20142_PlatformInstaller.zip\
+  C:\Users\eric\Desktop\UnxUtils.zip\usr\local\wbin\
+  C:\Users\eric\Desktop\UnxUtils.zip\usr\local\
+  C:\Users\eric\Desktop\UnxUtils.zip\usr\local\share\
+  C:\Users\eric\Desktop\UnxUtils.zip\usr\local\lib\
+  C:\Users\eric\Desktop\UnxUtils.zip\usr\local\include\
+  C:\Users\eric\Desktop\UnxUtils.zip\usr\
+  C:\Users\eric\Desktop\UnxUtils.zip\
+  C:\Users\eric\Desktop\UnxUtils.zip\bin\
+  C:\Users\eric\Desktop\volatility_2.4.win.standalone.zip\
+  D:\Dropbox (Personal)\emule\config.rar\
+  D:\Dropbox (Personal)\EMIHash.zip\
+  C:\Users\eric\Desktop\aaaaaaaaaaa.zip\
+  C:\Users\eric\AppData\Local\Temp\hive 2.zip\
+  C:\Users\eric\AppData\Local\Temp\UsrClass-3.zip\
+  C:\Users\eric\Desktop\Windows_Protocols.zip\
+  C:\Users\eric\AppData\Local\Temp\UsrClass.dat0-1.zip\
+  C:\Users\eric\AppData\Local\Temp\usrClass-2.zip\
+  C:\Users\eric\AppData\Local\Temp\
+  C:\Users\eric\AppData\Local\Temp\usrClass-2.zip\win7\
+  C:\Users\eric\AppData\Local\Temp\usrClass-2.zip\others\
+  C:\Users\eric\AppData\Local\Temp\hive.zip\
+  C:\Users\eric\AppData\Local\Temp\UsrClass.zip\
+  C:\Users\eric\AppData\Local\Temp\UsrClass.dat.zip\
+  D:\Dropbox (Personal)\temp\osTriage2RunToExtract.exe\osTriage2\
+  D:\Dropbox (Personal)\temp\osTriage2RunToExtract.exe\
+  D:\Dropbox (Personal)\temp\osTriage2RunToExtractNonLE.exe\osTriage2\Plugins\
+  D:\Dropbox (Personal)\temp\osTriage2RunToExtractNonLE.exe\osTriage2\Plugins\BitTorrent\
+  D:\Dropbox (Personal)\temp\osTriage2RunToExtractNonLE.exe\osTriage2\
+  
+Software\Wow6432Node\7-Zip not found.
+----------------------------------------
+shc v.20200427
+(NTUSER.DAT) Gets SHC entries from user hive
+
+Software\Microsoft\Windows\CurrentVersion\UFH\SHC
+LastWrite Time 2014-12-08 13:51:51Z
+
+6 - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\DisplayFusion\DisplayFusion Uninstall.lnk C:\Program Files (x86)\DisplayFusion\unins000.exe 
+7 - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Malwarebytes Anti-Malware\Malwarebytes Anti-Malware.lnk C:\Program Files (x86)\Malwarebytes Anti-Malware\mbam.exe 
+8 - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Malwarebytes Anti-Malware\Uninstall Malwarebytes Anti-Malware.lnk C:\Program Files (x86)\Malwarebytes Anti-Malware\unins000.exe 
+9 - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Infragistics\2014.2\Windows Forms\AppStylist for Windows Forms 2014.2.lnk C:\Program Files (x86)\Infragistics\2014.2\Windows Forms\AppStylist for Windows Forms\Infragistics4.Win.AppStylist.v14.2.exe 
+10 - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Infragistics\2014.2\Windows Forms\Utilities\Create Visual Studio Toolbox Tab for Windows Forms CLR4.0 2014.2.lnk C:\Program Files (x86)\Infragistics\2014.2\Windows Forms\Toolbox Utility\ToolboxUtilityCommandLine.exe /productversion:14.2 /productname:Win /clr:CLR40 /template:"Templates\WinForms_Default_CLR40.xml" /prompt
+11 - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Red Gate\.NET Reflector 8.4.lnk C:\Program Files (x86)\Red Gate\.NET Reflector\Desktop 8.3\Reflector.exe 
+----------------------------------------
+shellfolders v.20200515
+Gets user's shell folders values
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders
+LastWrite Time 2014-05-20 14:19:40Z
+StartUp folder : C:\Users\eric\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+LastWrite Time 2014-05-20 14:19:35Z
+StartUp folder : %USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+----------------------------------------
+speech v.20200427
+(NTUSER.DAT) Get values from user's Speech key
+
+Software\Microsoft\Speech
+----------------------------------------
+SysInternals
+Software\SysInternals
+LastWrite Time 2014-05-29 13:06:41Z
+AutoRuns [2014-10-17 14:50:22Z]
+  EulaAccepted: 1
+
+Process Explorer [2014-10-24 17:23:24Z]
+  EulaAccepted: 1
+
+ZoomIt [2014-05-21 14:01:50Z]
+  EulaAccepted: 1
+
+----------------------------------------
+Launching tsclient v.20200518
+(NTUSER.DAT) Displays contents of user's Terminal Server Client\Default key
+
+TSClient
+Software\Microsoft\Terminal Server Client\Default
+LastWrite Time 2014-11-29 18:06:33Z
+  MRU0 -> SU-SVR02
+  MRU1 -> GOON-pc.su.local
+  MRU2 -> SU-SVR03
+  MRU3 -> SU-BAK02
+  MRU4 -> SU-SVR01
+
+Software\Microsoft\Terminal Server Client\Servers
+LastWrite time 2014-11-04 13:50:22Z
+
+GOON-pc.su.local  LastWrite time: 2014-05-28 22:32:08Z
+  UsernameHint: SU\eric
+SU-BAK02  LastWrite time: 2014-11-03 19:58:11Z
+  UsernameHint: SU\administrator
+SU-SVR01  LastWrite time: 2014-07-11 17:05:40Z
+  UsernameHint: SU\administrator
+SU-SVR02  LastWrite time: 2014-07-02 14:40:09Z
+  UsernameHint: SU\administrator
+SU-SVR03  LastWrite time: 2014-05-27 21:33:06Z
+  UsernameHint: su\administrator
+SU-SVR05  LastWrite time: 2014-11-04 13:50:22Z
+  UsernameHint: su\administrator
+
+----------------------------------------
+typedpaths v.20200526
+(NTUSER.DAT) Gets contents of user's typedpaths key
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\TypedPaths
+LastWrite Time 2014-11-28 16:53:44Z
+
+url1     D:\                           
+url2     ftp://ftp.es.kde.org/         
+url3     ftp://ftp.arxsys.fr/          
+url4     ftp://ftp.freshrpms.net/      
+url5     ftp://ftp.swfwmd.state.fl.us/pub/
+url6     Y:\                           
+url7     C:\ProjectWorkingFolder\ShellBagsExplorer
+url8     C:\                           
+url9     This PC                       
+url10    C:\ProjectWorkingFolder\Hasher\trunk\Hasher\bin
+url11    C:\ProjectWorkingFolder\Hasher\trunk
+url12    C:\temp                       
+url13    Recycle Bin                   
+url14    C:\ProjectWorkingFolder\GOON2\packages\ServiceStack.Client.4.0.24\lib\net40
+url15    I:\ProgramData\Application Data
+----------------------------------------
+typedurls v.20200526
+(NTUSER.DAT) Returns contents of user's TypedURLs key.
+
+TypedURLs
+Software\Microsoft\Internet Explorer\TypedURLs
+LastWrite Time 2014-11-18 18:10:06Z
+  url1 -> https://store.kaspersky.com/
+  url2 -> https://store.kaspersky.com/store/
+  url3 -> https://store.kaspersky.com/store?Action=DisplaySelfServiceSubscriptionLandingPage&Locale=en_US&SiteID=kasperus&futureAction=DisplayAddEditPaymentPage&subscriptionID=2388932709
+  url4 -> http://direct.mikestammer.com/websvn/
+  url5 -> https://mikestammer.com/websvn/
+  url6 -> https://direct.mikestammer.com/websvn/
+  url7 -> https://products.geotrust.com/orders/orderinformation/information.do?pin=Is7MxxKUpmeXI8P2e6BUSMVWWQ5oNnpQdIdlooV2VVMjHEmiqN8GVfRuAoU7bjx6S5%2FhpLkZVDRDaTzHc8EUlIRyY8sUTNoGS8edK42hoZA%3D
+  url8 -> http://rapidssl.com/
+  url9 -> http://rapidssl.org/
+  url10 -> http://feeble-industries.com/forums
+  url11 -> http://www.amazon.com/SanDisk-Extreme-Flash-Drive-SDCZ88-128G-G46/dp/B00HR7FWUC/ref=sr_1_3?s=pc&ie=UTF8&qid=1414004930&sr=1-3&keywords=SanDisk+Extreme+PRO
+  url12 -> https://www.324mail.com/owa
+  url13 -> http://www.nirsoft.net/
+  url14 -> http://www.nirsoft.net/utils/webbrowserpassview.zip
+  url15 -> http://www.microsoftstore.com/store/msusa/en_US/list/Accessories/parentCategoryID.66734700/categoryID.63338500
+  url16 -> http://www.gartforvets.org/
+  url17 -> http://gartforvets.org/
+  url18 -> http://deportesenvivo.univision.com/game/usa-at-blgica-on-20140701
+  url19 -> http://ultraedit.com/
+  url20 -> http://gmail.com/
+  url21 -> http://google.com/
+  url22 -> http://go.microsoft.com/fwlink/p/?LinkId=255141
+----------------------------------------
+typedurlstime v.20200526
+(NTUSER.DAT) Returns contents of user's TypedURLsTime key.
+
+TypedURLsTime
+Software\Microsoft\Internet Explorer\TypedURLsTime
+LastWrite Time 2014-11-18 18:10:06Z
+  url1 -> 2014-11-18 18:10:06Z (https://store.kaspersky.com/)
+  url2 -> 2014-11-18 18:10:03Z (https://store.kaspersky.com/store/)
+  url3 -> 2014-11-18 18:05:04Z (https://store.kaspersky.com/store?Action=DisplaySelfServiceSubscriptionLandingPage&Locale=en_US&SiteID=kasperus&futureAction=DisplayAddEditPaymentPage&subscriptionID=2388932709)
+  url4 -> 2014-11-05 21:17:00Z (http://direct.mikestammer.com/websvn/)
+  url5 -> 2014-10-23 20:03:07Z (https://mikestammer.com/websvn/)
+  url6 -> 2014-10-23 19:59:38Z (https://direct.mikestammer.com/websvn/)
+  url7 -> 2014-10-23 14:33:46Z (https://products.geotrust.com/orders/orderinformation/information.do?pin=Is7MxxKUpmeXI8P2e6BUSMVWWQ5oNnpQdIdlooV2VVMjHEmiqN8GVfRuAoU7bjx6S5%2FhpLkZVDRDaTzHc8EUlIRyY8sUTNoGS8edK42hoZA%3D)
+  url8 -> 2014-10-23 14:33:10Z (http://rapidssl.com/)
+  url9 -> 2014-10-23 14:33:03Z (http://rapidssl.org/)
+  url10 -> 2014-10-22 20:39:51Z (http://feeble-industries.com/forums)
+  url11 -> 2014-10-22 19:09:57Z (http://www.amazon.com/SanDisk-Extreme-Flash-Drive-SDCZ88-128G-G46/dp/B00HR7FWUC/ref=sr_1_3?s=pc&ie=UTF8&qid=1414004930&sr=1-3&keywords=SanDisk+Extreme+PRO)
+  url12 -> 2014-10-10 20:41:23Z (https://www.324mail.com/owa)
+  url13 -> 2014-08-20 13:39:58Z (http://www.nirsoft.net/)
+  url14 -> 2014-08-20 13:39:53Z (http://www.nirsoft.net/utils/webbrowserpassview.zip)
+  url15 -> 2014-08-04 21:28:44Z (http://www.microsoftstore.com/store/msusa/en_US/list/Accessories/parentCategoryID.66734700/categoryID.63338500)
+  url16 -> 2014-07-11 20:03:05Z (http://www.gartforvets.org/)
+  url17 -> 2014-07-10 15:52:27Z (http://gartforvets.org/)
+  url18 -> 2014-07-01 19:21:59Z (http://deportesenvivo.univision.com/game/usa-at-blgica-on-20140701)
+  url19 -> 2014-06-27 19:11:19Z (http://ultraedit.com/)
+  url20 -> 2014-06-27 15:01:24Z (http://gmail.com/)
+  url21 -> 2014-05-20 14:22:22Z (http://google.com/)
+  url22 -> 0
+----------------------------------------
+uninstall v.20200525
+(Software, NTUSER.DAT) Gets contents of Uninstall keys from Software, NTUSER.DAT hives
+
+Uninstall
+Software\Microsoft\Windows\CurrentVersion\Uninstall
+
+2014-12-08 15:00:15Z
+  GitHub v.2.6.4.1
+
+2014-11-29 23:12:16Z
+  GoToMeeting 7.0.4.2033 v.7.0.4.2033
+
+2014-11-24 20:41:39Z
+  JetBrains dotPeek 1.3 EAP 8 v.1
+
+2014-11-24 20:41:10Z
+  JetBrains Products in Visual Studio 2013 v.1
+
+2014-11-19 20:48:07Z
+  TimeLord v.0.1.5.6
+
+2014-11-17 14:33:05Z
+  JetBrains products in Visual Studio 2010 v.1
+
+2014-10-23 16:43:18Z
+  Amazon Music v.3.6.0.671
+
+2014-10-16 16:04:41Z
+  Dropbox v.2.10.41
+
+2014-10-14 13:08:30Z
+  Spotify v.0.9.14.13.gba5645ad
+
+2014-10-14 13:01:11Z
+  µTorrent v.3.4.2.34727
+
+2014-09-17 21:20:36Z
+  Intelligence Agent v.2.5.0.93
+
+----------------------------------------
+UserAssist
+Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist
+LastWrite Time 2014-05-20 14:31:27Z
+
+UNKBE9
+----------------------------------------
+wc_shares v.20200515
+- Gets contents of user's WorkgroupCrawler/Shares subkeys
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\WorkgroupCrawler\Shares not found.
+----------------------------------------
+winrar v.20200526
+(NTUSER.DAT) Get WinRAR\ArcHistory entries
+
+WinRAR
+Software\WinRAR\ArcHistory
+LastWrite Time 2014-09-12 22:46:59Z
+
+0 -> C:\Users\eric\Desktop\crark34-linux-opencl.rar
+1 -> C:\Users\eric\Desktop\crark50-ocl.rar
+----------------------------------------
+winscp v.20201227
+(NTUSER.DAT) Gets user's WinSCP 2 data
+
+Software\Martin Prikryl\WinSCP 2 not found.
+----------------------------------------
+winzip v.20200526
+(NTUSER.DAT) Get WinZip extract and filemenu values
+
+Software\Nico Mak Computing\WinZip not found.
+----------------------------------------
+wordwheelquery v.20200823
+(NTUSER.DAT) Gets contents of user's WordWheelQuery key
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\WordWheelQuery
+LastWrite Time 2014-10-05 20:08:26Z
+
+Searches listed in MRUListEx order
+
+5    *.jpg                         
+6    *.inf                         
+4    *.sex                         
+3    ross is a tool                
+2    shitbox surprise              
+1    pumpkin hammer                
+0    wizzo                         
+----------------------------------------
